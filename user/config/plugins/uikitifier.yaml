@@ -1,0 +1,35 @@
+enabled: true
+always_load: true
+mode: staging
+load_uikit: true
+style: gradient
+customizer:
+  enabled: false
+  name: null
+load_all: false
+load_component_accordion: true
+load_component_autocomplete: false
+load_component_cover: false
+load_component_datepicker: false
+load_component_dotnav: false
+load_component_form_advanced: false
+load_component_form_file: false
+load_component_form_password: false
+load_component_form_select: false
+load_component_grid: false
+load_component_htmleditor: false
+load_component_lightbox: false
+load_component_nestable: false
+load_component_notify: false
+load_component_pagination: false
+load_component_placeholder: false
+load_component_progress: false
+load_component_search: false
+load_component_slideshow: false
+load_component_slideshow-fx: false
+load_component_slidenav: false
+load_component_sortable: false
+load_component_sticky: false
+load_component_timepicker: false
+load_component_tooltip: false
+load_component_upload: false

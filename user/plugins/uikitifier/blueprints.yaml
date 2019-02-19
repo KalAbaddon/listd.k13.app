@@ -1,0 +1,318 @@
+name: Uikitifier
+version: 0.3.0
+description: "Loads UIKit v2.24.3 by Yootheme"
+icon: gears
+author:
+  name: Daniel James
+  email: danieljames@chiefqualakon.net
+  url: http://www.khanduras.net
+homepage: https://github.com/khanduras/grav-plugin-uikitifier
+demo: http://chiefqualakon.net/
+keywords: uikit, css, js, plugin, framework
+bugs: https://github.com/khanduras/grav-plugin-uikitifier/issues
+license: MIT
+
+form:
+  validation: loose
+  fields:
+    enabled:
+      type: toggle
+      label: Plugin status
+      highlight: true
+      default: false
+      options:
+        true: Enabled
+        false: Disabled
+      validate:
+        type: bool
+    mode:
+      type: toggle
+      label: Production Mode
+      options:
+        production: Production
+        staging: Staging
+      validate:
+        type: string
+    load_uikit:
+      type: toggle
+      label: Load UI Kit?
+      highlight: true
+      default: true
+      options:
+        true: Yes
+        false: No
+      validate:
+        type: bool
+    style:
+      type: toggle
+      label: Style
+      options:
+        flat: Flat
+        almost-flat: Almost-Flat
+        gradient: Gradient
+      validate:
+        type: string
+    cover_section:
+      type: section
+      title: Components
+      underline: true
+    load_component_accordion:
+      type: toggle
+      label: Accordion
+      highlight: true
+      default: false
+      options:
+        true: Yes
+        false: No
+      validate:
+        type: bool
+    load_component_autocomplete:
+      type: toggle
+      label: Autocomplete
+      highlight: true
+      default: false
+      options:
+        true: Yes
+        false: No
+      validate:
+        type: bool
+    load_component_cover:
+      type: toggle
+      label: Cover
+      highlight: true
+      default: false
+      options:
+        true: Yes
+        false: No
+      validate:
+        type: bool
+    load_component_datepicker:
+      type: toggle
+      label: Date Picker
+      highlight: true
+      default: false
+      options:
+        true: Yes
+        false: No
+      validate:
+        type: bool
+    load_component_dotnav:
+      type: toggle
+      label: Dot Nav
+      highlight: true
+      default: false
+      options:
+        true: Yes
+        false: No
+      validate:
+        type: bool
+    load_component_form_advanced:
+      type: toggle
+      label: Form Advanced
+      highlight: true
+      default: false
+      options:
+        true: Yes
+        false: No
+      validate:
+        type: bool
+    load_component_form_file:
+      type: toggle
+      label: Form File
+      highlight: true
+      default: false
+      options:
+        true: Yes
+        false: No
+      validate:
+        type: bool
+    load_component_form_password:
+      type: toggle
+      label: Form Password
+      highlight: true
+      default: false
+      options:
+        true: Yes
+        false: No
+      validate:
+        type: bool
+    load_component_form_select:
+      type: toggle
+      label: Form Select
+      highlight: true
+      default: false
+      options:
+        true: Yes
+        false: No
+      validate:
+        type: bool
+    load_component_grid:
+      type: toggle
+      label: Grid
+      highlight: true
+      default: false
+      options:
+        true: Yes
+        false: No
+      validate:
+        type: bool
+    load_component_htmleditor:
+      type: toggle
+      label: HTML Editor
+      highlight: true
+      default: false
+      options:
+        true: Yes
+        false: No
+      validate:
+        type: bool
+    load_component_lightbox:
+      type: toggle
+      label: Lightbox
+      highlight: true
+      default: false
+      options:
+        true: Yes
+        false: No
+      validate:
+        type: bool
+    load_component_nestable:
+      type: toggle
+      label: Nestable
+      highlight: true
+      default: false
+      options:
+        true: Yes
+        false: No
+      validate:
+        type: bool
+    load_component_notify:
+      type: toggle
+      label: Notify
+      highlight: true
+      default: false
+      options:
+        true: Yes
+        false: No
+      validate:
+        type: bool
+    load_component_pagination: 
+      type: toggle
+      label: Pagination
+      highlight: true
+      default: false
+      options:
+        true: Yes
+        false: No
+      validate:
+        type: bool
+    load_component_placeholder:
+      type: toggle
+      label: Placeholder
+      highlight: true
+      default: false
+      options:
+        true: Yes
+        false: No
+      validate:
+        type: bool
+    load_component_progress:
+      type: toggle
+      label: Progress
+      highlight: true
+      default: false
+      options:
+        true: Yes
+        false: No
+      validate:
+        type: bool
+    load_component_search:
+      type: toggle
+      label: Search
+      highlight: true
+      default: false
+      options:
+        true: Yes
+        false: No
+      validate:
+        type: bool
+    load_component_slideshow:
+      type: toggle
+      label: Slideshow
+      highlight: true
+      default: false
+      options:
+        true: Yes
+        false: No
+      validate:
+        type: bool
+    load_component_slideshow-fx:
+      type: toggle
+      label: Slideshow FX
+      highlight: true
+      default: false
+      options:
+        true: Yes
+        false: No
+      validate:
+        type: bool
+    load_component_slidenav:
+      type: toggle
+      label: Slidenav
+      highlight: true
+      default: false
+      options:
+        true: Yes
+        false: No
+      validate:
+        type: bool
+    load_component_sortable:
+      type: toggle
+      label: Sortable
+      highlight: true
+      default: false
+      options:
+        true: Yes
+        false: No
+      validate:
+        type: bool
+    load_component_sticky:
+      type: toggle
+      label: Sticky
+      highlight: true
+      default: false
+      options:
+        true: Yes
+        false: No
+      validate:
+        type: bool
+    load_component_timepicker:
+      type: toggle
+      label: Time Picker
+      highlight: true
+      default: false
+      options:
+        true: Yes
+        false: No
+      validate:
+        type: bool
+    load_component_tooltip:
+      type: toggle
+      label: Tooltip
+      highlight: true
+      default: false
+      options:
+        true: Yes
+        false: No
+      validate:
+        type: bool
+    load_component_upload:
+      type: toggle
+      label: Upload
+      highlight: true
+      default: false
+      options:
+        true: Yes
+        false: No
+      validate:
+        type: bool

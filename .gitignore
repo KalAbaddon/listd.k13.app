@@ -1,0 +1,29 @@
+# Grav Specific
+.sass-cache
+composer.lock
+cache/*
+!cache/.gitkeep
+assets/*
+!assets/.gitkeep
+logs/*
+!logs/.gitkeep
+images/*
+!images/.gitkeep
+user/data/*
+!user/data/.gitkeep
+backup/*
+!backup/.gitkeep
+user/accounts/*
+!user/accounts/.gitkeep
+
+# OS Generated
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+*.swp
+
+# local cofig and security
+user/localhost/config/security.yaml
+user/config/security.yaml
+user/config/plugins/email.yaml
