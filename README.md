@@ -1,5 +1,6 @@
 # Hello Welcome to the GRAV CMS I configured to make checklist creation easy
 ### To add a new checklist you can send me the critical info with paste bin or github ect...
+#### thats not to say I dont plan on adding more checklists my self and soon,  its just some people are good at repetive stuff and some are not. For example if I was cleaning I could strip and wax a floor all day long and be content,  but when typing and entering code, I just find it hard to do that repetive stuff like copy a line and paste it 60 times in a row. so help in that regard is most welcome!
 
 Here is an example of how to format the data for an A-10C checklist (it is incomplete since it is an example).  
 #### the spacing in the file is important.  It is a tab or 4 spaces forward to the -. and 2 tabs or 8 spaces forward to the Details: line.
