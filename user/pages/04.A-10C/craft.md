@@ -1,13 +1,10 @@
 ---
 title: A-10C
-blog_url: A-10C
-body_classes: 'header-image fullwidth'
-
 taxonomy:
     category:
         - aircraft
-    author: KalAbaddon
-
+body_classes: 'header-image fullwidth'
+blog_url: A-10C
 content:
     items:
         - '@self.children'
@@ -16,14 +13,12 @@ content:
         dir: desc
     limit: 5
     pagination: true
-
 feed:
     description: A-10C
     limit: 10
-
 pagination: true
 ---
 
 # A-10C
 
-## If you look close you can laze for a buddy!
+## If you look really close you can laze for a buddy!
