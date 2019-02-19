@@ -21,7 +21,7 @@ checklist:
 ### _remember all the checklists can just be copieded step for step, word for word from the documents in game for each module._
 
 
-
+Below here is the orignal readme.md info from the CMS I am using GRAV,  it is what is enabling me to add checklists with such minimal formating required.  if you are looking to get in to blogging or something like it I recommend using this,  it is a little bit of a learning curve but it is a really nice pice of kit!
 
 
 # ![](https://avatars1.githubusercontent.com/u/8237355?v=2&s=50) Grav
