@@ -11,20 +11,20 @@ taxonomy:
 checklist:
     -   step: OXYGEN - Check.
         details: 'Turn OXYGEN switch ON, check for airflow in mask.<br />
-        Turn OXYGEN switch OFF, check for no airflow.'
+Turn OXYGEN switch OFF, check for no airflow.'
     -   step: VENT AIRFLOW thumbwheel - Set.
         details: Set thumbwheel to desired cockpit ventilation airflow.
     -   step: Tone VOLUME controls - Set.
         details: 
     -   step: TACAN function selector - OFF.
         details: 'Channel - Set.<br />
-    Mode switch - Set.<br />
-    VOL knob - Counterclockwise.'
+Mode switch - Set.<br />
+VOL knob - Counterclockwise.'
     
     -   step: ICS panel - Set.
         details: 'VOL knob - As desired.<br />
-    Amplifier - NORM.<br />
-    Function selector - COLD MIC.'
+Amplifier - NORM.<br />
+Function selector - COLD MIC.'
     
     -   step: STAB AUG switches - OFF.
         details: 
