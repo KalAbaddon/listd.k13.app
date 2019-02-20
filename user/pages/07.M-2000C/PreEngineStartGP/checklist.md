@@ -15,8 +15,8 @@ checklist:
         details: CHECK 
     -   step: 3 NAV lights  
         details: ON  
-    -   step: 4 F2 view external preflight check - Payload & skin Done -  
-        details: Checked  
+    -   step: 4 F2 view external preflight check - Payload & skin   
+        details: Done - Checked  
     -   step: 5 Altimeter Pressure setting  
         details: SET to QFE (or QNH)  
     -   step: 6 INS (PSM panel)  
