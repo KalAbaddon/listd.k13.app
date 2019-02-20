@@ -22,24 +22,24 @@ checklist:
     -   step: 6 Canopy      
         details: CLOSED or AJAR  
     -   step: 7 INS (PSM panel)      
-        details: 'CHECK NAV & [N]' 
+        details: "CHECK NAV & [N]" 
     -   step: 8 Fuel Shut-Off Valve Switch      
         details: OPEN & Cover CLOSED  
     -   step: 9 Ignition/Vent selector      
-        details: 'G or D as req. (odd/even day)'
-    -   step: '10 Fuel pumps “G” and “D” - BP.G & BP.D caution lights '     
+        details: "G or D as req. (odd/even day)"
+    -   step: "10 Fuel pumps “G” and “D” - BP.G & BP.D caution lights"     
         details: ON - cautions OFF  
-    -   step: 11 Starting fuel pump 'POMPE DEM’ - BP warning light      
+    -   step: "11 Starting fuel pump 'POMPE DEM’ - BP warning light"      
         details: ON - warning OFF  
     -   step: 12 Starter button      
         details: PRESS 1 Sec.  
-    -   step: 13 When RPM 'N' > 10%, Throttle      
+    -   step: "13 When RPM 'N' > 10%, Throttle  "    
         details: IDLE  
-    -   step: '14 When RPM 'N' = Idle (~48%), HUILE and T7 warning lights '     
+    -   step: "14 When RPM 'N' = Idle (about 48%), HUILE and T7 warning lights"     
         details: Both OFF  
     -   step: 15 T7 temperature      
         details: CHECK < 950°C    
-    -   step: '/!\ If any incident occurs during start sequence, or Tt7 peaks > 950°C'    
+    -   step: "/!\ If any incident occurs during start sequence, or Tt7 peaks > 950°C"    
         details: ABORT START UP
 ---
 
