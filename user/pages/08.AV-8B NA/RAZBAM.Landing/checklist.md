@@ -22,8 +22,7 @@ checklist:
     -   step: 5. Brake pressure 
         details: CHECK 
     -   step: 6. Water 
-        details: AS REQUIRED <br />If water is to be used  <br />a. Water switch <br />T/O (check for RPM rise) <br />b. Throttle <br />FULL c. Check for green water flow light or W in the HUD<br />acceleration to short lift wet RPM and water quantity countdown. 
- <br />d. Water switch AS REQUIRED 
+        details: AS REQUIRED <br />If water is to be used  <br />a. Water switch <br />T/O (check for RPM rise) <br />b. Throttle <br />FULL c. Check for green water flow light or W in the HUD<br />acceleration to short lift wet RPM and water quantity countdown. <br />d. Water switch AS REQUIRED 
     -   step: 7. Warning and caution lights 
         details: CHECK 
     -   step: 8. Lights
