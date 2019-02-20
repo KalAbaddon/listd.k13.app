@@ -2,6 +2,8 @@
 title: Taxiing
 
 taxonomy:
+    craft:
+        - M-2000C
     tag:
         - checklist
         - razbam
