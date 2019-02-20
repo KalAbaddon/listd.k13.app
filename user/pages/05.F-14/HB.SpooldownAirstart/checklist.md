@@ -11,18 +11,18 @@ taxonomy:
 
 checklist:
     -   step: Throttle
-        detail: IDLE or above
+        details: IDLE or above
     -   step: If no relight occurs
     -   step: Throttle
-        detail: OFF then IDLE
+        details: OFF then IDLE
     -   step: If still no relight
     -   step: ENG MODE SELECT switch
-        detail: SEC
+        details: SEC
     -   step: Throttle
-        detail: If no start after mode switch, OFF then IDLE
+        details: If no start after mode switch, OFF then IDLE
     -   step: After successful airstart in SEC
     -   step: ENG MODE SELECT switch
-        detail: PRI if possible
+        details: PRI if possible
 ---
 
 ## F-14 Spooldown Airstart
