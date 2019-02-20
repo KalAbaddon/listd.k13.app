@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 
-.completedcheck:checked ~ .uk-accordion-title {
+.uk-accordion-title:checked  {
     opacity : 0.3;
 }
 
