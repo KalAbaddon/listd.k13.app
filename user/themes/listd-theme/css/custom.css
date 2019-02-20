@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 
-.input:checked .uk-accordion-title {
+#option1:checked .uk-accordion-title {
     opacity : 0.3;
 }
 
