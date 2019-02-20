@@ -1,13 +1,13 @@
 ---
-title: Interior-Inspection-Pilot
+title: Interior Inspection Pilot
 
 taxonomy:
     tag:
         - checklist
         - pilot f-14
-        - interior-inspection-pilot
+        - interior inspection
         - f-14
-    author: KalAbaddon
+    author: HeatBlur
 
 checklist:
     -   step: OXYGEN - Check.
@@ -118,4 +118,4 @@ checklist:
         details: 
 ---
 
-## F-14 Pilot interior-inspection
+## F-14 Pilot Interior Inspection
