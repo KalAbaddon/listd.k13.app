@@ -4,7 +4,7 @@ title: Post Engine Start with Ground Power
 taxonomy:
     tag:
         - checklist
-        - post engine start w/gp
+        - post engine start with gp
         - M-2000C
     author: KalAbaddon
 

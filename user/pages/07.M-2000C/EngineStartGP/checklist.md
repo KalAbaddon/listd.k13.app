@@ -4,7 +4,7 @@ title: Engine Start with Ground Power
 taxonomy:
     tag:
         - checklist
-        - engine start w/gp
+        - engine start with gp
         - M-2000C
     author: KalAbaddon
 

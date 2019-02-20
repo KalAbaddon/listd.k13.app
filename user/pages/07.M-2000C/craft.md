@@ -11,7 +11,7 @@ content:
     order:
         by: date
         dir: desc
-    limit: 5
+    limit: 6
     pagination: true
 feed:
     description: M-2000C
