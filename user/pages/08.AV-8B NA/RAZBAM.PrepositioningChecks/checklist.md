@@ -32,4 +32,4 @@ checklist:
 
 ## AV-8B NA Pre-positioning Checks 
 
-# Pre-positioning checks may be completed in the chocks, while taxiing, or while marshalling. 
+Pre-positioning checks may be completed in the chocks, while taxiing, or while marshalling. 
