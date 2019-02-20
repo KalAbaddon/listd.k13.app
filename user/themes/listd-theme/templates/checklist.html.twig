@@ -9,13 +9,13 @@
     {% for checklist in page.header.checklist %}
         <table class="uk-accordion-table" style="width:100%">
             <tr>
-                <td align="left" style="width:100%" style="border:thin" style="border-color:#424242">
-                    <h3 class="uk-accordion-title">{{ checklist.step }}</h3>
+                <td align="left" style="width:100%">
+                    <h3 class="uk-accordion-title" style="border:thin">{{ checklist.step }}</h3>
                 </td>
                 <td align="right">
                     <div class="btn-group btn-group-toggle" data-toggle="buttons">
                         <label class="btn btn-sm btn-outline-success">
-                            <input type="checkbox" name="options" id="option1" autocomplete="off"> =+DONE+=
+                            <input type="checkbox" name="options" id="option1" autocomplete="off"> DONE
                         </label>
                         
                     </div>
