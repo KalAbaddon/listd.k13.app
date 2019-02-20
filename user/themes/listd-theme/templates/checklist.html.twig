@@ -9,20 +9,20 @@
     {% for checklist in page.header.checklist %}
         <table class="uk-accordion-table" style="width:100%">
             <tr>
-                <td align="left">
+                <td align="left" style="width:100%">
                     <h3 class="uk-accordion-title">{{ checklist.step }}</h3>
                 </td>
                 <td align="right">
                     <div class="btn-group btn-group-toggle" data-toggle="buttons">
                         <label class="btn btn-sm btn-outline-success">
-                            <input type="radio" name="options" id="option1" autocomplete="off"> Done
+                            <input type="checkbox" name="options" id="option1" autocomplete="off"> DONE
                         </label>
                         
                     </div>
                 </td>
             </tr>
         </table>
-                    <div class="uk-accordion-content" style={{ checklist.contentstyle }}>{{ checklist.details }}</div>
+                    <div class="uk-accordion-content">{{ checklist.details }}</div>
 
     {% endfor %}
 
