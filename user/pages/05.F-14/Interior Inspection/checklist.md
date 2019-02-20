@@ -4,6 +4,7 @@ title: Interior-Inspection-Pilot
 taxonomy:
     tag:
         - checklist
+        - pilot f-14
         - interior-inspection-pilot
         - f-14
     author: KalAbaddon
