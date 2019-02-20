@@ -11,7 +11,7 @@ taxonomy:
 
 checklist:
     -   step: 1. CWAIVER checks  
-        details: C –  Clock SET <br />W – Weapons PROGRAMMED <br />A – ARBS BORESIGHT  <br />FLIR SET <br />I - IFF SET  <br />IR cool switch AS DESIRED <br />V –  VRS AS DESIRED <br />E –  ECM (ALE/ALQ/ALQ) SET <br />R –  RADALT SET 
+        details: C –  Clock SET <br />W – Weapons PROGRAMMED <br />A – ARBS BORESIGHT & FLIR SET <br />I - IFF SET & IR cool switch AS DESIRED <br />V –  VRS AS DESIRED <br />E –  ECM (ALE/ALQ/ALQ) SET <br />R –  RADALT SET 
     -   step: 2. Canopy 
         details: CLOSED/CHECK 
     -   step: 3. Seat 
