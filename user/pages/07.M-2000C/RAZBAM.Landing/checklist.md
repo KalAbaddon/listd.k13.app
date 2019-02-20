@@ -4,6 +4,7 @@ title: Landing
 taxonomy:
     tag:
         - checklist
+        - razbam
         - Landing
         - M-2000C
     author: RAZBAM

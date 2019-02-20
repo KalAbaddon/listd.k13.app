@@ -4,6 +4,7 @@ title: Pre Engine Start with Ground Power
 taxonomy:
     tag:
         - checklist
+        - razbam
         - Preengine start with gp
         - M-2000C
     author: RAZBAM

@@ -4,6 +4,7 @@ title: Preflight P3 Right Panel
 taxonomy:
     tag:
         - checklist
+        - razbam
         - preflight p3 right panel
         - prestart p3 right panel
         - M-2000C

@@ -4,6 +4,7 @@ title: Preflight P2 Main Panel
 taxonomy:
     tag:
         - checklist
+        - razbam
         - preflight p2 main panel
         - prestart p2 main panel
         - M-2000C

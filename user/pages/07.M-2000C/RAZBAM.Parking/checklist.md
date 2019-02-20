@@ -4,6 +4,7 @@ title: Runway Vacated
 taxonomy:
     tag:
         - checklist
+        - razbam
         - Runway Vacated
         - M-2000C
     author: RAZBAM
