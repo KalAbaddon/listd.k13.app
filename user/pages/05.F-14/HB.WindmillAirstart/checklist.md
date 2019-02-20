@@ -11,24 +11,24 @@ taxonomy:
 
 checklist:
     -   step: Airspeed
-        detail: At or above 450 KIAS
+        details: At or above 450 KIAS
     -   step: Throttle
-        detail: IDLE or above
+        details: IDLE or above
     -   step: BACK UP IGNITION switch
-        detail: ON
+        details: ON
     -   step: If no relight occurs
     -   step: Throttle
-        detail: OFF then IDLE
+        details: OFF then IDLE
     -   step: If still no relight
     -   step: ENG MODE SELECT switch
-        detail: SEC
+        details: SEC
     -   step: Throttle
-        detail: If no start after mode switch, OFF then IDLE
+        details: If no start after mode switch, OFF then IDLE
     -   step: After successful airstart
     -   step: BACK UP IGNITION switch
-        detail: OFF
+        details: OFF
     -   step: ENG MODE SELECT switch
-        detail: PRI if possible
+        details: PRI if possible
 ---
 
 ## F-14 Windmill Airstart

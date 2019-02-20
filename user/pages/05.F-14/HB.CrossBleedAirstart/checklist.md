@@ -11,30 +11,30 @@ taxonomy:
 
 checklist:
     -   step: Non-running engine throttle
-        detail: OFF
+        details: OFF
     -   step: FUEL SHUT OFF handle
-        detail: Check handle in in position
+        details: Check handle in in position
     -   step: Running engine throttle
-        detail: Minimum 80% RPM
+        details: Minimum 80% RPM
     -   step: BACK UP IGNITION switch
-        detail: ON
+        details: ON
     -   step: ENG CRANK switch
-        detail: Set to non-running engine
+        details: Set to non-running engine
     -   step: Non-running engine throttle
-        detail: IDLE immediately after ENG CRANK on
+        details: IDLE immediately after ENG CRANK on
     -   step: If no start occurs
     -   step: Non-running engine throttle
-        detail: OFF then IDLE
+        details: OFF then IDLE
     -   step: If still no start
     -   step: ENG MODE select switch
-        detail: SEC
+        details: SEC
     -   step: Non-running engine throttle
-        detail: OFF then IDLE
+        details: OFF then IDLE
     -   step: After successfull airstart
     -   step: BACK UP ignition switch
-        detail: OFF
+        details: OFF
     -   step: ENG MODE SELECT switch
-        detail: PRI if possible
+        details: PRI if possible
 ---
 
 ## F-14 Cross-Bleed Airstart
