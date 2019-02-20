@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 
-table.uk-accordion-table:checked  {
+input[type=checkbox]:checked ~ .uk-accordion-content  {
     opacity : 0.3;
 }
 
