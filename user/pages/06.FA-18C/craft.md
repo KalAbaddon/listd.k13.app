@@ -1,10 +1,10 @@
 ---
-title: F-14
+title: F/A-18C
 taxonomy:
     category:
         - aircraft
 body_classes: 'header-image fullwidth'
-blog_url: F-14
+blog_url: F/A-18C
 content:
     items:
         - '@self.children'
@@ -14,11 +14,11 @@ content:
     limit: 5
     pagination: true
 feed:
-    description: F-14
+    description: F/A-18C
     limit: 10
 pagination: true
 ---
 
-# F-14
+# F/A-18C
 
-## Not out yet and look at this checklist stolen, err copied from HB!
+## Look at me early access and all that!
