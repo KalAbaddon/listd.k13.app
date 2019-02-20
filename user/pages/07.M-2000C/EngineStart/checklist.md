@@ -29,19 +29,19 @@ checklist:
         details: ON - warning OFF  
     -   step: 10 Starter button 
         details: PRESS 1 SEC.  
-    -   step: '11 When RPM 'N' > 10%, Throttle '
+    -   step: "11 When RPM 'N' > 10%, Throttle"
         details: IDLE  
-    -   step: '12 When RPM 'N' = Idle (~48%), HUILE and T7 warning lights '
+    -   step: "12 When RPM 'N' = Idle (~48%), HUILE and T7 warning lights"
         details: CHECK Both OFF  
     -   step: 13 T7 temperature 
-        details: 'CHECK < 950Â°C  '  
-    -   step: '/!\ If any incident occurs during start sequence, or Tt7 peaks > 950°C'
+        details: "CHECK < 950Â°C"  
+    -   step: "/!\ If any incident occurs during start sequence, or Tt7 peaks > 950°C"
         details: ABORT START UP  
     -   step: 14 Alternators switches - ALT.1 & ALT.2 cautions lights 
         details: ONLINE - cautions OFF  
     -   step: 15 Normal electric converter - TR caution light 
         details: ON - caution OFF  
-    -   step: '16 Fuel pumps “G” & “D” - BP.G & BP.D caution lights'
+    -   step: "16 Fuel pumps “G” & “D” - BP.G & BP.D caution lights"
         details: ON - cautions OFF  
     -   step: 17 HYD pressure gauge - HYD.1 & HYD.2 caution lights 
         details: CHECK - cautions OFF  
