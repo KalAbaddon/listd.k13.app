@@ -25,7 +25,7 @@ checklist:
         details: OPEN & Cover CLOSED  
     -   step: 8 Ignition/Vent selector 
         details: G or D as requ. (odd/ even day)  
-    -   step: '9 Starting fuel pump 'POMPE DEM’  - BP warning light '
+    -   step: "9 Starting fuel pump 'POMPE DEM’  - BP warning light"
         details: ON - warning OFF  
     -   step: 10 Starter button 
         details: PRESS 1 SEC.  
