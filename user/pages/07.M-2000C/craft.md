@@ -22,3 +22,4 @@ pagination: true
 # M-2000C
 
 ## Wow the default checklists are nicly typed!
+### Sorting WILL FOR SURE be better,  right now its just a placeholder / prototype
