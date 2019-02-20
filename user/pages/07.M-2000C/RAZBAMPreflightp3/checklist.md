@@ -7,7 +7,7 @@ taxonomy:
         - preflight p3 right panel
         - prestart p3 right panel
         - M-2000C
-    author: KalAbaddon
+    author: RAZBAM
 
 checklist:
     -   step: 1 Alert Network (QRA)   
