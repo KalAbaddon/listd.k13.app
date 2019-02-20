@@ -23,7 +23,7 @@
 
 {% if config.plugins.taxonomylist.enabled %}
 <div class="sidebar-content">
-    <h4>{{ 'THEME_QUARK.SIDEBAR.POPULAR_TAGS.HEADLINE'|t }}</h4>
+    <h4>{{ 'THEME_QUARK.SIDEBAR.author.HEADLINE'|t }}</h4>
     {% include 'partials/taxonomylist.html.twig' with {'base_url':new_base_url, 'taxonomy':'author'} %}
 </div>
 {% endif %}
