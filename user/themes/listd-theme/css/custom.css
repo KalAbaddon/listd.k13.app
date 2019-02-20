@@ -5,10 +5,6 @@
     box-sizing: border-box;
 }
 
-input[type=checkbox]:checked + .uk-accordion-content  {
-    opacity : 0.3;
-}
-
 .modular-hero {
     background-size: cover;
     background-position-x: center;
