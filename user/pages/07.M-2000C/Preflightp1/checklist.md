@@ -1,11 +1,11 @@
 ---
-title: Preflight
+title: Preflight P1 Left Panel
 
 taxonomy:
     tag:
         - checklist
-        - preflight
-        - prestart
+        - preflight p1 left panel
+        - prestart p1 left panel
         - M-2000C
     author: KalAbaddon
 
@@ -54,5 +54,5 @@ checklist:
         details: Towards the front
 ---
 
-## M-2000C Cold Start
+## M-2000C Preflight Part 1 Left Panel
 
