@@ -5,6 +5,10 @@
     box-sizing: border-box;
 }
 
+.input:checked {
+    opacity : 0.3;
+}
+
 .modular-hero {
     background-size: cover;
     background-position-x: center;
