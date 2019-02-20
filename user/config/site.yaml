@@ -8,6 +8,7 @@ taxonomies:
   - tag
   - craft
   - author
+  - type
 metadata:
   description: 'Listd is an online checklist for DCS'
 summary:
