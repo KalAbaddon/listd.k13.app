@@ -4,9 +4,11 @@ title: Taxiing
 taxonomy:
     tag:
         - checklist
+        - razbam
         - Taxiing
         - M-2000C
-    author: KalAbaddon
+    craft: M-2000C
+    author: RAZBAM
 
 checklist:
     -   step: 1 Parking Brake    

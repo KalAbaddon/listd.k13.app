@@ -2,9 +2,13 @@ title: Listd
 default_lang: en
 author:
   name: KalAbaddon
+  email: john@example.com
 taxonomies:
   - category
   - tag
+  - craft
+  - author
+  - type
 metadata:
   description: 'Listd is an online checklist for DCS'
 summary:

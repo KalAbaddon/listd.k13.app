@@ -4,10 +4,11 @@ title: Preflight P1 Left Panel
 taxonomy:
     tag:
         - checklist
+        - razbam
         - preflight p1 left panel
         - prestart p1 left panel
         - M-2000C
-    author: KalAbaddon
+    author: RAZBAM
 
 checklist:
     -   step: 1 FBW/PA Auto test 
