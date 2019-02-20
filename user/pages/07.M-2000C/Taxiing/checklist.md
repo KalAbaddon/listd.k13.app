@@ -1,32 +1,37 @@
 ---
-title: Preflight P3 Right Panel
+title: Taxiing
 
 taxonomy:
     tag:
         - checklist
-        - preflight p3 right panel
-        - prestart p3 right panel
+        - Taxiing
         - M-2000C
     author: KalAbaddon
 
 checklist:
-    -   step: 1 Alert Network (QRA)   
-        details: Switch Off (Down position) 
-    -   step: 2 Sound warning system   
-        details: Off 
-    -   step: 3 VOR/ILS - TACAN   
-        details: Off 
-    -   step: 4 Fuel pumps   
-        details: Off 
-    -   step: 5 Ignition/vent selector   
-        details: G or D 
-    -   step: 6 Fuel Shut-Off Valve Switch   
-        details: Closed (cover open) 
-    -   step: 7 Breakers panel   
-        details: Check 
-    -   step: 8 INS   
-        details: Off
+    -   step: 1 Parking Brake    
+        details: RELEASE  
+    -   step: 2 PARK  caution light    
+        details: CHECK Off  
+    -   step: 3 Warning Sounds switch    
+        details: ON  
+    -   step: 4 Caution/Warning Lights panel*    
+        details: CHECK All Off  
+    -   step: 5 NWS    
+        details: ACTIVATE  
+    -   step: 6 DIRAV  advisory light    
+        details: ON  
+    -   step: 7 NWS Travel    
+        details: CHECK  
+    -   step: 8 Landing lights    
+        details: TAXI  
+    -   step: 9 Formation lights    
+        details: As req.  
+    -   step: 10 Radio-altimeter    
+        details: ON ('SEL H')  
+    -   step: 11 Radio-altimeter warning value ('HG')    
+        details: SET
 ---
 
-## M-2000C Preflight Part 3 Right Panel
+## M-2000C Taxiing
 
