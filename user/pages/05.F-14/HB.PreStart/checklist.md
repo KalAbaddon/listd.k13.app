@@ -1,33 +1,58 @@
 ---
-title: Prestart Pilot
+title: Engine Start Pilot
 
 taxonomy:
     tag:
         - checklist
         - pilot f-14
-        - Prestart
+        - Engine Start
         - f-14
     author: HeatBlur
 
 checklist:
-    -   step: Order plane captain to connect and apply starter air and apply external power.
-        details: Wait for confirmation.
-    -   step: If wings are not in OV SWP
-        details: WING SWEEP DRIVE NO. 1 and WG SWP DRIVE NO 2/MANUV FLAP cb’s (LE1, LE2) - Pull.<br />Emergency WINGSWEEP handle - Extend and match captain bars with wing position tape.<br />CAUTION<br />Wings will move to emergency handle position regardless ofwing-sweep circuit-breaker (cb) position.
-    -   step: ICS - Check.
-    -   step: Landing gear indicator and transition light - Check.
-        details: Check gear position indication down and transition light off.
-    -   step: MASTER TEST switch - Check.
-        details: LTS - Check that all warning, caution and advisory lights illuminate.<br />FIRE DET/EXT - Check that L and R FIRE and GO light illuminate.<br />INST - Check for following responses on instruments after 5 secs<br />RPM - 96%.<br />EGT - 960 °C.<br />FF - 10500 Pph.<br />AOA - 18±5.<br />Wing sweep - 45°±2.5°.<br />FUEL QTY - 2000±200 Pounds.<br />Oxygen quantity - 2 Liters.<br />L and R FUEL FLOW lights - Illuminated.<br />MASTER TEST switch - OFF.<br />Coordinate with RIO.<br />Set brightness of the ACM panel and indexer lights during test.<br />The DATA LINK switch must be on to check DDI lights.<br />Makes L STALL and R STALL warning lights flash.<br />Verify RIO FUEL QTY.
-    -   step: Ejection seats - Armed.
-        details: Verify RIO seats armed.
-    -   step: CANOPY handle - Close.
-    -   step: ACM panel - Set.
-        details: Gun rate - Set and check rounds remaining.<br />SW COOL - OFF.<br />MSL PREP - OFF.<br />MSL MODE - NORM.<br />Station loading status windows - Check.<br />Verify consistency with loaded armaments.
-    -   step: EMERG STORES JETT pushbutton light - Out.
-    -   step: LADDER light - Out.
-        details: Order plane captain to stow boarding ladder and steps.
-    -   step: Inform RIO - Ready to start.
+    -   step: Check AIR SOURCE switch is set to OFF.
+        details: 
+    -   step: Set HYD TRANSFER PUMP switch to OFF. (Guard up)
+    -   step: EMERG FLT HYD switch to LOW,
+        details: Check for ON flag in EMER FLT LOW hydraulic pressure window.<br />Verify control over horizontal<br />and rudder control surfaces on surface position indicator. 
+    -   step: EMERG FLT HYD switch to HIGH,
+        details: Check for ON flag in EMER FLT HI hydraulic pressure window.<br />Verify control over horizontal<br />and rudder control surfaces on surface position indicator.<br />Should have a higher deflection rate than LOW.
+    -   step: EMERG FLT HYD switch to AUTO(LOW),
+        details: Check for OFF flags in both EMER FLT LOW and HI. 
+    -   step: ENG CRANK switch to R (Right engine).
+        details: Check for oil and hydraulic pressure at roughly 20% RPM.<br />Check START/VALVE caution light indication.<br />Switch is held in position automatically by solenoid<br />until engine is at roughly 50% RPM.
+    -   step: Right throttle to IDLE at 20% RPM.
+        details: Will automatically actuate ignition system and fuel flow.<br />Light off (EGT temperature rise) should occur within 5-15 secs.<br />EGT temperature should peak around 40-50% and not exceed 890 °C<br />which constitutes a hot start.
+    -   step: Check ENG CRANK switch returns to OFF around 50% rpm
+        details: and START/VALVE caution light turns off.<br />If ENG CRANK stays at R manually set it to off before 60% rpm.<br />If START/VALVE caution light is still on, disconnect starter air.
+    -   step: Check R GEN caution light turns off.
+        details: At around 59% rpm.
+    -   step: Check R FUEL PRESS caution light turns off.
+        details: Before idle rpm.
+    -   step: Check engine idle instrument readings.
+        details: RPM - 62 to 78%.<br />EGT - 500 °C (nominal).<br />FF - 950 to 1400 Pph (nominal).<br />NOZ position - 100%.<br />OIL - 25 to 35 psi <br />nominal, 15 minimum).<br />FLT HYD PRESS - 3000 psi. 
+    -   step: Order plane captain to disconnect external electrical power. 
+    -   step: ENG CRANK switch to L (Left engine).
+        details: When combined hydraulic pressure reaches 3000 psi switch ENG CRANK back to OFF. 
+    -   step: HYD TRANSFER PUMP switch to NORMAL.
+        details: If it does not pressurize combined side within 10 secs,<br />immediately set HYD TRANSFER PUMP switch to SHUTOFF.<br />Will operate from flight side to maintain<br />combined side at between 2400-2600 psi.
+    -   step: HYD TRANSFER PUMP switch to SHUTOFF. 
+    -   step: ENG CRANK switch to L (Left engine).
+        details: Check for oil and hydraulic pressure at roughly 20% RPM.<br />Check START/VALVE caution light indication.<br />Switch is held in position automatically by solenoid<br />until engine is at roughly 50% RPM.
+    -   step: Left throttle to IDLE at 20% RPM.
+        details: Will automatically actuate ignition system and fuel flow.<br />Light off (EGT temperature rise) should occur within 5-15 secs.<br />EGT temperature should peak around 40-50% and not exceed 890 °C<br />which constitutes a hot start.
+    -   step: Check ENG CRANK switch returns to OFF around 50% rpm
+        details: and START/VALVE caution light turns off.<br />If ENG CRANK stays at L manually set it to off before 60% rpm.<br />If START/VALVE caution light is still on, disconnect starter air.
+    -   step: Check L GEN caution light turns off.
+        details: At around 59% rpm.
+    -   step: Check L FUEL PRESS caution light turns off.
+        details: Before idle rpm.
+    -   step: Check engine idle instrument readings.
+        details: RPM - 62 to 78%.<br />EGT - 500 °C (nominal).<br />FF - 950 to 1400 Pph (nominal).<br />NOZ position - 100%.<br />OIL - 25 to 35 psi (nominal, 15 minimum).<br />FLT HYD PRESS - 3000 psi. 
+    -   step: Order plane captain to disconnect starter air. 
+    -   step: Cycle AIR SOURCE switch to L ENG, R ENG, then set it to BOTH ENG.
+        details: Verify cockpit airflow at all positions.
+    -   step: HYD TRANSFER PUMP switch to NORMAL.
 ---
 
-## F-14 Pilot interior-inspection
+## F-14 Pilot Engine Start
