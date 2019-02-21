@@ -33,7 +33,6 @@ checklist:
 
 
 ## MiG-19P 
-
 Cockpit Inspection
 
 ===

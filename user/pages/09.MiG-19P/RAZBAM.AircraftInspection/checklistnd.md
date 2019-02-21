@@ -20,5 +20,7 @@ checklist:
 
 ## MiG-19P 
 Aircraft Inspection
+
 ===
+
 ОБСЛЕДОВАНИЕ САМОЛЕТА
