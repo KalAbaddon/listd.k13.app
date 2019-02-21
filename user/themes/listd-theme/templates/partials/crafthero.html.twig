@@ -2,7 +2,7 @@
     <div class="image-overlay"></div>
     <section class="container {{ grid_size }}" style="text-align: {{ page.header.hero_align|default('center') }}">
         {{ content|raw }}<br />
-        {% include 'partials/blog/taxonomy.html.twig' %}
     </section>
+    {% include 'partials/blog/taxonomy.html.twig' %}
     <i id="to-start" class="pulse fa fa-angle-down"></i>
 </section>
