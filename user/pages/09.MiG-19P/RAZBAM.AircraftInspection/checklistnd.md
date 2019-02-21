@@ -18,5 +18,7 @@ checklist:
     -   step: 6) Check that the Engine Afterburner Nozzle petals are open.
 ---
 
-## MiG-19P Aircraft Inspection
+## MiG-19P 
+Aircraft Inspection
+===
 ОБСЛЕДОВАНИЕ САМОЛЕТА
