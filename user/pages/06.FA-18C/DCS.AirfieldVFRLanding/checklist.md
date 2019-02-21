@@ -15,6 +15,7 @@ taxonomy:
 Airfield VFR Landing 
 
 ===
+
 ( this is only available in the following format with images.  I dont have the images configured yet for steps and details so this Checklist is unfortuntly just a wall of text.)
 
 Being aircraft carrier capable aircraft, the Hornet can land on both “the boat” and airfields. Both landing patterns are quite similar. For this guide though, we will just review the procedure for landing at an airfield under Visual Flight Rules (VFR) conditions.
