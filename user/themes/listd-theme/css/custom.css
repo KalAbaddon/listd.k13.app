@@ -38,11 +38,6 @@ body {
     background-color: rgb(32, 32, 32);    
 }
 
-.uk-accordion-titlend {
-    border: thin;
-    color: #ffffff;
-    background-color: rgb(32, 32, 32);    
-}
 .uk-accordion-content {
     box-shadow: inset 0px 0px 5px rgb(42, 42, 42);
     background-color: rgb(100, 100, 100); 
