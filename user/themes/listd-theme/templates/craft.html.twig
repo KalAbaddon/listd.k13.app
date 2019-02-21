@@ -19,7 +19,7 @@
 
 
 {% block hero %}
-    {% include 'partials/crafthero.html.twig' with {id: 'blog-hero', content: page.content, hero_image: blog_image} %}
+    {% include 'partials/hero.html.twig' with {id: 'blog-hero', content: page.content, hero_image: blog_image} %}
 {% endblock %}
 
 {% block body %}
@@ -29,6 +29,8 @@
         {% if show_breadcrumbs and config.plugins.breadcrumbs.enabled %}
             {% include 'partials/breadcrumbs.html.twig' %}
         {% endif %}
+
+        {% include 'partials/blog/taxonomy.html.twig' %}
 
         {% embed 'partials/layout.html.twig' with {blog: page} %}
             {% block item %}
