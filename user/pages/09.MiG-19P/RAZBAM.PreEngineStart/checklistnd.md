@@ -25,7 +25,6 @@ checklist:
 ---
 
 ## MiG-19P 
-
 Prepare for Engine Start
 
 ===
