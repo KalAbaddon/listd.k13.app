@@ -23,4 +23,7 @@ checklist:
         details: 'Rudder trim: 6° right<br />Aileron trim: 0°<br />Elevator trim: Set as per fuselage tank level < 25 gal set to 0° if > 25 gal set to 2 - 4°'
 ---
 
-## P51D Startup Checklist
+## P51D 
+Startup Checklist (place holder)
+
+===

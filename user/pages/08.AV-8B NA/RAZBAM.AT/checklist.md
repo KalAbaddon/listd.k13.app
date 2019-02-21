@@ -24,5 +24,9 @@ checklist:
     -   step: 5. Perform After Takeoff Check or enter the landing pattern.
 ---
 
-## AV-8B NA Accelerating Transition (AT) 
+## AV-8B NA 
+Accelerating Transition (AT) 
+
+===
+
 Accelerating Transition is the term used to describe transition from jetborne/semi-jetborne flight to wingborne flight. The AT begins when the aircraft is clear of ground effect and at an altitude sufficient to avoid obstacles and introduction of FOD onto the landing surface. 

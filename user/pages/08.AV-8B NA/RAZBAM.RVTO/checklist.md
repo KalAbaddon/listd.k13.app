@@ -48,5 +48,9 @@ checklist:
     -   step: 16. Begin transition to wingborne flight. 
 ---
 
-## AV-8B NA Rolling Vertical Takeoff (RVTO) 
+## AV-8B NA 
+Rolling Vertical Takeoff (RVTO) 
+
+===
+
 The RVTO requires approximately 100 feet of ground roll and should be made as nearly into the wind as possible. 

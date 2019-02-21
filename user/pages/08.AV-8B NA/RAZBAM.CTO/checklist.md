@@ -48,6 +48,10 @@ checklist:
         details: Witch Hat at the pitch carets. 
 ---
 
-## AV-8B NA Conventional Takeoff (CTO) 
+## AV-8B NA 
+Conventional Takeoff (CTO) 
+
+===
+
 The CTO can be used when configuration or environmental conditions preclude use of any other takeoff type (i.e. crosswinds or asymmetric loadings). The CTO is restricted to gross weights that will not cause the wheel/tire limitation speed of 180 KGS (Knots, Ground Speed) to be exceeded on the takeoff roll. 
  

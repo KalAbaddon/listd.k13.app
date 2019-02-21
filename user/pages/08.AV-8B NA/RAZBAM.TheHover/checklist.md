@@ -35,5 +35,9 @@ checklist:
         details: Select ground references and monitor rate of closure. When closure is under control and below 30 knots, cross over the landing site while remaining at 150 feet AGL minimum until over a prepared surface. Flare slightly to spot or use braking stop as required, and establish hover over the desired landing point.  
 ---
 
-## AV-8B NA Decelerating Transition to a Hover 
+## AV-8B NA 
+Decelerating Transition to a Hover 
+
+===
+
 Decelerating transitions for VLs are started from a key position approximately 0.5 NM from the touchdown point (preferably downwind) at an altitude of approximately 310 feet AGL. This places the aircraft on a slightly descending flight path toward a point abeam the intended point of landing at approximately 150 feet AGL. From, or just prior to arrival at, this abeam position the aircraft then crosses to hover directly over the intended point of landing.

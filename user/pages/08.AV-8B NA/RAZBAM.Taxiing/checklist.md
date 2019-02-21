@@ -26,6 +26,9 @@ checklist:
         details: CHECK  
 ---
 
-## AV-8B NA Taxiing 
+## AV-8B NA 
+Taxiing 
+
+===
 
  Aircraft directional control during taxi should be via nosewheel steering since no differential braking is available. 

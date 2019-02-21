@@ -45,6 +45,9 @@ checklist:
         details: gradually reduce power to establish a hover, or when passing 50 feet and clear of obstacles, being transition to wingborne flight. 
 ---
 
-## AV-8B NA Vertical Takeoff (VTO) 
+## AV-8B NA
+Vertical Takeoff (VTO) 
+
+===
 
 If possible, VTO into the wind. Lateral control during the first few feet of a VTO is critical, do not hesitate to make immediate, large and rapid control movements to counteract bank angles. 

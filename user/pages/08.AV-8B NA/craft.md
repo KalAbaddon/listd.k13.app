@@ -20,6 +20,8 @@ pagination: true
 ---
 
 # AV-8B NA
+Wow the default checklists are nicly typed!
 
-## Wow the default checklists are nicly typed!
+===
+
 ### Sorting WILL FOR SURE be better,  right now its just a placeholder / prototype

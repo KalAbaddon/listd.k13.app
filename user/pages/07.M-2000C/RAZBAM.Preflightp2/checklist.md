@@ -27,5 +27,8 @@ checklist:
         details: NAV (Cm or Cv)
 ---
 
-## M-2000C Preflight Part 2 Main Panel
+## M-2000C 
+Preflight Part 2 Main Panel
+
+===
 

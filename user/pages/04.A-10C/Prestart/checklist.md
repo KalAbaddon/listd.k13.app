@@ -18,5 +18,9 @@ checklist:
 
 ---
 
-## A-10C Prestart Checklist
+## A-10C 
+Prestart Checklist
+
+===
+
 ### this one is the beginning of a doozy
