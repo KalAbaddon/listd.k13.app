@@ -4,7 +4,13 @@
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-
+/* Kalabaddon edit bricklayer
+this controls the size of the "brick" which are the way the blog (aircraft checlists) are displayed)
+I added width fixed so that it will resize to fit as you streach site*/
+.bricklayer-column-sizer {
+    width: 400px;
+}
+/* Kalabaddon edit bricklayer end */
 .modular-hero {
     background-size: cover;
     background-position-x: center;
@@ -17,15 +23,17 @@ body {
     color: #ffffff;
     
 }
-
+/* Kalabaddon edit style*/
 #body-wrapper {
     background-color: rgb(65, 65, 65);
 }
-
+/* Kalabaddon edit moving done button over to make it look nicer,  must fix to only effect buttons in uk accordions */
 .btn-group {
     margin-right: 20px;
 }
 
+/* Kalabaddon edit uk.accordion and cards for style
+adde style to accordions I use for checklists.*/
 .uk-accordion-table {
     border-style: solid;
     border-width: 1px;
@@ -66,7 +74,7 @@ body {
     width: 100%;
     opacity: 0.6;
 }
-
+/* Kalabaddon edit uk.accordion END */
 h1,
 h2,
 h3,

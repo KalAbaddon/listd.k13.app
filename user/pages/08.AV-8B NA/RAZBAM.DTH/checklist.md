@@ -16,5 +16,9 @@ checklist:
     -   step: 3. RPM/JPT WITHIN LIMITS 
 ---
 
-## AV-8B NA The Hover 
+## AV-8B NA 
+The Hover 
+
+===
+
 The hover may be entered from decelerating transition or a VTO. It is an interim period during which the aircraft is held relatively stationary at an altitude of 50 to 60 feet AGL. 

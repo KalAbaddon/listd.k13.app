@@ -24,5 +24,7 @@ checklist:
     -   step: 12) Operate the “AGI-1” Artificial Horizon “Caging” Knob and press the “GIK-1” Compass Alignment Button on the Main Instrument Panel for 3 seconds if ambient temperature is above 30 oC, or for 5 seconds if it is below 30 oC.<br />After 2-3 minutes both Instruments will show the correct aircraft heading and attitude.<br />NOTE If the Engines are to be started using the Aircraft Battery, do not connect any electrical consumers apart from Fuel Tank No. 1 Pump and Generators until both Engines are at Idle RPM.<br />The Battery allows for 3 consecutive Engine starts.
 ---
 
-## MiG-19P Prepare for Engine Start
+## MiG-19P 
+Prepare for Engine Start
 
+===

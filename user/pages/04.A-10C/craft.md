@@ -20,6 +20,8 @@ pagination: true
 ---
 
 # A-10C
+If you look really close you can laze for a buddy!
 
-## If you look really close you can laze for a buddy!
+===
+
 ### Sorting WILL FOR SURE be better,  right now its just a placeholder / prototype

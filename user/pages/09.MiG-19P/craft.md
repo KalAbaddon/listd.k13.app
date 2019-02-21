@@ -20,6 +20,8 @@ pagination: true
 ---
 
 # MiG-19P
+the 19 arrives soon 
 
-## the 19 arrives soon 
-### Hopefully these checklists are usable by then!
+===
+
+Hopefully these checklists are usable by then!

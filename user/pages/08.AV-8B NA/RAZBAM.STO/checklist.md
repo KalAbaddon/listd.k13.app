@@ -48,6 +48,10 @@ checklist:
     -   step: 16. Begin transition to wingborne flight. 
 ---
 
-## AV-8B NA Short Takeoff (STO) 
+## AV-8B NA 
+Short Takeoff (STO) 
+
+===
+
 The STO can be used for the widest variety of aircraft configuration, weight and runway conditions provided that crosswinds remain within specified limits. 
  

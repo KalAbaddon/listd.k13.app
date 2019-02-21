@@ -60,4 +60,7 @@ checklist:
         details: (CENTER INSTRUMENT PANEL)
 ---
 
-## F/A-18C Cold Start
+## F/A-18C 
+Cold Start
+
+===

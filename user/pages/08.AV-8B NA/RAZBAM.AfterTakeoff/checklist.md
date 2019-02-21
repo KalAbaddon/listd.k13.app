@@ -23,4 +23,7 @@ checklist:
         details: CLEAR 
 ---
 
-## AV-8B NA After Takeoff 
+## AV-8B NA 
+After Takeoff 
+
+===

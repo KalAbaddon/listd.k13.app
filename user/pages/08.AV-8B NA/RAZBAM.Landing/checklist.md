@@ -29,5 +29,9 @@ checklist:
         details: AS REQUIRED
 ---
 
-## AV-8B NA Landing Checklist 
+## AV-8B NA 
+Landing Checklist 
+
+===
+
 The following landing checklist is used to configure the aircraft for all four of the landing methods. 
