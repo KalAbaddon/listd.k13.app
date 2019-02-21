@@ -22,7 +22,14 @@
                 </td>
             </tr>
         </table>
-                    <div class="uk-accordion-content">{{ checklist.details }}</div>
+                    
+                    {% if checklist.details != "" %}
+                        <div class="uk-accordion-content">{{ checklist.details }}</div>
+                    {% else %}
+                        <div class="uk-accordion-content">N/A</div>
+                    {% endif %}
+                    
+                    
 
     {% endfor %}
 
