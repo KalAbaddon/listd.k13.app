@@ -1,10 +1,10 @@
 ---
-title: AV-8B NA
+title: MiG-19P
 taxonomy:
     category:
         - aircraft
 body_classes: 'header-image fullwidth'
-blog_url: AV-8B NA
+blog_url: MiG-19P
 content:
     items:
         - '@self.children'
@@ -14,12 +14,12 @@ content:
     limit: 6
     pagination: true
 feed:
-    description: AV-8B NA
+    description: MiG-19P
     limit: 10
 pagination: true
 ---
 
-# AV-8B NA
+# MiG-19P
 
-## Wow the default checklists are nicly typed!
-### Sorting WILL FOR SURE be better,  right now its just a placeholder / prototype
+## the 19 arrives soon 
+### Hopefully these checklists are usable by then!

@@ -19,7 +19,7 @@ checklist:
     -   step: 7) Check that the LH Side Panel “Cockpit Pressurization” Lever and “Cockpit Ventilation” (ВЕНТИЛЯЦИЯ КАБИНЫ) Switch are in the Open position.
     -   step: 8) Verify there are no Foreign Objects, Water or Ice in the Cockpit.
     -   step: 9) On the Main Instrument Panel, the IK-18 Oxygen Pressure and Flow Indicator (ИК-18 ИНДИКАТОР КИСЛОРОДА) is indicating a pressure of 130-150 kg/cm2.
-    -   step: 10) Check the Pneumatic Systems Gauges on the LH Side Panel. The nominal pressures should be<br /> Main Pneumatic System<br />МАКСИМ. ДАВЛЕНИЕ В ОСНОВНОМ БАЛЛОНЕ 130-150 kg/cm2<br /> Landing Gear Emergency Deployment System<br />ДАВЛЕНИЕ В АВАРИЙНОЙ БАЛЛОНЕ ШАССИ 50 kg/cm2<br /> Flaps Emergency Deployment System<br />ДАВЛЕНИЕ В АВАРИЙНОЙ БАЛЛОНЕ ЗАКРЫЛКОВ 110-130 kg/cm2<br /> Canopy Pressurization System 50 kg/cm2
+    -   step: 10) Check the Pneumatic Systems Gauges on the LH Side Panel. The nominal pressures should be<br /> Main Pneumatic System<br />МАКСИМ. ДАВЛЕНИЕ В ОСНОВНОМ БАЛЛОНЕ 130-150 kg/cm2<br /> Landing Gear Emergency Deployment System<br />ДАВЛЕНИЕ В АВАРИЙНОЙ БАЛЛОНЕ ШАССИ 50 kg/cm2<br /> Flaps Emergency Deployment System<br />ДАВЛЕНИЕ В АВАРИЙНОЙ БАЛЛОНЕ ЗАКРЫЛКОВ 110-130 kg/cm2<br /> Canopy Pressurization System 50 kg/cm2
     -   step: 11) Check the Clock (ЧАСЫ) time is set correctly, and the Chronometer is zeroed ready for Engine starts.
     -   step: 12) Check that the Barometric Altimeter (ВД-20 УКАЗАТЕЛЬ ВЫСОТЫ) is set to 0m and make sure that it corresponds to the QFE Barometric Pressure given by the Tower.
     -   step: 13) Operate the Engine Throttles over their full operating range to check for free movement and that their respective locks in the “Stop” (СТОП) and “Idle” (МАЛЫЙ ГАЗ) positions are operating correctly.
@@ -28,10 +28,9 @@ checklist:
     -   step: 16) The “Aileron Booster” (ГИДРОУС ЭЛЕРОНОВ) Switch located on the horizontal LH Side Panel should be in the On position.
     -   step: 17) On the RH Side Panel, check that the Oxygen Main Feed Valve is Fully Open.
     -   step: 18) On the RH Side Panel, check that the Oxygen System Control Panel Selectors are set to “Mix” (СМЕСЬ) and “Auto” (АВТ) respectively.
+    -   step: 19) If the Aircraft has External Fuel Drop Tanks or Bombs fitted, check that both of the “Suspended Loads” ЛЕВОЕ/ПРАВОЕ ПОДВЕСКИ БОМБ lamps, located on the lower part of the Main Instrument Panel are illuminated.
 ---
+
 
 ## MiG-19P Cockpit Inspection
 ОБСЛЕДОВАНИЕ КАБИНЫ
-
-
-
