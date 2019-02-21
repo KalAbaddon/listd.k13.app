@@ -6,7 +6,7 @@ taxonomy:
         - checklist
         - prestart
         - a-10c
-    author: KalAbaddon
+    author: DCS
 
 checklist:
     -   step: 1. Set EAC Switch

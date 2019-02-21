@@ -5,7 +5,7 @@ taxonomy:
     tag:
         - checklist
         - prestart
-    author: KalAbaddon
+    author: HeatBlur
 
 checklist:
     -   step: 1. Ejection seat

@@ -4,7 +4,7 @@ taxonomy:
     tag:
         - checklist
         - startup
-    author: KalAbaddon
+    author: DCS
 checklist:
     -
         step: '1. Fuselage fuel test high priority'

@@ -7,7 +7,7 @@ taxonomy:
         - cold start
         - prestart
         - f/a-18c
-    author: KalAbaddon
+    author: DCS
 
 checklist:
     -   step: 1. Set the BATTERY switch to ON
