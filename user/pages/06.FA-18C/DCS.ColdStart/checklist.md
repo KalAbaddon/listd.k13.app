@@ -1,5 +1,5 @@
 ---
-title: cold start
+title: Cold Start
 
 taxonomy:
     tag:
