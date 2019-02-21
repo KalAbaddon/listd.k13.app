@@ -5,6 +5,10 @@
     box-sizing: border-box;
 }
 
+.bricklayer-column-sizer {
+    width: 33.3%;
+}
+
 .modular-hero {
     background-size: cover;
     background-position-x: center;
