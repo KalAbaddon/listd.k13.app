@@ -29,9 +29,7 @@
         {% if show_breadcrumbs and config.plugins.breadcrumbs.enabled %}
             {% include 'partials/breadcrumbs.html.twig' %}
         {% endif %}
-        <div>
-        {% include 'partials/blog/taxonomy.html.twig' %}
-        </div
+        
         {% embed 'partials/layout.html.twig' with {blog: page} %}
             {% block item %}
 
