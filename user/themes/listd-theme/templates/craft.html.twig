@@ -29,13 +29,13 @@
         {% if show_breadcrumbs and config.plugins.breadcrumbs.enabled %}
             {% include 'partials/breadcrumbs.html.twig' %}
         {% endif %}
-
+        
         {% embed 'partials/layout.html.twig' with {blog: page} %}
             {% block item %}
 
                 <div class="bricklayer">
                 {% for child in collection %}
-                    {% include 'partials/blog-list-item.html.twig' with {blog: page, page: child} %}
+                    {% include 'partials/craft-list-item.html.twig' with {blog: page, page: child} %}
                 {% endfor %}
                 </div>
 

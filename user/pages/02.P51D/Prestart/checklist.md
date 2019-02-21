@@ -5,7 +5,7 @@ taxonomy:
     tag:
         - checklist
         - prestart
-    author: KalAbaddon
+    author: DCS
 
 checklist:
     -   step: 1. Fuselage fuel
