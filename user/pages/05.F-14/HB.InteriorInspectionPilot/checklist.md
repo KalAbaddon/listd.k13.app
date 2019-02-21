@@ -64,7 +64,6 @@ checklist:
         details: 
     -   step: ACM panel - Set.
         details: 'ACM switch - OFF (guard down).<br />MASTER ARM switch - OFF (guard down).'
-        details: 
     -   step: Weapon select - OFF.
         details: 
     -   step: HUD and VDI filters - As required.
