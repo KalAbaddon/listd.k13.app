@@ -5,6 +5,7 @@
         <a href="{{ page.url }}">{{ image.cropZoom(800,400).html }}</a>
     </div>
     {% endif %}
+    <a href="{{ page.url }}">
     <div class="card-header">
         <div class="card-subtitle text-gray">
             
@@ -13,7 +14,7 @@
         {% include 'partials/blog/title.html.twig' with {title_level: 'h4'} %}
         </div>
     </div>
-<a href="{{ page.url }}">
+
     <div class="card-body">
         {% if page.summary != page.content %}
             {{ page.summary|raw }}
