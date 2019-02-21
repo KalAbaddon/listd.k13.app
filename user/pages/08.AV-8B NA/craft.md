@@ -11,7 +11,6 @@ content:
     order:
         by: date
         dir: desc
-    limit: 6
     pagination: true
 feed:
     description: AV-8B NA
