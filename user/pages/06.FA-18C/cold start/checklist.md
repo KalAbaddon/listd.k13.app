@@ -42,8 +42,7 @@ checklist:
         details: (LEFT QUARTER PANEL)
     -   step: 17. Press Takeoff Trim button. 
         details: (LEFT CONSOLE)
-    -   step: 18. While holding up the FCS BIT switch [Y] on the right wall, press the FCS OSB on the BIT / FCS page at the same time. 
-        details: 
+    -   step: 18. While holding up the FCS BIT switch [Y] on the right wall, press the FCS OSB on the BIT / FCS page at the same time.  
     -   step: 19. Four down test. 
         details: Cycle / test the refueling probe, speed brake, launch bar, arrestor hook, pitot heat, and set flaps to HALF. (LEFT CONSOLE, THROTTLES, LEFT QUARTER PANEL, RIGHT QUARTER PANEL, and RIGHT CONSOLE)
     -   step: 20. Left mouse click on the hand brake to release it. 
