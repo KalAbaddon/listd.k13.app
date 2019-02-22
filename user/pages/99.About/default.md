@@ -33,7 +33,7 @@ pagination: true
 * I want this to be a site for all players of all simulation games to be able to find checklists and add checklists.
 * anyone can copy this site if they dont like what I am doing. [Repo](https://github.com/KalAbaddon/listd.k13.app)
 * I have no plans to Monetize or Profit from the checklist data or this site or anything anyone does to assist with making this site great. 
-* It is opensource (if I have any license issue let me know I am not good with everything and I left it at default which seems open enugh to me?)
+* It is opensource (if I have any license issue let me know I am not good with everything and I left it at default MIT which seems open enugh to me?)
 * I have no plans to add ads.
 
 
