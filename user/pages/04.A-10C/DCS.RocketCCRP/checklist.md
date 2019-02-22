@@ -9,7 +9,7 @@ taxonomy:
         - weapon
         - a2g
         - CCRP
-        - Rocket
+        - rocket
     craft:
         - a-10c
         - warthog
