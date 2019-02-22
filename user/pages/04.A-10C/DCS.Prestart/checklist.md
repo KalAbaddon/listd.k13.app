@@ -24,5 +24,3 @@ checklist:
 Prestart Checklist
 
 ===
-
-### this one is the beginning of a doozy
