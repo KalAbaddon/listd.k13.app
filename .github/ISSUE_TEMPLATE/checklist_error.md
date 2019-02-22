@@ -2,9 +2,7 @@
 name: Checklist error
 about: Suggest an idea for this project
 title: ''
-labels: 
-  - checklist
-  - editing error
+labels: 'checklist' 'editing error'
 assignees: ''
 
 ---
