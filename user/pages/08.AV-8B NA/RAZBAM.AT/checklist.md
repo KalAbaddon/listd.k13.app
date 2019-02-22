@@ -5,7 +5,7 @@ taxonomy:
     tag:
         - air
         - take off
-        craft:
+    craft:
         - Harrier II
         - AV-8B NA
     author: RAZBAM
