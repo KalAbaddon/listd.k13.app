@@ -3,9 +3,10 @@ title: Dry start (Ventilation)
 
 taxonomy:
     tag:
-        - checklist
-        - Dry start (Ventilation) 
         - Failed start
+        - ground
+        - engine off
+    craft:
         - AJS-37
         - Viggen
     author: HeatBlur

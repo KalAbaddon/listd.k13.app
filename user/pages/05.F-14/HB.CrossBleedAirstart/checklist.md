@@ -3,9 +3,10 @@ title: Emergency Cross Bleed Airstart
 
 taxonomy:
     tag:
-        - checklist
-        - Emergency  f-14
-        - cross bleed airstart
+        - Emergency
+        - air
+    craft:
+        - tomcat
         - f-14
     author: HeatBlur
 

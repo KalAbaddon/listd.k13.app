@@ -3,8 +3,9 @@ title: Engine Start
 
 taxonomy:
     tag:
-        - checklist
-        - Engine Start 
+        - ground
+        - engine off
+    craft:
         - AJS-37
         - Viggen
     author: HeatBlur

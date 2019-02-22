@@ -3,8 +3,9 @@ title: After Engine Start
 
 taxonomy:
     tag:
-        - checklist
-        - After Engine Start
+        - ground
+        - engine on
+    craft:
         - AJS-37
         - Viggen
     author: HeatBlur

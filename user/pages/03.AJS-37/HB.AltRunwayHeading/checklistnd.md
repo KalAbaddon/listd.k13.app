@@ -4,9 +4,10 @@ title: Alternate Runway heading selection.
 
 taxonomy:
     tag:
-        - checklist
-        - Alternate Runway heading selection.
-        - Landing approach
+        - air
+        - approach
+        - landing
+    craft:
         - AJS-37
         - Viggen
     author: HeatBlur

@@ -3,9 +3,11 @@ title: Post Start RIO
 
 taxonomy:
     tag:
-        - checklist
-        - RIO f-14
-        - Post Start
+        - RIO
+        - engine on
+        - ground
+    craft: 
+        - tomcat
         - f-14
     author: HeatBlur
 

@@ -3,10 +3,11 @@ title: Prepare for Engine Start
 
 taxonomy:
     tag:
-        - checklist
-        - razbam
-        - Prepare Engine Start
+        - ground
+        - engine off
+    craft: 
         - mig-19p
+        - farmer-b
     author: RAZBAM
 
 checklist:
