@@ -3,7 +3,9 @@ title: Startup
 taxonomy:
     tag:
         - checklist
+    type:
         - startup
+        - ground
     author: DCS
 checklist:
     -

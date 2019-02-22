@@ -4,6 +4,7 @@ title: Prestart
 taxonomy:
     tag:
         - checklist
+    type:
         - prestart
     author: DCS
 

@@ -3,10 +3,11 @@ title: After Engine Start
 
 taxonomy:
     tag:
-        - checklist
-        - After Engine Start
         - AJS-37
         - Viggen
+    type:
+        - checklist
+        - After Engine Start
     author: HeatBlur
 
 checklist:
