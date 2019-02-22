@@ -5,6 +5,8 @@ taxonomy:
     tag:
         - checklist
         - prestart
+        - Viggen
+        - ajs-37
     author: HeatBlur
 
 checklist:
@@ -39,7 +41,7 @@ checklist:
     -   step: 15. Check backup instrument illumination *** 
         details: See checklist below. 
     -   step: 16. Check warning panel lights 
-        details: Press and hold WARNING PANEL TEST (KONTR LAMPTABLÅ.)a. Press and checkH all indicator lights on the warning panel. Release and confirm that lights marked with white are lit. Without Ground power, ELFEL, RHM FEL and CK will be lit. X-TANK BRÄ will not be lit if the drop tank is empty. b. If Pitch gearing warning (TIPPVÄXEL) is lit, engine start is still allowed. This should disappear during engine start. 
+        details: Press and hold WARNING PANEL TEST (KONTR LAMPTABLÅ.)<br />a. Press and checkH all indicator lights on the warning panel. Release and confirm that lights marked with white are lit. Without Ground power, ELFEL, RHM FEL and CK will be lit. X-TANK BRÄ will not be lit if the drop tank is empty. <br />b. If Pitch gearing warning (TIPPVÄXEL) is lit, engine start is still allowed. This should disappear during engine start. 
     -   step: 17. ROLL TRIM *** 
         details: Check and centre.
     -   step: 18. Generator 
@@ -103,15 +105,13 @@ checklist:
     -   step: 47. Circuit breakers (right CB panel) 
         details: Confirmed ON (pushed in). 
     -   step: 48. Data Input *** 
-        details: Load data cartridge and input other necessary data. Please review the data input notesbelow and the navigation data section furhter ahead.. 
+        details: Load data cartridge and input other necessary data. <br />*Please review the data input notesbelow and the navigation data section furhter ahead..*
     -   step: 49. Oxygen 
         details: Check pressure and open flow valve.
     -   step: 50. Indicator System check. *** 
-        details: Press KONTROLL Button (right side panel) » High alpha Warning- two short bursts. Stick vibrates. » Warning lights BRAND (Fire warning) lit » Lights LANDSTÄLL (Landing gear warning) not lit. » Altitude warning light lit with a solid light. » Indicated fuel 29 ± 3 % and indicator returns to previous setting. » Data indicator panel shows 1 and current CK-program number. » FK-light is on (green). 
+        details: Press KONTROLL Button (right side panel)<br />» High alpha Warning- two short bursts. Stick vibrates.<br />» Warning lights BRAND (Fire warning) lit<br />» Lights LANDSTÄLL (Landing gear warning) not lit.<br />» Altitude warning light lit with a solid light.<br />» Indicated fuel 29 ± 3 % and indicator returns to previous setting.<br />» Data indicator panel shows 1 and current CK-program number.<br />» FK-light is on (green). 
     -   step: 51. Canopy
         details: Close and check locked. May be closed earlier if needed.
-    -   step: Continue on to Engine Start Checklist
-        details: ya about that.
 ---
 
 ## AJS-37 

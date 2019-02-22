@@ -20,7 +20,7 @@ pagination: true
 
 # Welcome to LISTd. 
 
-## I Hope you engoy this site and it helps you enjoy your flight sims!
+## I Hope you enjoy this site and it helps you enjoy your flight sims!
 
 ===
 
