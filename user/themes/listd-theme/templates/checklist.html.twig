@@ -31,7 +31,11 @@
                                 {{ checklist.details }}</div>
                             {% endif %}
                     {% else %}
-                        <div class="uk-accordion-content">N/A</div>
+                        <div class="uk-accordion-content">{% if checklist.location != "" %}
+                                <span style="color:red">{{ checklist.location }}</span></div>
+                                {% else %}
+                                </div>
+                            {% endif %}
                     {% endif %}
                     
                    

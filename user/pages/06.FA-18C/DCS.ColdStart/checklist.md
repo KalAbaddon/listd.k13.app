@@ -12,19 +12,24 @@ taxonomy:
 
 checklist:
     -   step: 1. Set the BATTERY switch to ON
-        details: confirm both Left and Right Generators are ON.(RIGHT CONSOLE)
+        details: confirm both Left and Right Generators are ON.
+        location: (RIGHT CONSOLE)
     -   step: 2. Move and hold the fire detection switch to FIRE TEST A
-        details:  wait for all of the audio caution messages to play. Once complete, wait 10 seconds and then do the same for FIRE TEST B. Between running FIRE TEST A and FIRE TEST B, you can reset the battery switch to rewind the fire test tape. (LEFT CONSOLE)
+        details:  wait for all of the audio caution messages to play. Once complete, wait 10 seconds and then do the same for FIRE TEST B. Between running FIRE TEST A and FIRE TEST B, you can reset the battery switch to rewind the fire test tape. 
+        location: (LEFT CONSOLE)
     -   step: 3. APU switch to ON 
-        details:  wait for green APU READY light. (LEFT CONSOLE)
+        details:  wait for green APU READY light. 
+        location: (LEFT CONSOLE)
     -   step: 4. Move the ENG CRANK switch to the right
-        details:  this will start the right engine. (LEFT CONSOLE)
+        details:  this will start the right engine. 
+        location: (LEFT CONSOLE)
     -   step: 5. Move the right throttle from OFF to IDLE when the right engine is above 25% rpm 
         details: as shown on IFEI. (RSHIFT + HOME)
     -   step: 6. Once right engine RPM is over 60%, rotate the BLEED AIR knob 360 degrees clockwise, from NORM to NORM. 
-        details: (RIGHT CONSOLE)
+        location: (RIGHT CONSOLE)
     -   step: 7. Test the CAUTION, WARNING and ADVISORY lights test.
-        details: (RIGHT CONSOLE)
+        details: 
+        location: (RIGHT CONSOLE)
     -   step: 8. Turn on the power to both DDIs, MPCD and HUD.
         details:  Select the FCS page on the left DDI and the BIT page on the right DDI. (INSTRUMENT PANEL)
     -   step: 10. Move the ENG CRANK switch to the left after confirming the following
