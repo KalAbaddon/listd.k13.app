@@ -3,8 +3,8 @@ name: Checklist error
 about: Suggest an idea for this project
 title: ''
 labels: 
-  - 'checklist'
-  - 'editing error'
+  - checklist
+  - editing error
 assignees: ''
 
 ---
