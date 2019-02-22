@@ -3,9 +3,11 @@ title: Visual approach
 
 taxonomy:
     tag:
-        - checklist
-        - Visual approach  
+        - Visual
+        - landing
+        - air  
         - approach
+    craft:
         - AJS-37
         - Viggen
     author: HeatBlur

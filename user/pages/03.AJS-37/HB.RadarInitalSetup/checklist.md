@@ -3,8 +3,9 @@ title: Radar initial setup
 
 taxonomy:
     tag:
-        - checklist
-        - Radar initial setup 
+        - Radar
+        - engine on
+    craft:
         - AJS-37
         - Viggen
     author: HeatBlur

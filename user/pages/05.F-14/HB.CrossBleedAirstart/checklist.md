@@ -5,6 +5,8 @@ taxonomy:
     tag:
         - Emergency
         - air
+        - pilot
+        - engine out
     craft:
         - tomcat
         - f-14

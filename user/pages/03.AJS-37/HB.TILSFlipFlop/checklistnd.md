@@ -4,9 +4,10 @@ title: Flip-flop (shorten approach length)
 
 taxonomy:
     tag:
-        - checklist
-        - Flip-flop (shorten approach length)
-        - Landing approach
+        - Landing 
+        - approach
+        - air
+    craft:
         - AJS-37
         - Viggen
     author: HeatBlur

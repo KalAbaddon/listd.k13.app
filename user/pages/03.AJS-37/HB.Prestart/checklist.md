@@ -3,8 +3,9 @@ title: Prestart
 
 taxonomy:
     tag:
-        - checklist
-        - prestart
+        - ground
+        - engine off
+    craft:
         - Viggen
         - ajs-37
     author: HeatBlur

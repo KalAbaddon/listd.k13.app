@@ -3,8 +3,10 @@ title: Take Off By using the Flight Attitude Indicator
 
 taxonomy:
     tag:
-        - checklist
-        - Take Off By using the Flight Attitude Indicator
+        - take off
+        - ground
+        - engine on
+    craft:
         - AJS-37
         - Viggen
     author: HeatBlur

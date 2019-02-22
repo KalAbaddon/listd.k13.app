@@ -3,8 +3,9 @@ title: Post Engine Start without ground power
 
 taxonomy:
     tag:
-        - checklist
-        - Post Engine Start without ground power 
+        - engine on
+        - ground
+    craft:
         - AJS-37
         - Viggen
     author: HeatBlur

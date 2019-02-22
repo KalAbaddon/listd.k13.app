@@ -3,10 +3,12 @@ title: Engine Start Pilot
 
 taxonomy:
     tag:
-        - checklist
-        - pilot f-14
-        - Engine Start
+        - pilot
+        - Engine off
+        - ground
+    craft:
         - f-14
+        - tomcat
     author: HeatBlur
 
 checklist:

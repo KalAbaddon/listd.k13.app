@@ -4,9 +4,9 @@ title: Shutdown procedure
 
 taxonomy:
     tag:
-        - checklist
-        - Shutdown procedure 
         - ground
+        - engine on
+    craft:
         - AJS-37
         - Viggen
     author: HeatBlur

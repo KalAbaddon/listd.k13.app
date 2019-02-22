@@ -3,8 +3,9 @@ title: Manual initial course setting
 
 taxonomy:
     tag:
-        - checklist
-        - Manual initial course setting
+        - ground
+        - take off
+    craft:
         - AJS-37
         - Viggen
     author: HeatBlur
