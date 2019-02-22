@@ -1,8 +1,8 @@
 ---
 name: Checklist error
-about: Suggest an idea for this project
+about: a template for reporting checklist errors
 title: ''
-labels: 'checklist' 'editing error'
+labels: 'checklist error'
 assignees: ''
 
 ---
