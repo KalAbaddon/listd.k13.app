@@ -3,10 +3,12 @@ title: Take Off
 
 taxonomy:
     tag:
-        - checklist
-        - razbam
-        - Take Off
+        - ground
+        - engine on
+        - take off
+    craft: 
         - mig-19p
+        - farmer-b
     author: RAZBAM
 
 checklist:

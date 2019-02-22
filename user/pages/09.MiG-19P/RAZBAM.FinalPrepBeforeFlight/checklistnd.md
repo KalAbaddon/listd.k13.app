@@ -3,10 +3,11 @@ title: Final Preparations Before Flight
 
 taxonomy:
     tag:
-        - checklist
-        - razbam
-        - Final Preparations Before Flight
+        - ground
+        - engine on
+    craft: 
         - mig-19p
+        - farmer-b
     author: RAZBAM
 
 checklist:

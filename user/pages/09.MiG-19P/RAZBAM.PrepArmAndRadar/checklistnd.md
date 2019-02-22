@@ -3,12 +3,12 @@ title: Preparations of the Armament & Radar Systems
 
 taxonomy:
     tag:
-        - checklist
-        - razbam
-        - Preparations of the Armament & Radar Systems
+        - ground
+        - air
+        - engine on
+    craft: 
         - mig-19p
-        - radar
-        - armament
+        - farmer-b
     author: RAZBAM
 
 checklist:

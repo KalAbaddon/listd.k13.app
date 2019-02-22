@@ -3,10 +3,11 @@ title: Cockpit Pressurisation
 
 taxonomy:
     tag:
-        - checklist
-        - razbam
-        - Cockpit Pressurisation
+        - air
+        - normal ops
+    craft: 
         - mig-19p
+        - farmer-b
     author: RAZBAM
 
 checklist:

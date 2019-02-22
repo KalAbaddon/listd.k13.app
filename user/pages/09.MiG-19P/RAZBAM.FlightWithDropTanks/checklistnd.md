@@ -3,10 +3,11 @@ title: Flight with Drop Tanks
 
 taxonomy:
     tag:
-        - checklist
-        - razbam
-        - Flight with Drop Tanks
+        - air
+        - normal ops
+    craft: 
         - mig-19p
+        - farmer-b
     author: RAZBAM
 
 checklist:

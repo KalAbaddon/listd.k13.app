@@ -3,10 +3,12 @@ title: Taxi
 
 taxonomy:
     tag:
-        - checklist
-        - razbam
-        - Taxi
+        - taxi
+        - ground
+        - engine on
+    craft: 
         - mig-19p
+        - farmer-b
     author: RAZBAM
 
 checklist:

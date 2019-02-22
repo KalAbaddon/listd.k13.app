@@ -3,12 +3,12 @@ title: Check the Trim Tabs
 
 taxonomy:
     tag:
-        - checklist
-        - razbam
-        - Check the Trim Tabs
+        - engine on
+        - ground
+        - flight controls
+    craft: 
         - mig-19p
-        - HYD
-        - FCS
+        - farmer-b
     author: RAZBAM
 
 checklist:

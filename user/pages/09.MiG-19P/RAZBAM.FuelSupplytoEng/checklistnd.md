@@ -3,10 +3,11 @@ title: Fuel Supply to the Engines
 
 taxonomy:
     tag:
-        - checklist
-        - razbam
-        - Fuel Supply to the Engines
+        - air
+        - normal ops
+    craft: 
         - mig-19p
+        - farmer-b
     author: RAZBAM
 
 checklist:
