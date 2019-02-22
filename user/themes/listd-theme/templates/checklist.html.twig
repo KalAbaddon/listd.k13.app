@@ -23,29 +23,33 @@
             </tr>
         </table>
                     
-                    {% if checklist.details != "" %}
-                        <div class="uk-accordion-content">
-                            {% if checklist.location != "" %}
-                                <span style="color:red">{{ checklist.location }}</span><br />{{ checklist.details }}</div>
-                            {% else %}
-                                {{ checklist.details }}</div>
-                            {% endif %}
+            {% if checklist.details != "" %}
+                <div class="uk-accordion-content">
+                    {% if checklist.location != "" %}
+                        <span style="color:red">{{ checklist.location }}</span><br />{{ checklist.details }}</div>
                     {% else %}
-                        <div class="uk-accordion-content">
-                            {% if checklist.location != "" %}
-                                <span style="color:red">{{ checklist.location }}</span></div>
-                            {% else %}
-                                N/A</div>
-                            {% endif %}
+                        {{ checklist.details }}</div>
                     {% endif %}
-                    
-                   
-
+            {% else %}
+                <div class="uk-accordion-content">
+                    {% if checklist.location != "" %}
+                        <span style="color:red">{{ checklist.location }}</span></div>
+                    {% else %}
+                        N/A</div>
+                    {% endif %}
+            {% endif %}
     {% endfor %}
+
 
 </div>
 
+<br />
+
+{% include 'partials/breadcrumbs.html.twig' %}
+
 <a href="https://github.com/KalAbaddon/listd.k13.app/issues/new?assignees=&labels=checklist+error&template=checklist_error.md&title=">Please enter typos and erros in this checklist here</a>
+
+<br />
 
 <br />
 
