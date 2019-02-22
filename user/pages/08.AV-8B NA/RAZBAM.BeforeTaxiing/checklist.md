@@ -6,7 +6,7 @@ taxonomy:
         - ground
         - taxi
         - engine on
-        craft:
+    craft:
         - Harrier II
         - AV-8B NA
     author: RAZBAM
