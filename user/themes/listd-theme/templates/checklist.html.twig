@@ -24,7 +24,12 @@
         </table>
                     
                     {% if checklist.details != "" %}
-                        <div class="uk-accordion-content"><span style="color:red">{{ checklist.location }}</span><br />{{ checklist.details }}</div>
+                        <div class="uk-accordion-content">
+                            {% if checklist.details != "" %}
+                                <span style="color:red">{{ checklist.location }}</span><br />{{ checklist.details }}</div>
+                            {% else %}
+                                {{ checklist.details }}</div>
+                            {% endif %}
                     {% else %}
                         <div class="uk-accordion-content">N/A</div>
                     {% endif %}
