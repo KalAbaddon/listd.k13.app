@@ -3,10 +3,11 @@ title: Aircraft Inspection
 
 taxonomy:
     tag:
-        - checklist
-        - razbam
-        - Aircraft Inspection
+        - engine off
+        - ground
+    craft: 
         - mig-19p
+        - farmer-b
     author: RAZBAM
 
 checklist:

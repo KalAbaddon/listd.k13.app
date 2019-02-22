@@ -3,11 +3,11 @@ title: After Takeoff
 
 taxonomy:
     tag:
-        - checklist
-        - razbam
-        - After Takeoff 
+        - air
+        - take off
+    craft:
+        - Harrier II
         - AV-8B NA
-        - Emergency
     author: RAZBAM
 
 checklist:

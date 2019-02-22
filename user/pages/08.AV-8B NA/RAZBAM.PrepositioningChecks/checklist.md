@@ -3,9 +3,10 @@ title: Pre-positioning Checks
 
 taxonomy:
     tag:
-        - checklist
-        - razbam
-        - Pre-positioning Checks
+        - engine on
+        - ground
+    craft:
+        - Harrier II
         - AV-8B NA
     author: RAZBAM
 

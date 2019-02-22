@@ -3,9 +3,11 @@ title: Take Off
 
 taxonomy:
     tag:
-        - checklist
-        - razbam
+        - ground
+        - engine on
         - take off
+    craft:
+        - Mirage
         - M-2000C
     author: RAZBAM
 

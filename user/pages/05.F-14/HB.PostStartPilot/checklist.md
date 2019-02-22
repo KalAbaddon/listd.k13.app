@@ -3,10 +3,12 @@ title: Post Start Pilot
 
 taxonomy:
     tag:
-        - checklist
-        - pilot f-14
-        - Post Start
+        - pilot
+        - engine on
+        - ground
+    craft:
         - f-14
+        - tomcat
     author: HeatBlur
 
 checklist:

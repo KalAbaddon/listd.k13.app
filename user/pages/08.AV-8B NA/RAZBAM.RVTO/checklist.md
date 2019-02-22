@@ -3,9 +3,11 @@ title: Rolling Vertical Takeoff
 
 taxonomy:
     tag:
-        - checklist
-        - razbam
-        - Rolling Vertical Takeoff 
+        - take off
+        - ground
+        - engine on
+    craft:
+        - Harrier II
         - AV-8B NA
     author: RAZBAM
 

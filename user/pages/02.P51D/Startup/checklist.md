@@ -4,8 +4,11 @@ title: Startup
 
 taxonomy:
     tag:
-        - checklist
-        - startup
+        - engine off
+        - ground
+    craft:
+        - p51d
+        - mustang
     author: DCS
 
 

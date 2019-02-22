@@ -3,10 +3,12 @@ title: Interior Inspection Pilot
 
 taxonomy:
     tag:
-        - checklist
-        - pilot f-14
-        - interior inspection
+        - pilot
+        - ground
+        - engine off
+    craft:
         - f-14
+        - tomcat
     author: HeatBlur
 
 checklist:

@@ -3,10 +3,12 @@ title: Preparation for Landing
 
 taxonomy:
     tag:
-        - checklist
-        - razbam
-        - Preparation for Landing
+        - air
+        - landing
+        - approach
+    craft: 
         - mig-19p
+        - farmer-b
     author: RAZBAM
 
 checklist:

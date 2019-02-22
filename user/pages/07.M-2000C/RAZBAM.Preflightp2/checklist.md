@@ -3,10 +3,10 @@ title: Preflight P2 Main Panel
 
 taxonomy:
     tag:
-        - checklist
-        - razbam
-        - preflight p2 main panel
-        - prestart p2 main panel
+        - engine on
+        - ground
+    craft:
+        - Mirage
         - M-2000C
     author: RAZBAM
 

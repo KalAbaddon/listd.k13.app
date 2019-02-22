@@ -3,8 +3,10 @@ title: Take Off on short runways.
 
 taxonomy:
     tag:
-        - checklist
-        - Take Off on short runways. 
+        - ground
+        - engine on
+        - take off
+    craft:
         - AJS-37
         - Viggen
     author: HeatBlur

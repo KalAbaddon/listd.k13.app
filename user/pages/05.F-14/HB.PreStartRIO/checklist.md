@@ -3,10 +3,12 @@ title: Engine Start RIO
 
 taxonomy:
     tag:
-        - checklist
-        - RIO f-14
-        - Engine Start
+        - RIO
+        - Engine off
+        - ground
+    craft:
         - f-14
+        - tomcat
     author: HeatBlur
 
 checklist:

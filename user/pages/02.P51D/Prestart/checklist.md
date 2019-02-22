@@ -3,9 +3,11 @@ title: Prestart
 
 taxonomy:
     tag:
-        - checklist
-    type:
-        - prestart
+        - engine off
+        - ground
+    craft:
+        - p51d
+        - mustang
     author: DCS
 
 checklist:

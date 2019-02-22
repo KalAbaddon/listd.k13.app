@@ -1,23 +1,26 @@
 ---
-title: Aborted Landing
+title: Taxi to Parking Stand & Engine Shutdown
 
 taxonomy:
     tag:
-        - checklist
-        - razbam
-        - Aborted Landing
+        - ground
+        - engine off
+    craft: 
         - mig-19p
-        - Emergency
+        - farmer-b
     author: RAZBAM
 
 checklist:
-    -   step: 1) Another Landing Circuit is possible from any Altitude down to Touchdown. If the Pilot decides to Go-Around, the Engine RPM must be increased to Nominal or Military Power.
-    -   step: 2) At a speed of 350-370 km/h bring the Aircraft into a Climb, Retract the Landing Gear and put the Flaps in the Take-Off (15o) Position.
-    -   step: 3) At an Altitude of no less than 100 meters and a speed up to 500 km/h, Retract the Flaps and Go Around for another Landing attempt.
+    -   step: 1) After the Landing Roll-out, disconnect the Nose Wheel Brake and un-pressurize the Cockpit. The Canopy can be opened if necessary.
+    -   step: 2) Ensure all Armament and Radar Switches are Off and the Trigger is in its Safe Position.
+    -   step: NOTE If the Pilot wants to shut down one Engine while Taxiing to the Parking Stand, the LH Engine must be stopped first. This is because the Hydraulic Pump that controls the Afterburner Nozzle Petals is powered by the RH Engine.
+    -   step: 3) Taxi to the Parking Stand and, once Parked, increase Engine RPM to 10,000 for 1 minute.
+    -   step: 4) After this, put both Throttles in the “Stop” position.
+    -   step: 5) Turn Off all the Cockpit Switches except “Pump Tank 1” and “Battery”.<br />Once both Engines have completely stopped rotating, turn these Off.
 ---
 
 ## MiG-19P 
-Aborted Landing
+Taxi to Parking Stand & Engine Shutdown
 
 ===
 

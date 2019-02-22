@@ -3,9 +3,11 @@ title: Post Engine Start with Ground Power
 
 taxonomy:
     tag:
-        - checklist
-        - razbam
-        - post engine start with gp
+        - ground power
+        - ground
+        - engine on
+    craft:
+        - Mirage
         - M-2000C
     author: RAZBAM
 

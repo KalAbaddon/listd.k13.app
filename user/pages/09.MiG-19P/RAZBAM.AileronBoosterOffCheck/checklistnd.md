@@ -3,12 +3,12 @@ title: Aileron 'Booster off' Check
 
 taxonomy:
     tag:
-        - checklist
-        - razbam
-        - Aileron 'Booster off' Check
+        - engine on
+        - ground
+        - flight controls
+    craft: 
         - mig-19p
-        - HYD
-        - FCS
+        - farmer-b
     author: RAZBAM
 
 checklist:

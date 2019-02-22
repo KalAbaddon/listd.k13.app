@@ -3,9 +3,11 @@ title: Prestart
 
 taxonomy:
     tag:
-        - checklist
-        - prestart
+        - engine off
+        - ground
+    craft:
         - a-10c
+        - warthog
     author: DCS
 
 checklist:

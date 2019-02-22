@@ -3,9 +3,11 @@ title: Taxiing
 
 taxonomy:
     tag:
-        - checklist
-        - razbam
-        - Taxiing
+        - taxi
+        - ground
+        - engine on
+    craft:
+        - Harrier II
         - AV-8B NA
     author: RAZBAM
 

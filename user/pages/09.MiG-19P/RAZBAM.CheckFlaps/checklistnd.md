@@ -3,12 +3,12 @@ title: Check the Flaps
 
 taxonomy:
     tag:
-        - checklist
-        - razbam
-        - Check the Flaps
+        - engine on
+        - ground
+        - flight controls
+    craft: 
         - mig-19p
-        - HYD
-        - FCS
+        - farmer-b
     author: RAZBAM
 
 checklist:

@@ -3,10 +3,11 @@ title: PreFlight Engine Checks
 
 taxonomy:
     tag:
-        - checklist
-        - razbam
-        - PreFlight Engine Checks
+        - ground
+        - engine on
+    craft: 
         - mig-19p
+        - farmer-b
     author: RAZBAM
 
 checklist:

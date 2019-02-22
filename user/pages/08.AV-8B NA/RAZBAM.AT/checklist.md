@@ -3,11 +3,11 @@ title: Accelerating Transition
 
 taxonomy:
     tag:
-        - checklist
-        - razbam
-        - Accelerating Transition 
+        - air
+        - take off
+    craft:
+        - Harrier II
         - AV-8B NA
-        - Emergency
     author: RAZBAM
 
 checklist:

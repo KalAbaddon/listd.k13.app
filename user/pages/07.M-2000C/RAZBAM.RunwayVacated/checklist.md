@@ -3,9 +3,11 @@ title: Runway Vacated
 
 taxonomy:
     tag:
-        - checklist
-        - razbam
-        - Runway Vacated
+        - ground
+        - engine on
+        - taxi
+    craft:
+        - Mirage
         - M-2000C
     author: RAZBAM
 

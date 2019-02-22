@@ -3,11 +3,13 @@ title: Aircraft Carrier Launch
 
 taxonomy:
     tag:
-        - checklist
-        - Aircraft Carrier Launch 
         - CVN
+        - take off
+        - engine on
         - Aircraft Carrier
         - Carrier
+    craft:
+        - hornet
         - f/a-18c
     author: DCS
 

@@ -4,9 +4,11 @@ title: TILS landing
 
 taxonomy:
     tag:
-        - checklist
-        - TILS landing 
-        - Landing approach
+        - Landing 
+        - approach
+        - air
+        - instrument
+    craft:
         - AJS-37
         - Viggen
     author: HeatBlur

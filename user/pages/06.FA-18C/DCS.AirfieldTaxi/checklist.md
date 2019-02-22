@@ -3,9 +3,11 @@ title: Airfield Taxi
 
 taxonomy:
     tag:
-        - checklist
-        - Airfield Taxi
-        - Land
+        - engine on
+        - Taxi
+        - ground
+    craft:
+        - hornet
         - f/a-18c
     author: DCS
 

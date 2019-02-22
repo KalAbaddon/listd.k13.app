@@ -3,8 +3,10 @@ title: Taxi to runway
 
 taxonomy:
     tag:
-        - checklist
-        - Taxi to runway
+        - taxi
+        - ground
+        - engine on
+    craft:
         - AJS-37
         - Viggen
     author: HeatBlur

@@ -3,9 +3,11 @@ title: Landing
 
 taxonomy:
     tag:
-        - checklist
-        - razbam
+        - approach
+        - air
         - Landing
+    craft:
+        - Mirage
         - M-2000C
     author: RAZBAM
 

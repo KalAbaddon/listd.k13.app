@@ -3,10 +3,12 @@ title: Airfield Take Off
 
 taxonomy:
     tag:
-        - checklist
-        - Airfield Take Off
-        - Land
+        - engine on
+        - Take Off
+        - ground
+    craft:
         - f/a-18c
+        - hornet
     author: DCS
 
 checklist:

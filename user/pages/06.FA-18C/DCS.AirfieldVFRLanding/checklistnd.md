@@ -3,9 +3,13 @@ title: Airfield VFR Landing
 
 taxonomy:
     tag:
-        - checklist
-        - Airfield VFR Landing 
-        - Land
+        - approach
+        - VFR 
+        - air
+        - visual
+        - landing
+    craft:
+        - hornet
         - f/a-18c
     author: DCS
 

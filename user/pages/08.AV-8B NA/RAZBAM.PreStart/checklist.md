@@ -3,9 +3,10 @@ title: PreStart
 
 taxonomy:
     tag:
-        - checklist
-        - razbam
-        - PreStart
+        - ground
+        - engine off
+    craft:
+        - Harrier II
         - AV-8B NA
     author: RAZBAM
 

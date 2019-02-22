@@ -3,10 +3,11 @@ title: General Operating Conditions of Flight
 
 taxonomy:
     tag:
-        - checklist
-        - razbam
-        - General Operating Conditions of Flight
+        - air
+        - normal ops
+    craft: 
         - mig-19p
+        - farmer-b
     author: RAZBAM
 
 checklist:

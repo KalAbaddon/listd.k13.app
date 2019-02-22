@@ -3,10 +3,12 @@ title: Interior Inspection RIO
 
 taxonomy:
     tag:
-        - checklist
-        - RIO f-14
-        - interior inspection
+        - RIO
+        - ground
+        - engine off
+    craft:
         - f-14
+        - tomcat
     author: HeatBlur
 
 checklist:

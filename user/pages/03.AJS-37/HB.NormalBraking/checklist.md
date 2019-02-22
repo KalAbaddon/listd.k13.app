@@ -4,11 +4,11 @@ title: Normal braking
 
 taxonomy:
     tag:
-        - checklist
-        - Normal braking
         - approach
         - landing
         - braking
+        - air
+    craft:
         - AJS-37
         - Viggen
     author: HeatBlur

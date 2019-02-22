@@ -3,10 +3,11 @@ title: Climb
 
 taxonomy:
     tag:
-        - checklist
-        - razbam
-        - Climb
+        - air
+        - take off
+    craft: 
         - mig-19p
+        - farmer-b
     author: RAZBAM
 
 checklist:

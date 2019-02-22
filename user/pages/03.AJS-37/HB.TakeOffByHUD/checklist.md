@@ -3,8 +3,10 @@ title: Take Off By using the HUD
 
 taxonomy:
     tag:
-        - checklist
-        - Take Off By using the HUD
+        - take off
+        - ground
+        - engine on
+    craft:
         - AJS-37
         - Viggen
     author: HeatBlur

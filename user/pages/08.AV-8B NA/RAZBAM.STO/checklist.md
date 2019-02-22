@@ -3,9 +3,10 @@ title: Short Takeoff
 
 taxonomy:
     tag:
-        - checklist
-        - razbam
-        - Short Takeoff 
+        - take off
+        - ground
+    craft:
+        - Harrier II
         - AV-8B NA
     author: RAZBAM
 
