@@ -3,11 +3,10 @@ title: Aerobraking
 
 taxonomy:
     tag:
-        - checklist
-        - Aerobraking
         - approach
         - landing
         - braking
+        - Air
     craft:
         - AJS-37
         - Viggen

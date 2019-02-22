@@ -4,9 +4,8 @@ title: After landing
 
 taxonomy:
     tag:
-        - checklist
-        - After landing
         - ground
+        - engine on
     craft:
         - AJS-37
         - Viggen

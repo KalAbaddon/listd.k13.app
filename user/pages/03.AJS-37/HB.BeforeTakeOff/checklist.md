@@ -3,8 +3,10 @@ title: Before take-off
 
 taxonomy:
     tag:
-        - checklist
-        - Before take-off 
+        - ground
+        - engine on
+        - take off
+    craft:
         - AJS-37
         - Viggen
     author: HeatBlur
