@@ -3,9 +3,11 @@ title: Engine Start with Ground Power
 
 taxonomy:
     tag:
-        - checklist
-        - razbam
-        - engine start with gp
+        - ground
+        - ground power
+        - engine off
+    craft:
+        - Mirage
         - M-2000C
     author: RAZBAM
 

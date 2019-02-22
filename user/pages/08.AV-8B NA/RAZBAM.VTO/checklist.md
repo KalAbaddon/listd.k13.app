@@ -3,9 +3,11 @@ title: Vertical Takeoff
 
 taxonomy:
     tag:
-        - checklist
-        - razbam
-        - Vertical Takeoff 
+        - take off
+        - ground
+        - engine on
+    craft:
+        - Harrier II
         - AV-8B NA
     author: RAZBAM
 

@@ -3,11 +3,12 @@ title: Taxiing
 
 taxonomy:
     tag:
-        - checklist
-        - razbam
-        - Taxiing
+        - ground
+        - engine on
+        - Taxi
+    craft:
+        - Mirage
         - M-2000C
-    craft: M-2000C
     author: RAZBAM
 
 checklist:

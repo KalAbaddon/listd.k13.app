@@ -3,11 +3,13 @@ title: Aircraft Carrier Taxi
 
 taxonomy:
     tag:
-        - checklist
-        - Aircraft Carrier Taxi 
+        - Taxi 
+        - engine on
         - CVN
         - Aircraft Carrier
         - Carrier
+    craft:
+        - hornet
         - f/a-18c
     author: DCS
 

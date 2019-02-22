@@ -3,10 +3,10 @@ title: Preflight P1 Left Panel
 
 taxonomy:
     tag:
-        - checklist
-        - razbam
-        - preflight p1 left panel
-        - prestart p1 left panel
+        - engine on
+        - ground
+    craft:
+        - Mirage
         - M-2000C
     author: RAZBAM
 

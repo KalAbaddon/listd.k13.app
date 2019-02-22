@@ -3,11 +3,14 @@ title: Case 1 Carrier Recovery
 
 taxonomy:
     tag:
-        - checklist
-        - Case 1 Carrier Recovery 
+        - approach
+        - landing
+        - case 1
         - CVN
         - Aircraft Carrier
         - Carrier
+    craft:
+        - hornet
         - f/a-18c
     author: DCS
 

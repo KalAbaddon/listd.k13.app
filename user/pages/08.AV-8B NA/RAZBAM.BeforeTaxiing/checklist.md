@@ -3,9 +3,11 @@ title: Before Taxiing
 
 taxonomy:
     tag:
-        - checklist
-        - razbam
-        - Before Taxiing
+        - ground
+        - taxi
+        - engine on
+        craft:
+        - Harrier II
         - AV-8B NA
     author: RAZBAM
 

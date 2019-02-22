@@ -3,11 +3,12 @@ title: Landing Checklist
 
 taxonomy:
     tag:
-        - checklist
-        - razbam
-        - Landing Checklist 
+        - landing
+        - air
+        - approach
+    craft:
+        - Harrier II
         - AV-8B NA
-        - Emergency
     author: RAZBAM
 
 checklist:

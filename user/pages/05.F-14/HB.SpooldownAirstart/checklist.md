@@ -3,10 +3,14 @@ title: Emergency Spooldown Airstart
 
 taxonomy:
     tag:
-        - checklist
-        - Emergency  f-14
-        - Spooldown Airstart
+        - Emergency
+        - air
+        - engine off
+        - engine out
+        - pilot
+    craft:
         - f-14
+        - tomcat
     author: HeatBlur
 
 checklist:

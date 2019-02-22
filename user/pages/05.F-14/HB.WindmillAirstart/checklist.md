@@ -3,9 +3,12 @@ title: Energency Windmill Airstart
 
 taxonomy:
     tag:
-        - checklist
-        - Energency  f-14
-        - Windmill Airstart
+        - Emergency
+        - air
+        - engine out
+        - engine off
+    craft:
+        - tomcat
         - f-14
     author: HeatBlur
 

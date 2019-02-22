@@ -3,9 +3,11 @@ title: Conventional Takeoff
 
 taxonomy:
     tag:
-        - checklist
-        - razbam
-        - Conventional Takeoff 
+        - ground
+        - engine on
+        - Takeoff 
+    craft:
+        - Harrier II
         - AV-8B NA
     author: RAZBAM
 

@@ -3,9 +3,10 @@ title: Cold Start
 
 taxonomy:
     tag:
-        - checklist
-        - cold start
-        - prestart
+        - engine off
+        - ground
+    craft:
+        - hornet
         - f/a-18c
     author: DCS
 

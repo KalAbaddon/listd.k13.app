@@ -7,6 +7,7 @@ taxonomy:
         - air
         - pilot
         - engine out
+        - engine off
     craft:
         - tomcat
         - f-14

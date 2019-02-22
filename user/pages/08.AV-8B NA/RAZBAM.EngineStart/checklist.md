@@ -3,9 +3,10 @@ title: Engine Start
 
 taxonomy:
     tag:
-        - checklist
-        - razbam
-        - engine start
+        - engine off
+        - ground
+    craft:
+        - Harrier II
         - AV-8B NA
     author: RAZBAM
 
