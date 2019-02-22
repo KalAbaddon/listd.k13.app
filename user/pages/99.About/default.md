@@ -26,8 +26,6 @@ pagination: true
 
 
 
-First page is how to make a checklist!
-
 
 ### Firstly about this site.
 
