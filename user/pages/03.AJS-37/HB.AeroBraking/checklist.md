@@ -3,14 +3,14 @@ title: Aerobraking
 
 taxonomy:
     tag:
-        - AJS-37
-        - Viggen
-    type:
         - checklist
         - Aerobraking
         - approach
         - landing
         - braking
+    craft:
+        - AJS-37
+        - Viggen
     author: HeatBlur
 
 checklist:

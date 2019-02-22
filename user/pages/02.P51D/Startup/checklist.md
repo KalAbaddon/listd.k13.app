@@ -1,12 +1,14 @@
 ---
 title: Startup
+
+
 taxonomy:
     tag:
         - checklist
-    type:
         - startup
-        - ground
     author: DCS
+
+
 checklist:
     -
         step: '1. Fuselage fuel test high priority'

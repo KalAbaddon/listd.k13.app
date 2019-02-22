@@ -7,6 +7,7 @@ taxonomy:
         - checklist
         - After landing
         - ground
+    craft:
         - AJS-37
         - Viggen
     author: HeatBlur
