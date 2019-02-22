@@ -28,6 +28,5 @@ Maverick Weapon Mode, Tracking
 
 ===
 
-Maverick Use 
 
 Steps after target is locked.

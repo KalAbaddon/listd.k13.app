@@ -28,6 +28,5 @@ Maverick Weapon Mode, No Track
 
 ===
 
-Maverick Use 
 
 Steps to aquire a track or lock with maverick.
