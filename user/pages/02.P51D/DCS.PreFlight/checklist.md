@@ -24,7 +24,8 @@ checklist:
     -   step: 6. Landing gear handle
         details: DOWN. 
     -   step: 7. Left fuel gauge
-        details: check gauge, located on floor at your left. 
+        details: check gauge
+        location: located on floor at your left. 
     -   step: 8. Mixture control
         details: IDLE CUTOFF. 
     -   step: 9. Propeller control
@@ -52,16 +53,23 @@ checklist:
     -   step: 20.  Fuel selector valve 
         details: set to left wing tank. 
     -   step: 21. Right fuel gauge 
-        details: check gauge, located on floor at your right. 
+        details: check gauge 
+        location: located on floor at your right. 
     -   step: 22. Fuel booster 
         details: ON. 
     -   step: 23. Battery and generator switches 
         details: ON. 
     -   step: 24. Coolant and oil radiator flap control switches 
         details: operate manually from CLOSE to OPEN and check by listening to determine whether the doors are operating. Maintain both flap doors fully OPEN while running the engine on the ground (flap doors will be set to AUTOMATIC for takeoff). 
+    -   step: For all ground operations, the oil and radiator flap doors should be fully open to prevent overheating.  
+    -   step: Prime and start – having completed this left to right check, you’re now ready to start the engine in accordance with the procedure provided below. Prior to doing so, the following items need to be checked, depending on the mission
+        details: Before any flight, check the landing gear warning lights by pushing on the lamp housings.<br />If you expect to use oxygen, check the gauge for a pressure of 400 PSI.<br />If night flying is anticipated, check all essential lights – instrument fluorescent lights, cockpit swivel lights, position and recognition lights, and landing lights. 
 ---
 
 ## P51D 
-Prestart Checklist
+Prestart
 
 ===
+
+As soon as you enter the cockpit, make sure that the ignition switch is OFF and the mixture control is at IDLE CUT-OFF. Perform the following check around the cockpit, working from left to right: 
+
