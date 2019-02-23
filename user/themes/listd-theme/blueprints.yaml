@@ -4,9 +4,9 @@ description: Theme for Listd site
 icon: rebel
 author:
   name: KalAbaddon
-homepage: https://github.com/kal-abaddon/grav-theme-listd-theme
-demo: http://demo.yoursite.com
-keywords: grav, theme, etc
-bugs: https://github.com/kal-abaddon/grav-theme-listd-theme/issues
-readme: https://github.com/kal-abaddon/grav-theme-listd-theme/blob/develop/README.md
+homepage: https://github.com/KalAbaddon/listd.k13.app
+demo: https://LISTd.k13.app
+keywords: Listd, theme, 
+bugs: https://github.com/KalAbaddon/listd.k13.app/issues
+readme: https://github.com/KalAbaddon/listd.k13.app/blob/master/user/themes/listd-theme/README.md
 license: MIT
