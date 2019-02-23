@@ -14,13 +14,13 @@ taxonomy:
 
 checklist:
     -   step: Coolant Temperature  
-        details: 'Minimum:<br />- <br />Desired:<br />100o-110oC <br />Maximun:<br />121oC'
+        details: 'Minimum: - <br />Desired: 100o-110oC <br />Maximun: 121oC'
     -   step: Oil Temperature
-        details: 'Minimum:<br />- <br />Desired:<br />70o-80oC <br />Maximun:<br />105oC'
+        details: 'Minimum: - <br />Desired: 70o-80oC <br />Maximun: 105oC'
     -   step: Oil Pressure 
-        details: 'Minimum:<br />50psi <br />Desired:<br />70-80psi <br />Maximun:<br />-'
+        details: 'Minimum: 50psi <br />Desired: 70-80psi <br />Maximun: -'
     -   step: Fuel Pressure 
-        details: 'Minimum:<br />14psi <br />Desired:<br />16-18psi <br />Maximun:<br />19psi'
+        details: 'Minimum: 14psi <br />Desired: 16-18psi <br />Maximun: 19psi'
 ---
 
 ## P51D 
