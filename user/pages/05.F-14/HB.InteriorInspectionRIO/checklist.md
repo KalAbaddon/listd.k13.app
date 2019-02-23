@@ -3,7 +3,7 @@ title: Interior Inspection RIO
 
 taxonomy:
     tag:
-        - RIO
+        - rio
         - ground
         - engine off
     craft:

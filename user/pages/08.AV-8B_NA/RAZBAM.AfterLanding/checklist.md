@@ -3,7 +3,7 @@ title: After Landing
 
 taxonomy:
     tag:
-        - Ground
+        - ground
         - engine on
         - taxi
     craft:

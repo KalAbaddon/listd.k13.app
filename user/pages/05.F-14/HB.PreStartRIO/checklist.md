@@ -3,7 +3,7 @@ title: Engine Start RIO
 
 taxonomy:
     tag:
-        - RIO
+        - rio
         - engine off
         - ground
     craft:

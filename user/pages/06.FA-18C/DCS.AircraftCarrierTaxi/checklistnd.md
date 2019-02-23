@@ -5,9 +5,9 @@ taxonomy:
     tag:
         - Taxi 
         - engine on
-        - CVN
-        - Aircraft Carrier
-        - Carrier
+        - cvn
+        - aircraft Carrier
+        - carrier
     craft:
         - hornet
         - f/a-18c
