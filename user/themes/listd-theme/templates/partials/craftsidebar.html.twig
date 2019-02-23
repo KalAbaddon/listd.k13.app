@@ -28,7 +28,7 @@
 </div>
 <div class="sidebar-content">
     <h4>CheckList tag</h4>
-    {% include 'partials/blog/taxonomy.html.twig' %}
+    {% include 'partials/blog/taxonomy.html.twig' with {'base_url':new_base_url, 'taxonomy':'tag'} %}
 </div>
 {% endif %}
 
