@@ -13,8 +13,7 @@ I added width fixed so that it will resize to fit as you streach site*/
 /* Kalabaddon edit bricklayer end */
 /* add checkbox and make it large for check list done */
 
-input.largcheck
-{
+.input.largcheck {
 	width: 30px;
 	height: 30px;
 }
