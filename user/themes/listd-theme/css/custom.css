@@ -44,7 +44,7 @@ adde style to accordions I use for checklists.*/
 }
 
 /*adding css to alternate the background color for the table to make it more readable*/
-.uk-accordion-table tr:nth-child(even) {
+.uk-accordion-title:nth-child(even) {
     background-color:  rgb(46, 46, 46);
 }
 
