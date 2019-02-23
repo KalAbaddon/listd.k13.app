@@ -60,6 +60,9 @@ adde style to accordions I use for checklists.*/
     color: rgb(255, 255, 255);
 }
 
+.tags {
+    box-shadow: 0px 0px 10px rgb(15, 15, 15) !important;
+}
 .card {
     background-color: rgb(29, 29, 29);
     box-shadow: 0px 0px 30px rgb(15, 15, 15) !important;
