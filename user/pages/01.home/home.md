@@ -18,6 +18,6 @@ content:
 pagination: true
 ---
 
-# Here are some lists!
+# Here are some Checklists!
 
 ## You can find them using the menu to select the craft also.
