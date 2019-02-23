@@ -67,7 +67,7 @@ checklist:
 ---
 
 ## P51D 
-Prestart Checklist
+Prestart
 
 ===
 
