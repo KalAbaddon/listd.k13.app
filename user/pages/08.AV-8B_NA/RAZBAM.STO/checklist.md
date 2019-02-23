@@ -3,8 +3,10 @@ title: Short Takeoff
 
 taxonomy:
     tag:
-        - take off
+        - takeoff
+        - adv takeoff
         - ground
+        - engine on
     craft:
         - Harrier II
         - AV-8B NA

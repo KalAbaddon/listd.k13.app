@@ -3,7 +3,8 @@ title: Vertical Takeoff
 
 taxonomy:
     tag:
-        - take off
+        - takeoff
+        - adv takeoff
         - ground
         - engine on
     craft:
