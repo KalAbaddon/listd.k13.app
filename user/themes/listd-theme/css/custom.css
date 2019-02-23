@@ -11,6 +11,15 @@ I added width fixed so that it will resize to fit as you streach site*/
     width: 400px;
 }
 /* Kalabaddon edit bricklayer end */
+/* add checkbox and make it large for check list done */
+
+input.largcheck
+{
+	width: 100%;
+	height: 100%;
+}
+
+
 .modular-hero {
     background-size: cover;
     background-position-x: center;
