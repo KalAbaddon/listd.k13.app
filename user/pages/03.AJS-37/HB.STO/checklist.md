@@ -5,7 +5,7 @@ taxonomy:
     tag:
         - ground
         - engine on
-        - take off
+        - takeoff
     craft:
         - AJS-37
         - Viggen

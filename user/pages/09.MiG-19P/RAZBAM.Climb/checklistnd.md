@@ -4,7 +4,7 @@ title: Climb
 taxonomy:
     tag:
         - air
-        - take off
+        - takeoff
     craft: 
         - mig-19p
         - farmer-b

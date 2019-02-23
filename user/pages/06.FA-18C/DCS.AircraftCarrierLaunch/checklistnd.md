@@ -4,7 +4,7 @@ title: Aircraft Carrier Launch
 taxonomy:
     tag:
         - CVN
-        - take off
+        - takeoff
         - engine on
         - Aircraft Carrier
         - Carrier

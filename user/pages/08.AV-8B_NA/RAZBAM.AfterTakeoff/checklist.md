@@ -4,7 +4,7 @@ title: After Takeoff
 taxonomy:
     tag:
         - air
-        - take off
+        - takeoff
     craft:
         - Harrier II
         - AV-8B NA

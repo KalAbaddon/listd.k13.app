@@ -4,7 +4,7 @@ title: Manual initial course setting
 taxonomy:
     tag:
         - ground
-        - take off
+        - takeoff
     craft:
         - AJS-37
         - Viggen

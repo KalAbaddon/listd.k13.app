@@ -3,7 +3,7 @@ title: Take Off By using the HUD
 
 taxonomy:
     tag:
-        - take off
+        - takeoff
         - ground
         - engine on
     craft:
