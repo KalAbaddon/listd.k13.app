@@ -13,9 +13,10 @@ I added width fixed so that it will resize to fit as you streach site*/
 /* Kalabaddon edit bricklayer end */
 /* add checkbox and make it large for check list done */
 
-input[type=checkbox] { 
-    transform: scale(2) !important;
-    }
+.input.largcheck {
+	width: 30px !important; 
+	height: 30px !important;
+}
 
 
 .modular-hero {
