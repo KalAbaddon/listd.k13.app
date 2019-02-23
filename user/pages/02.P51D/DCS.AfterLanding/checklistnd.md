@@ -12,7 +12,7 @@ taxonomy:
     author: DCS
 
 checklist:
-    -   step: Set throttle at 1000 RPM.
+    -   step: ! Set throttle at 1000 RPM.
     -   step: Open canopy.
     -   step: Set oil coolant and radiator air control switches to OPEN. Release switches to OFF when flaps are fully open.
     -   step: Raise wing flaps completely.
