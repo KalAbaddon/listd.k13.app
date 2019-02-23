@@ -27,7 +27,7 @@ pages:
   dateformat:
     short: 'jS M Y'
     long: 'F jS \a\t g:ia'
-  publish_dates: true
+  publish_dates: false
   process:
     markdown: true
     twig: false
