@@ -62,7 +62,7 @@ adde style to accordions I use for checklists.*/
 
 .card {
     background-color: rgb(29, 29, 29);
-    box-shadow: 0px 0px 20px rgb(42, 42, 42) !important;
+    box-shadow: 0px 0px 30px rgb(42, 42, 42) !important;
 }
 
 .card-image {
