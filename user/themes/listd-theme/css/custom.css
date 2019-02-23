@@ -11,13 +11,6 @@ I added width fixed so that it will resize to fit as you streach site*/
     width: 400px;
 }
 /* Kalabaddon edit bricklayer end */
-/* add checkbox and make it large for check list done */
-
-.input.largcheck {
-	width: 30px !important; 
-	height: 30px !important;
-}
-
 
 .modular-hero {
     background-size: cover;
@@ -69,6 +62,7 @@ adde style to accordions I use for checklists.*/
 
 .card {
     background-color: rgb(29, 29, 29);
+    box-shadow: 0px 0px 10px rgb(42, 42, 42);
 }
 
 .card-image {
