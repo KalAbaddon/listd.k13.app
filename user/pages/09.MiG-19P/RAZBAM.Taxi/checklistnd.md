@@ -12,7 +12,6 @@ taxonomy:
     author: RAZBAM
 
 checklist:
-
     -   step: 1) Ensure that all Gauge indications are correct, Control Boosters are selected On and the Stabilizer Mode Selector is set to Hydraulic Control, verify all System switches are set to the correct positions and the that the Cockpit is pressurized.
     -   step: 2) Check that the “ARU System in Take-Off and Landing Position” Lamp is illuminated.
     -   step: 3) Extend the Flaps to the 15o “Take-Off” position. The signal lamp “Flaps Deployed” will illuminate on the PPS-1 panel.

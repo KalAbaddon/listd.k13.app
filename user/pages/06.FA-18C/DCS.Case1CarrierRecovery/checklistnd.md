@@ -6,9 +6,9 @@ taxonomy:
         - approach
         - landing
         - case 1
-        - CVN
-        - Aircraft Carrier
-        - Carrier
+        - cvn
+        - aircraft Carrier
+        - carrier
     craft:
         - hornet
         - f/a-18c

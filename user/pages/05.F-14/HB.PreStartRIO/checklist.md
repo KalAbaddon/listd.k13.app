@@ -3,8 +3,8 @@ title: Engine Start RIO
 
 taxonomy:
     tag:
-        - RIO
-        - Engine off
+        - rio
+        - engine off
         - ground
     craft:
         - f-14

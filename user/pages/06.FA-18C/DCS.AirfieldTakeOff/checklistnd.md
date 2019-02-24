@@ -4,7 +4,7 @@ title: Airfield Take Off
 taxonomy:
     tag:
         - engine on
-        - Take Off
+        - takeoff
         - ground
     craft:
         - f/a-18c

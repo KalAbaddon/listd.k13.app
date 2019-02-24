@@ -23,4 +23,5 @@ Not out yet and look at this checklist stolen, err copied from HB!
 
 ===
 
-### Sorting WILL FOR SURE be better,  right now its just a placeholder / prototype
+Jesters do oft prove prophets
+-Shakespeare

@@ -5,7 +5,7 @@ taxonomy:
     tag:
         - ground
         - engine on
-        - take off
+        - takeoff
     craft:
         - Mirage
         - M-2000C

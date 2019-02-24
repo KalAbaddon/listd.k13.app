@@ -3,11 +3,11 @@ title: Aircraft Carrier Launch
 
 taxonomy:
     tag:
-        - CVN
-        - take off
+        - cvn
+        - takeoff
         - engine on
-        - Aircraft Carrier
-        - Carrier
+        - aircraft Carrier
+        - carrier
     craft:
         - hornet
         - f/a-18c

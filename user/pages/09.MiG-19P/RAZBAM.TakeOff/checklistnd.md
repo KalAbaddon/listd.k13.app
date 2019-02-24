@@ -5,7 +5,7 @@ taxonomy:
     tag:
         - ground
         - engine on
-        - take off
+        - takeoff
     craft: 
         - mig-19p
         - farmer-b

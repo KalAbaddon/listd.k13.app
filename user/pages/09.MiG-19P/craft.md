@@ -19,8 +19,8 @@ pagination: true
 ---
 
 # MiG-19P
-the 19 arrives soon 
+The 19P arrives at a war-theater near YOU!
 
 ===
 
-Hopefully these checklists are usable by then!
+Low visability landings, dont make me laugh!

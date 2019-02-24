@@ -3,7 +3,7 @@ title: Take Off By using the Flight Attitude Indicator
 
 taxonomy:
     tag:
-        - take off
+        - takeoff
         - ground
         - engine on
     craft:

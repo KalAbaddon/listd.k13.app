@@ -23,4 +23,4 @@ If you look really close you can laze for a buddy!
 
 ===
 
-### Sorting WILL FOR SURE be better,  right now its just a placeholder / prototype
+To bad he loaded up mk82's

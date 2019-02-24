@@ -3,7 +3,7 @@ title: Post Start RIO
 
 taxonomy:
     tag:
-        - RIO
+        - rio
         - engine on
         - ground
     craft: 

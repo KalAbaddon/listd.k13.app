@@ -11,6 +11,7 @@ I added width fixed so that it will resize to fit as you streach site*/
     width: 400px;
 }
 /* Kalabaddon edit bricklayer end */
+
 .modular-hero {
     background-size: cover;
     background-position-x: center;
@@ -59,8 +60,10 @@ adde style to accordions I use for checklists.*/
     color: rgb(255, 255, 255);
 }
 
+/*making the cards for checklists POP and look sexy with a IMPORTANT drop shadow*/
 .card {
     background-color: rgb(29, 29, 29);
+    box-shadow: 0px 0px 30px rgb(15, 15, 15) !important;
 }
 
 .card-image {

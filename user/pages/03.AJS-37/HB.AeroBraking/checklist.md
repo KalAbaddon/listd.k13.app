@@ -6,7 +6,7 @@ taxonomy:
         - approach
         - landing
         - braking
-        - Air
+        - air
     craft:
         - AJS-37
         - Viggen
