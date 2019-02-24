@@ -19,8 +19,8 @@ pagination: true
 ---
 
 # AV-8B NA
-Wow the default checklists are nicly typed!
+Getting the Bounce on targets in the Twentieth Century
 
 ===
 
-### Sorting WILL FOR SURE be better,  right now its just a placeholder / prototype
+What does the target say? The target says BOOM!

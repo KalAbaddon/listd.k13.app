@@ -19,8 +19,8 @@ pagination: true
 ---
 
 # F/A-18C
-Look at me early access and all that!
+The SA Says
 
 ===
 
-### Sorting WILL FOR SURE be better,  right now its just a placeholder / prototype
+Who cares.  Get the kill ASAP!

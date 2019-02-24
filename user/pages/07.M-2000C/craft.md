@@ -19,8 +19,8 @@ pagination: true
 ---
 
 # M-2000C
-Wow the default checklists are nicly typed!
+Oh uh is that a Bandit!
 
 ===
 
-### Sorting WILL FOR SURE be better,  right now its just a placeholder / prototype
+Lemme just bait him behind this mountain for a nice WVR suprise!
