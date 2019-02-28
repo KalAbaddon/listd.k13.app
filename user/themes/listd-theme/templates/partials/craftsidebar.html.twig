@@ -24,7 +24,7 @@
 {% if config.plugins.taxonomylist.enabled %}
 <div class="sidebar-content">
     <h4>AUTHOR</h4>
-    {% include 'partials/taxonomylist.html.twig' with {'base_url':new_base_url, 'taxonomy':'author'} %}
+    {% include 'partials/taxonomylist.html.twig' with {'base_url':new_base_url, 'taxonomy':'author', 'taxonomy':"{{ blog_url}}" } %}
 </div>
 <div class="sidebar-content2">
     <h4>CheckList tag</h4>
