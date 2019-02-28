@@ -1,5 +1,5 @@
 ---
-title: EMPLOYMENT OF CANNON ARMAMENT IN AIR COMBAT
+title: CANNON FOR AIR COMBAT
 
 taxonomy:
     tag:

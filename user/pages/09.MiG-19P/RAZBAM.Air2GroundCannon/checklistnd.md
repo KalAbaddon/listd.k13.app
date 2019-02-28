@@ -1,5 +1,5 @@
 ---
-title: EMPLOYMENT OF CANNON ARMAMENT IN GROUND ATTACK 
+title: CANNON FOR GROUND ATTACK 
 
 taxonomy:
     tag:

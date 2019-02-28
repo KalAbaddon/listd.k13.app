@@ -1,7 +1,4 @@
 {% extends 'partials/base.html.twig' %}
-{% set collection = page.collection() %}
-{% set blog = page.find(header_var('blog_url')|defined(theme_var('blog-page'))) %}
-{% set show_breadcrumbs = header_var('show_breadcrumbs', [page, blog])|defined(true) %}
 
 {% block content %}
 
@@ -30,9 +27,7 @@ No DropDowns for this Checklist{{ content }}
     {% endfor %}
 
 </div>
-<br />
-{% include 'partials/blog/checklisttaxonomy.html.twig' %}
-<br />
+
 <br />
 {% include 'partials/breadcrumbs.html.twig' %}
 

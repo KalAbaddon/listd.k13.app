@@ -1,5 +1,5 @@
 ---
-title: R-3S AIR-TO-AIR MISSILE EMPLOYMENT 
+title: R-3S AIR-TO-AIR
 
 taxonomy:
     tag:
