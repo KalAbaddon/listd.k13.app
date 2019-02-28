@@ -5,8 +5,8 @@
 /* Sub-object: `uk-accordion-title`
  ========================================================================== */
 .uk-accordion-title {
-  margin-top: 0;
-  margin-bottom: 15px;
+  margin-top: 10px;
+  margin-bottom: 10px;
   padding: 5px 15px;
   background: #f7f7f7;
   font-size: 18px;
