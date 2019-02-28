@@ -3,13 +3,8 @@ title: Rocket CCRP Use
 
 taxonomy:
     tag:
-        - engine on
-        - ground
-        - air
         - weapon
         - a2g
-        - CCRP
-        - rocket
     craft:
         - a-10c
         - warthog

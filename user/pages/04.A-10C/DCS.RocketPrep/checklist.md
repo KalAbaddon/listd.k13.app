@@ -3,12 +3,8 @@ title: Rocket Prep
 
 taxonomy:
     tag:
-        - engine on
-        - ground
-        - air
         - weapon
         - a2g
-        - rocket
     craft:
         - a-10c
         - warthog

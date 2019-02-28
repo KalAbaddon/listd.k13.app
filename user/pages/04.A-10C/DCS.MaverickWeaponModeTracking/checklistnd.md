@@ -5,7 +5,6 @@ taxonomy:
     tag:
         - weapons
         - a2g
-        - maverick
     craft:
         - a-10c
         - warthog
