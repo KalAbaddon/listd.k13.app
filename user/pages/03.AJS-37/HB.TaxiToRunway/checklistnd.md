@@ -11,6 +11,8 @@ taxonomy:
         - Viggen
     author: HeatBlur
 
+template: checklistnd
+
 checklist:
     -   step: Full deflection of rudder gives a nose wheel rotation of about 30°. Turning radius can be reduced by using differential braking.
     -   step: On increasing throttle above ground idle, check that ejector nozzle is closed.

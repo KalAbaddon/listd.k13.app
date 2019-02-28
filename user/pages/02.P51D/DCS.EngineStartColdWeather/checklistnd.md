@@ -12,6 +12,8 @@ taxonomy:
         - mustang
     author: DCS
 
+template: checklistnd
+
 checklist:
     -   step: More than normal priming is required at low temperatures during the starting procedure and immediately after combustion until smooth engine operation is obtained. It is not considered harmful to prime continuously when necessary during the entire cranking period, but prime only when the engine is turning over.
     -   step: Do not open the mixture control until the engine is firing to prevent excess fuel in the induction system. If the engine has not started after 2 minutes of cranking, disengage the starter and allow it to cool for one minute before making another attempt.

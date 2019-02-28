@@ -13,6 +13,8 @@ taxonomy:
         - f/a-18c
     author: DCS
 
+template: checklistnd
+
 checklist:
     -   step: Call up the air-to-air RADAR page on your right DDI and HUD repeater on your left DDI. 
     -   step: Enter Navigation master mode and set the Master Arm Switch to SAFE on the |LEFT INSTRUMENT PANEL| and approach at 350 knots and 800 feet Above Ground Level (AGL) along the heading of the landing runway and offset yourself slightly away from your first turn into the pattern.  

@@ -10,6 +10,8 @@ taxonomy:
         - warthog
     author: DCS
 
+template: checklistnd
+
 checklist:
     -   step: 1. With the Maverick in Weapon mode, SENSOR on the left side of the display is replaced with the Dynamic Launch Zone (DLZ). The caret on the right side of the DLZ indicates line of sight range from the aircraft to the ground point under the tracking gate. The top and bottom of the DLZ staple indicate the maximum and minimum range of the Maverick. The number at the bottom of the DLZ indicates the projected flight time of the missile. 
     -   step: 2. Use the slew switch or Slave All to SPI command (China Hat Forward Long) to move the tracking gate over the desired target.  

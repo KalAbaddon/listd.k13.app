@@ -9,6 +9,8 @@ taxonomy:
         - farmer-b
     author: RAZBAM
 
+template: checklistnd
+
 checklist:
     -   step: 1. In the ASP-5N Control Panel, put the Aiming Mode Switch in the Optic Position. This will remove the Radar Data from the ASP-5N and make it start to receive Target Wing Span and Distance Data that is manually introduced by the Pilot. 
     -   step: 2. For this example, an F-4 Phantom Fighter Aircraft, which has a Wingspan of 11 meters, is used as a Target. In this case, a value of 11 meters must be entered on the TARGET BASE/WING SPAN selector on the Sight. 

@@ -11,6 +11,8 @@ taxonomy:
         - farmer-b
     author: RAZBAM
 
+template: checklistnd
+
 checklist:
     -   step: 1) Check that the Switches “O-57K”; “Left” and “Right” Cannons; “GCAM” and “GCAM Ext.” on the RH Side Panel are selected Off.
     -   step: 2) Turn Off the Radar by putting the Radar Mode Control Switch on the Radar Control Panel to “Off”.

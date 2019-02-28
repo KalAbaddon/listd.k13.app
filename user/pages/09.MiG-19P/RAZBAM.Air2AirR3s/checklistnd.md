@@ -10,6 +10,8 @@ taxonomy:
         - farmer-b
     author: RAZBAM
 
+template: checklistnd
+
 checklist:
     -   step: 1. Ensure the Rocket Armament Power Switch, labeled “O-57K” (Р.С) is switched On. 
     -   step: 2. On the ASP-5N control panel, select “Guided Missiles” (УР) After this, the tracking Audio of the R-3S Seeker Head is heard on in the Helmet Earphones. 

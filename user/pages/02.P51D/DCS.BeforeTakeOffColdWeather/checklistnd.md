@@ -12,6 +12,8 @@ taxonomy:
         - mustang
     author: DCS
 
+template: checklistnd
+
 checklist:
     -   step: Hold down the brakes and run up the engine until spark plugs burn clean and the engine is operating smoothly before performing the ignition system check.
     -   step: Check flight controls for freedom of movement.

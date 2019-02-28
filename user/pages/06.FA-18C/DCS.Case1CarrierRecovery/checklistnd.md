@@ -14,6 +14,8 @@ taxonomy:
         - f/a-18c
     author: DCS
 
+template: checklistnd
+
 checklist:
     -   step: Call up the air-to-air RADAR page on your right DDI and HUD repeater on your left DDI. 
     -   step: Enter Navigation master mode and set the Master Arm Switch to SAFE on the |LEFT INSTRUMENT PANEL|. Lower the arrestor hook by pressing [H] and set HUD altitude to radar. 

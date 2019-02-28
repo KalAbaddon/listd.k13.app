@@ -13,6 +13,8 @@ taxonomy:
         - f/a-18c
     author: DCS
 
+template: checklistnd
+
 checklist:
     -   step: 1. Set throttles to military power and wipe the controls by moving control stick in a full circle and then push full forward and back. Then, push both full left and right rudder. 
     -   step: 2. Increase throttle to 100% afterburner and move hand off stick. 

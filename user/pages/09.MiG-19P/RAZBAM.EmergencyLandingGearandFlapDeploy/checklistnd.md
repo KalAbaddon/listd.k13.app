@@ -10,6 +10,8 @@ taxonomy:
         - farmer-b
     author: RAZBAM
 
+template: checklistnd
+
 checklist:
     -   step: 1. To lower the Landing Gear, put the Landing Gear Handle (ШАССИ) in the Down (ВЫПУЩЕНО) position. 
     -   step: 2. Pull the Landing Gear Emergency Deployment Handle, Red Handle to release the Hydraulic Uplocks mechanically by a cable and pulley system, the Handle is located next the pilot right leg near the RH Side Panel.

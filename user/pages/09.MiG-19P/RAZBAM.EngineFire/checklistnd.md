@@ -10,6 +10,8 @@ taxonomy:
         - farmer-b
     author: RAZBAM
 
+template: checklistnd
+
 checklist:
     -   step: 1. Immediately move the Throttle(s) of the affected Engine(s) to the STOP (СТОП)position and close the Fuel Shut-Off Valve(s) (ПЕРЕКРЫВНОЙ КРАН) by using the respective Switch in the same LH Side panel.
     -   step: 2. Turn OFF all Fuel Tanks Pumps 2,3 and 4 (НАСОС 2., 3. & 4. ГО БАКА). Fuel tank pump 1 (НАСОС 1. ГО БАКА) should remain on unless both Engines are on Fire. 

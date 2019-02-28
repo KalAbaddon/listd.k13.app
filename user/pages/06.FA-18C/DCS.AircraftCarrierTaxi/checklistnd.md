@@ -13,6 +13,8 @@ taxonomy:
         - f/a-18c
     author: DCS
 
+template: checklistnd
+
 checklist:
     -   step: 1. Arm the ejection seat 
     -   step: 2. Check that nosewheel steering is on 

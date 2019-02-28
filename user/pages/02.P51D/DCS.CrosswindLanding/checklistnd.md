@@ -12,6 +12,8 @@ taxonomy:
         - mustang
     author: DCS
 
+template: checklistnd
+
 checklist:
     -   step: Maintain airspeeds slightly higher than for a normal approach.
     -   step: Drop the wing into the wind slightly to counteract the drift, and keep the plane straight with the runway.

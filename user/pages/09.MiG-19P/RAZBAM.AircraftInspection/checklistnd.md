@@ -10,6 +10,8 @@ taxonomy:
         - farmer-b
     author: RAZBAM
 
+template: checklistnd
+
 checklist:
     -   step: 1) Carry out a General Visual Inspection of the Aircraft Fuselage, Landing Gears, Air Data Probes and Antennas to ensure they are in a serviceable condition.
     -   step: 2) Check that all the Engine Blanking Covers and Control or Landing Gear Locks have been removed.

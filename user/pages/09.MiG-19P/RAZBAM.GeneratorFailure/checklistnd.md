@@ -10,6 +10,8 @@ taxonomy:
         - farmer-b
     author: RAZBAM
 
+template: checklistnd
+
 checklist:
     -   step: DC Generator Failure is indicated by the illumination of the Generator Off Red Warning lights (ГЕНЕРАТОР ВЫКЛЮЧЕН) on the Main Instrument Panel. 
     -   step: If both DC Generators fail at the same time, the V-1 Voltmeter, located on the Main Instrument Panel, will display approximately 24V indicating the Battery is now powering the DC Busses.

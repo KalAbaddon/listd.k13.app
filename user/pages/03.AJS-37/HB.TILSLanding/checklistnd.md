@@ -13,6 +13,8 @@ taxonomy:
         - Viggen
     author: HeatBlur
 
+template: checklistnd
+
 checklist:
     -   step: 1. Set landing base as destination. Press L MÅL. 
     -   step: 2. Set QFE pressure on altimeter 

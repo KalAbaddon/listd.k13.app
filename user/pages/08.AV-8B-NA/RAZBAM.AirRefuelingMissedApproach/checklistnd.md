@@ -12,6 +12,8 @@ taxonomy:
         - AV-8B NA
     author: RAZBAM
 
+template: checklistnd
+
 checklist:
     -   step: 1. READY light goes out 
     -   step: 2. Fly a close tail chase formation with the tanker. 

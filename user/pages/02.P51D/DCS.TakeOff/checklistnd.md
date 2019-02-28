@@ -11,6 +11,8 @@ taxonomy:
         - mustang
     author: DCS
 
+template: checklistnd
+
 checklist:
     -   step: Be sure takeoff area is clear and check final approach for inbound aircraft.
     -   step: Release brakes and line up for takeoff.

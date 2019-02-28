@@ -10,6 +10,8 @@ taxonomy:
         - mustang
     author: DCS
 
+template: checklistnd
+
 checklist:
     -   step: Set the propeller control full forward. This makes the engine easier to start next time.
     -   step: Idle at 1500 RPM.

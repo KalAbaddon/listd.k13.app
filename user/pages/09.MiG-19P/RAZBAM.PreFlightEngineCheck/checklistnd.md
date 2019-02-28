@@ -10,6 +10,8 @@ taxonomy:
         - farmer-b
     author: RAZBAM
 
+template: checklistnd
+
 checklist:
     -   step: 1) Ensure that the Ground Crew have installed the wheel chocks.
     -   step: 2) Increase the thrust on both engines to 10,000 RPM for around 40 seconds to warm up the engines.

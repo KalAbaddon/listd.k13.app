@@ -10,6 +10,8 @@ taxonomy:
         - farmer-b
     author: RAZBAM
 
+template: checklistnd
+
 checklist:
     -   step: On an Aircraft with no External Drop Tanks installed
     -   step: 100 Liters will be consumed from Fuel Tank No. 1<br />Fuel Tanks No. 3, 4 and 2 will be Emptied concurrently<br />Remaining Fuel in Tank No. 1.

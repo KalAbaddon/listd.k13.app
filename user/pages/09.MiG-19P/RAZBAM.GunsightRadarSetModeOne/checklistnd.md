@@ -9,6 +9,8 @@ taxonomy:
         - farmer-b
     author: RAZBAM
 
+template: checklistnd
+
 checklist:
     -   step: 1. Put the RP-5 Altitude Mode Switch in the 1 Position. 
     -   step: 2. This turns off the AR-18-1 Search Antenna of the Radar and any Target within 1,200 meters of the Aircraft will be Locked. The Radar will then work identically to a Radio Range-Finder, like the one installed in the MiG-19S. 

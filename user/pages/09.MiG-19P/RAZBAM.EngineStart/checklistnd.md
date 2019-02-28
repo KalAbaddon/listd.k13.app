@@ -10,6 +10,8 @@ taxonomy:
         - farmer-b
     author: RAZBAM
 
+template: checklistnd
+
 checklist:
     -   step: 1) Confirm that the “Battery” Switch, located on the RH Side Panel, is On.
     -   step: 2) On the LH Side Panel, Turn On <br />“Fuel Tank Pump 1”, <br />“Fuel Tank Pump 2”, <br />“Fuel Tank Pump 3” and <br />“Fuel Tank Pump 4”. <br />The Green Lamps “Fuel Tank 2” and “Fuel Tank 3, 4” adjacent to the Fuel Tank Pump Switches will turn Off.

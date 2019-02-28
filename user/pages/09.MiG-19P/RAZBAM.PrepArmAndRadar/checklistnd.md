@@ -11,6 +11,8 @@ taxonomy:
         - farmer-b
     author: RAZBAM
 
+template: checklistnd
+
 checklist:
     -   step: 1) Turn On the “Sight Heating” Switch. While the ASP-5 Gunsight and AR-18-8 Radar Sight indications appear instantly, the Sight Heating assures correct sight operation at Low Temperatures.
     -   step: 2) Turn On the “Sight” Switch. The Yellow Circle with the Center Dot Cannon Aiming Point should appear on the Glass of the ASP-5N Gunsight.

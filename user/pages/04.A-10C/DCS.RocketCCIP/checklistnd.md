@@ -10,6 +10,8 @@ taxonomy:
         - warthog
     author: DCS
 
+template: checklistnd
+
 checklist:
     -   step: To most easily select rockets in CCIP mode, set the HUD as SOI and 
     -   step: Select CCIP mode by pressing the Master Mode Control Button until selected.  The current mode is displayed in the center of the HUD.  

@@ -10,6 +10,8 @@ taxonomy:
         - farmer-b
     author: RAZBAM
 
+template: checklistnd
+
 checklist:
     -   step: 1. Switch On both Cannon power switches on the RH Side Panel. 
     -   step: 2. Press the Cannon Reload Buttons on the Upper LH Side panel for more than 2 seconds per Button. 

@@ -11,6 +11,8 @@ taxonomy:
         - hornet
     author: DCS
 
+template: checklistnd
+
 checklist:
     -   step: 1. Align the aircraft down the center of the runway and roll forward to align the nosewheel down the runway. 
     -   step: 2. Set left DDI to the HUD page. 

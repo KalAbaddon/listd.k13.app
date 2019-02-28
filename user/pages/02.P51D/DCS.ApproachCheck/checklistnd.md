@@ -12,6 +12,8 @@ taxonomy:
         - mustang
     author: DCS
 
+template: checklistnd
+
 checklist:
     -   step: Fuel – select fullest internal tank for landing.
     -   step: Fuel booster pump – set to ON. 

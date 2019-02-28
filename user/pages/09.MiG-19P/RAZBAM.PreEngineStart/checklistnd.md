@@ -10,6 +10,8 @@ taxonomy:
         - farmer-b
     author: RAZBAM
 
+template: checklistnd
+
 checklist:
     -   step: 1) Contact the ground crew to connect the External Ground Power.
     -   step: 2) On the RH Side Panel, Turn On the “Battery” switch. Check the Voltmeter, on the Main Instrument Panel, is reading 28 V (if the Aircraft Batteries are the only power source, it will indicate 24 V). The Warning Lamps “Oil” for both the LH and RH Engines, “Right Generator” and “Left Generator”, “Low Hydraulic Pressure”, located on the Main Instrument Panel and Lamps “Fuel Tank 2” and “Fuel Tanks 3, 4”, located on the RH Side Panel should be illuminated.

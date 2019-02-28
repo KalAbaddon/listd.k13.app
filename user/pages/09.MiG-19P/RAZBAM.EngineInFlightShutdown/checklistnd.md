@@ -10,6 +10,8 @@ taxonomy:
         - farmer-b
     author: RAZBAM
 
+template: checklistnd
+
 checklist:
     -   step: 1. Put the Throttle of the shutdown Engine in the IDLE (МАЛЫЙ ГАЗ) position.
     -   step: 2. On the LH Side Panel, open the cover of the Engine Air Re-Light Start (ЗАЖИГАНИЕ В ВОЗДУХЕ) switch for the Engine you want to Re-Light and operate the Switch.

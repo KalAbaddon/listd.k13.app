@@ -10,6 +10,8 @@ taxonomy:
         - farmer-b
     author: RAZBAM
 
+template: checklistnd
+
 checklist:
     -   step: 1. In cold weather it is important to check that the both the Main PVD Pitot Probe (ПВД ЧАСЫ) and TP-156 Emergency Pitot Probe (АВАР. ТП-156) Heating Switches on the RH Side Panel are switched on prior to departure. If you detect erratic readings in the Air Data Instruments, check that the two Probe Heating switches are turned On.
     -   step: 2. In case the main PVD Pitot fails, switch over to the Standby TP156 by switching the lever in the LH Side Panel to the TP-156 position and reduce IAS to 700 kph or lower. 

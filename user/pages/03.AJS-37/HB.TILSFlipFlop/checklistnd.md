@@ -12,6 +12,8 @@ taxonomy:
         - Viggen
     author: HeatBlur
 
+template: checklistnd
+
 checklist:
     -   step: 1. Master mode NAV or LANDN NAV (or P/O) 
     -   step: 2. Confirm selected landing base 

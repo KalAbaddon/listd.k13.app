@@ -10,6 +10,8 @@ taxonomy:
         - farmer-b
     author: RAZBAM
 
+template: checklistnd
+
 checklist:
     -   step: 1. Turn On the O-57K (P.C) Switch on the RH Side Panel. 
     -   step: 2. On the ASP-5N Control Panel, put the Armament Mode Selector in Rocket Pods (P.C).

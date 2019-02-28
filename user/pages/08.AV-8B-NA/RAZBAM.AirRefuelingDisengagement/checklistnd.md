@@ -12,6 +12,8 @@ taxonomy:
         - AV-8B NA
     author: RAZBAM
 
+template: checklistnd
+
 checklist:
     -   step: 1. Reduce power to establish a separation rate of 3 to 5 knots. 
     -   step: 2. Keep the same alignment on the tanker as if approaching. 

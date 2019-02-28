@@ -12,6 +12,8 @@ taxonomy:
         - Viggen
     author: HeatBlur
 
+template: checklistnd
+
 checklist:
     -   step: Data selector in mode AKT POS / OUT. 
     -   step: Confirm landing base on the destination indicator. 

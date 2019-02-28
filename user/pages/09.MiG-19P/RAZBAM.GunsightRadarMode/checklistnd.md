@@ -9,6 +9,8 @@ taxonomy:
         - farmer-b
     author: RAZBAM
 
+template: checklistnd
+
 checklist:
     -   step: 1. Put the gunsight switch in the Radar Position. 
     -   step: 2. Uncage the Sight Gyros. 

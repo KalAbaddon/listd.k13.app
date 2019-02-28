@@ -10,6 +10,8 @@ taxonomy:
         - farmer-b
     author: RAZBAM
 
+template: checklistnd
+
 checklist:
     -   step: 1. Contact the ATC/Control Tower and immediately return to land at your Airbase. 
     -   step: 2. Turn off all Electric consumer power switches. This includes both DC Generators (ГЕНЕРАТОР ЛЕВЫЙ, ГЕНЕРАТОР ПРАВЫЙ) RP-5 Radar (ИЗУМРУД), RV-5 Radar Altimeter (МАРКЕР РВ), RSIU-4V Radio (РАЦИЯ РАСХОДОМ), SRO-2 IFF, ARK-5P (АВАРИЙН АРК РАЦИЯ) Radio Navigation System and all Fuel Tank Pumps (НАСОС 1., 2., 3. & 4. ГО БАКА) (if flying above 7,000 meters, keep the Fuel Tank Pump 1 (НАСОС 1. ГО БАКА) ON. 

@@ -10,6 +10,8 @@ taxonomy:
         - farmer-b
     author: RAZBAM
 
+template: checklistnd
+
 checklist:
     -   step: 1) Turn Off the Aileron Boosters and move the Control Stick from the Left to Right and check that the Ailerons move smoothly. When the Aircraft is on the ground and there is no dynamic air pressure flowing over the Ailerons, the Control Stick should remain in the position selected.
     -   step: 2) Take the Control Stick to the extreme Left Position and then Switch On the Aileron Booster.

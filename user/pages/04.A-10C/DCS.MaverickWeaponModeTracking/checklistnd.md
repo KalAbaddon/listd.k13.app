@@ -10,6 +10,8 @@ taxonomy:
         - warthog
     author: DCS
 
+template: checklistnd
+
 checklist:
     -   step: 1. When the Maverick has locked on to a target, the Pointing Cross that represents the pointing angle of the Maverick in relation to the aircraft’s longitudinal axis will flash. 
     -   step: 2. At this point you can hold down the weapon release button to launch the missile. 

@@ -10,6 +10,8 @@ taxonomy:
         - farmer-b
     author: RAZBAM
 
+template: checklistnd
+
 checklist:
     -   step: 1. Put the ASP-5N Armament Mode Switch in Bombs and select the Release Setting (Auto-Manual). 
     -   step: 2. Check that the two Green Lamps that indicate Suspended Loads on the Pylons are illuminated 

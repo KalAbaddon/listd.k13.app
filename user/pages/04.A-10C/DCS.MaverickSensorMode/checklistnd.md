@@ -10,6 +10,8 @@ taxonomy:
         - warthog
     author: DCS
 
+template: checklistnd
+
 checklist:
     -   step: 1. On the AHCP, set the Master Arm switch to ARM 
     -   step: 2. From one of the MFCD, select the MAV OSB 

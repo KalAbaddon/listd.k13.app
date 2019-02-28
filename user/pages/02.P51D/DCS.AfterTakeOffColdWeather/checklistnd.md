@@ -12,6 +12,8 @@ taxonomy:
         - mustang
     author: DCS
 
+template: checklistnd
+
 checklist:
     -   step: Turn on the gun heaters.
 ---

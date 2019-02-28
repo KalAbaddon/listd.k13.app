@@ -10,6 +10,8 @@ taxonomy:
         - farmer-b
     author: RAZBAM
 
+template: checklistnd
+
 checklist:
     -   step: 1) Climb should be performed at Maximum Engine Power, in order to save Time and Fuel.
     -   step: 2) The best Climb Speed with Afterburners engaged is M = 0.88-0.9.

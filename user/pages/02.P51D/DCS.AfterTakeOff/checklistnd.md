@@ -10,6 +10,8 @@ taxonomy:
         - mustang
     author: DCS
 
+template: checklistnd
+
 checklist:
     -   step: Raise the landing gear by pulling the landing gear lever inward and up. Be sure the lever catches in the up position. In a minimum-run takeoff, raise the flaps when altitude is at least 200 feet, a sufficient airspeed has been attained and all obstacles have been cleared.
     -   step: Check coolant and oil temperatures, and oil pressure. 

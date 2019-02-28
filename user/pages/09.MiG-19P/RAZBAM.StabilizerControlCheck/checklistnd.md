@@ -10,6 +10,8 @@ taxonomy:
         - farmer-b
     author: RAZBAM
 
+template: checklistnd
+
 checklist:
     -   step: 1) Ensure the Stabilizer Switch is in the Hydraulic Control Mode. Check the Stabilizers by moving the Control Stick forwards and backwards to the extreme positions. There should be no jamming, rubbing or knocks when moving the Control Stick moves. The Main Hydraulic System Pressure Gauge may oscillate a small amount during testing.
     -   step: 2) Turn On the Stabilizer Electric Control Mode and check that the stick moves smoothly. The Stabilizer should move at the speed of 4o/second in this Backup Mode.

@@ -10,6 +10,8 @@ taxonomy:
         - warthog
     author: DCS
 
+template: checklistnd
+
 checklist:
     -   step: 1. Place the Boat Switch in the center position. 
     -   step: 2. Slew the tracking gate near the intended target. 

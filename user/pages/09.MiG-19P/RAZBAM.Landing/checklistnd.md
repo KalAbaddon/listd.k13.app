@@ -11,6 +11,8 @@ taxonomy:
         - farmer-b
     author: RAZBAM
 
+template: checklistnd
+
 checklist:
     -   step: 1) On final approach, the aircraft loses its speed rather slowly and has a shallow Approach Angle. The Aircraft Nose at that Angle nearly intersects the Horizon.
     -   step: 2) At an altitude of 20-30 meters till Touchdown, look down to the ground, forward left at an angle of 15-20o, checking the Altimeter and Variometer periodically.

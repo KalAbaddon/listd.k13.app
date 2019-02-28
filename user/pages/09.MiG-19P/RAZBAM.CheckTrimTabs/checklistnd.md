@@ -10,6 +10,8 @@ taxonomy:
         - farmer-b
     author: RAZBAM
 
+template: checklistnd
+
 checklist:
     -   step: 1) Move the Aileron Trim Tab by operating the “Aileron Trim” switch, check the “Aileron Trim Neutral” Lamp every time the trim tab moves through the neutral position. Verify the Aileron Trim Tab position with the Ground Crew.
     -   step: 2) Using the Control Stick Pitch Trim Switch, move the Stabilizer Trim forwards and backwards to the extreme positions. The rearward trim should move the Control Stick all the way to the back of its travel and about 90% forward in travel. Check the “Pitch Trim Neutral” Lamp illuminates every time the Control Stick goes through the Neutral position. Verify the Stabilizer positions with the Ground Crew.

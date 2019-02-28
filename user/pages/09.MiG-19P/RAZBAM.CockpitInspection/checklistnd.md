@@ -10,6 +10,8 @@ taxonomy:
         - farmer-b
     author: RAZBAM
 
+template: checklistnd
+
 checklist:
     -   step: 1) Check that the Landing Gear Handle is in the Neutral Position and with the Latch Locked to prevent inadvertent operation.
     -   step: 2) Check that all the Circuit Breaker Switches (on the rear RH Side Panel) are in the on position and all the Safety Covers, where fitted to Switches, are Closed.

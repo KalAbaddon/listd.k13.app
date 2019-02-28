@@ -12,6 +12,8 @@ taxonomy:
         - mustang
     author: DCS
 
+template: checklistnd
+
 checklist:
     -   step: Slow down to 170 mph before lowering the landing gear.
     -   step: When lowering the landing gear, make sure the control handle is DOWN and locked. Check the landing gear indicator lights. Be sure the hydraulic pressure returns to approximately 1000 PSI. Be prepared for the aircraft to feel nose-heavy when the gear is down. Adjust elevator trim to compensate.

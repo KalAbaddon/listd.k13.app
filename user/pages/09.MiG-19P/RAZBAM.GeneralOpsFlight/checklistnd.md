@@ -10,6 +10,8 @@ taxonomy:
         - farmer-b
     author: RAZBAM
 
+template: checklistnd
+
 checklist:
     -   step: 1) The extension of the Airbrakes is allowed at all permissible airspeeds but may cause a slight vibration of the aircraft.
     -   step: 2) While flying at speeds above M = 1.2, the extension of the airbrakes may generate momentary Longitudinal Oscillations.

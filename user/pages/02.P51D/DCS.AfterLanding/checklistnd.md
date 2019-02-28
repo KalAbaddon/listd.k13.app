@@ -11,6 +11,8 @@ taxonomy:
         - mustang
     author: DCS
 
+template: checklistnd
+
 checklist:
     -   step: Set throttle at 1000 RPM.
     -   step: Open canopy.

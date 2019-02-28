@@ -10,6 +10,8 @@ taxonomy:
         - mustang
     author: DCS
 
+template: checklistnd
+
 checklist:
     -   step: Prime the engine three to four seconds if it is cold, one if warm.
     -   step: Raise the starter switch cover and hold the switch up in the START position to operate the starter and begin turning the engine ([Home] key).

@@ -10,6 +10,8 @@ taxonomy:
         - farmer-b
     author: RAZBAM
 
+template: checklistnd
+
 checklist:
     -   step: 1. Illumination of the “Oil” (МАСЛО) Lamp during flight, stop any maneuver and return to straight and level flight. 
     -   step: 2. Increase the Throttle setting to the MILITARY POWER (МАКСИМАЛ) position and check if the lamp remains illuminated. 

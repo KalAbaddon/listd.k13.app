@@ -11,6 +11,8 @@ taxonomy:
         - farmer-b
     author: RAZBAM
 
+template: checklistnd
+
 checklist:
     -   step: 1) Connect the Nose Wheel Brake.
     -   step: 2) Remove the Landing Gear Lever Lock.

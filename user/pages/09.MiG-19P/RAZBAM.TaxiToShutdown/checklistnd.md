@@ -10,6 +10,8 @@ taxonomy:
         - farmer-b
     author: RAZBAM
 
+template: checklistnd
+
 checklist:
     -   step: 1) After the Landing Roll-out, disconnect the Nose Wheel Brake and un-pressurize the Cockpit. The Canopy can be opened if necessary.
     -   step: 2) Ensure all Armament and Radar Switches are Off and the Trigger is in its Safe Position.

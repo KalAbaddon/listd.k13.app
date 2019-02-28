@@ -12,6 +12,8 @@ taxonomy:
         - mustang
     author: DCS
 
+template: checklistnd
+
 checklist:
     -   step: Advance the throttle quickly but smoothly to a manifold pressure of 46” at 2700 RPM. Avoid a sudden rush of power to prevent a possible loss of control due to increasing torque effects.
     -   step: As power is increased, counteract left torque by using right rudder and right trim tab.

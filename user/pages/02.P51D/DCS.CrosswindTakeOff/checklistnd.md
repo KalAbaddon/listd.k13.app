@@ -11,6 +11,8 @@ taxonomy:
         - mustang
     author: DCS
 
+template: checklistnd
+
 checklist:
     -   step: Advance throttle to Takeoff Power (61 in.Hg at 3000 RPM).
     -   step: Hold the tail down until sufficient speed is attained to ensure positive rudder control. Speed should be slightly greater than for normal takeoff.
