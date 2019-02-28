@@ -3,12 +3,8 @@ title: Maverick in Force Correlate Tracking Mode
 
 taxonomy:
     tag:
-        - engine on
-        - ground
-        - air
-        - weapon
+        - weapons
         - a2g
-        - maverick
     craft:
         - a-10c
         - warthog

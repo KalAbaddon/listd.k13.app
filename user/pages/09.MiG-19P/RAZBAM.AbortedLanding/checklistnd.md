@@ -3,8 +3,6 @@ title: Aborted Landing
 
 taxonomy:
     tag:
-        - ground
-        - engine on
         - emergency
         - air
     craft: 

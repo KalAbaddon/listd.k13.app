@@ -3,12 +3,8 @@ title: Maverick Weapon Mode, Tracking
 
 taxonomy:
     tag:
-        - engine on
-        - ground
-        - air
-        - weapon
+        - weapons
         - a2g
-        - maverick
     craft:
         - a-10c
         - warthog

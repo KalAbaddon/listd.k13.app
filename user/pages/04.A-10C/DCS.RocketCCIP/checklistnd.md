@@ -3,13 +3,8 @@ title: Rocket CCIP Use
 
 taxonomy:
     tag:
-        - engine on
-        - ground
-        - air
         - weapon
         - a2g
-        - CCIP
-        - rocket
     craft:
         - a-10c
         - warthog

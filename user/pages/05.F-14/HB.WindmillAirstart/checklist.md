@@ -3,10 +3,9 @@ title: Energency Windmill Airstart
 
 taxonomy:
     tag:
-        - Emergency
+        - emergency
         - air
-        - engine out
-        - engine off
+        - pilot
     craft:
         - tomcat
         - f-14

@@ -5,7 +5,6 @@ taxonomy:
     tag:
         - engine on
         - ground
-        - flight controls
     craft: 
         - mig-19p
         - farmer-b

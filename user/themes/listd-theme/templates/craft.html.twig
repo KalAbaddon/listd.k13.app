@@ -30,6 +30,17 @@
             {% include 'partials/breadcrumbs.html.twig' %}
         {% endif %}
         
+{# stuff for easy nav tags per page#}
+<span class="tags"> Common Catagories: 
+        <a class="label label-rounded label-secondary p-category" href="{{ page.url }}/tag:air#body-wrapper">air</a>
+        <a class="label label-rounded label-secondary p-category" href="{{ page.url }}/tag:emergency#body-wrapper">emergency</a>
+        <a class="label label-rounded label-secondary p-category" href="{{ page.url }}/tag:ground#body-wrapper">ground</a>
+        <a class="label label-rounded label-secondary p-category" href="{{ page.url }}/tag:weapons#body-wrapper">weapons</a>
+    </span>
+    <br />    <br /> 
+{#end stuff#}
+
+
         {% embed 'partials/layout.html.twig' with {blog: page} %}
             {% block item %}
 

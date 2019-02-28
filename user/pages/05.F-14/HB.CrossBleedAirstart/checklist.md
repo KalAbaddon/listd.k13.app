@@ -3,11 +3,9 @@ title: Emergency Cross Bleed Airstart
 
 taxonomy:
     tag:
-        - Emergency
+        - emergency
         - air
         - pilot
-        - engine out
-        - engine off
     craft:
         - tomcat
         - f-14

@@ -3,10 +3,8 @@ title: Emergency Spooldown Airstart
 
 taxonomy:
     tag:
-        - Emergency
+        - emergency
         - air
-        - engine off
-        - engine out
         - pilot
     craft:
         - f-14
