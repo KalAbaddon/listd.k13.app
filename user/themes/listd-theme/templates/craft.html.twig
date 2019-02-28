@@ -30,6 +30,15 @@
             {% include 'partials/breadcrumbs.html.twig' %}
         {% endif %}
         
+{# stuff for easy nav tags per page#}
+<span class="tags">
+        <a class="label label-rounded label-secondary p-category" href="/tag:air#body-wrapper">air</a>
+        <a class="label label-rounded label-secondary p-category" href="/tag:ground#body-wrapper">ground</a>
+        <a class="label label-rounded label-secondary p-category" href="/tag:weapons#body-wrapper">weapons</a>
+    </span>
+{#end stuff#}
+
+
         {% embed 'partials/layout.html.twig' with {blog: page} %}
             {% block item %}
 
