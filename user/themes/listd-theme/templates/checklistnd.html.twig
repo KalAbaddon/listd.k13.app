@@ -13,7 +13,13 @@ No DropDowns for this Checklist{{ content }}
                     <h3 class="uk-accordion-title" >{{ checklist.step }}</h3>
                 </td>
                 <td align="right">
-                    <label><input class="uk-checkbox uk-form-large" type="checkbox" checked>Done</label>
+                    <form>
+                        <fieldset class="uk-fieldset">
+                            <div class="uk-margin uk-grid-small uk-child-width-auto uk-grid">
+                                <label><input class="uk-checkbox uk-form-large" type="checkbox" checked>Done</label>
+                            </div>
+                        </fieldset>
+                    </form>
                 </td>
             </tr>
         </table>
