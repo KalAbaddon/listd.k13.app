@@ -12,6 +12,8 @@ taxonomy:
         - AV-8B NA
     author: RAZBAM
 
+template: checklistnd
+
 checklist:
     -   step: 1. Complete the before plug-in checklist. 
     -   step: 2. Assume a position 10 to 15 feet in trail of the drogue. 
