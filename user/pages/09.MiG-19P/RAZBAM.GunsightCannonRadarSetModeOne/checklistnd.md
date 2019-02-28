@@ -3,7 +3,6 @@ title: EMPLOYMENT OF RADAR MODE WHEN THE RP-5 HAS BEEN SWITCHED TO MODE 1
 
 taxonomy:
     tag:
-        - air
         - weapons
         - gunsight
     craft: 

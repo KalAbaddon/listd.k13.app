@@ -3,7 +3,6 @@ title: GUNSIGHT IN OPTIC MODE
 
 taxonomy:
     tag:
-        - air
         - weapons
         - gunsight
     craft: 

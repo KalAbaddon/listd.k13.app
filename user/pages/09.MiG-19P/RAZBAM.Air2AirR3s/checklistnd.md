@@ -3,7 +3,6 @@ title: R-3S AIR-TO-AIR
 
 taxonomy:
     tag:
-        - air
         - weapons
         - a2a
         - r-3s

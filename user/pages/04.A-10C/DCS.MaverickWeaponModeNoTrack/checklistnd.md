@@ -3,10 +3,7 @@ title: Maverick Weapon Mode, No Track
 
 taxonomy:
     tag:
-        - engine on
-        - ground
-        - air
-        - weapon
+        - weapons
         - a2g
         - maverick
     craft:

@@ -3,7 +3,6 @@ title: CANNON FOR GROUND ATTACK
 
 taxonomy:
     tag:
-        - air
         - weapons
         - a2g
         - cannon

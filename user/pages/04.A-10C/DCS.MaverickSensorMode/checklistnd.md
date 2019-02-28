@@ -3,10 +3,7 @@ title: Maverick Sensor Mode
 
 taxonomy:
     tag:
-        - engine on
-        - ground
-        - air
-        - weapon
+        - weapons
         - a2g
         - maverick
     craft:

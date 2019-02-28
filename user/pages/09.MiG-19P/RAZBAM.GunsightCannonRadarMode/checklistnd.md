@@ -3,7 +3,6 @@ title: GUNSIGHT IN RADAR MODE
 
 taxonomy:
     tag:
-        - air
         - weapons
         - gunsight
     craft: 

@@ -3,7 +3,6 @@ title: UNGUIDED ROCKETS FOR GROUND ATTACK
 blog_url: MiG-19P
 taxonomy:
     tag:
-        - air
         - weapons
         - a2g
         - rocket

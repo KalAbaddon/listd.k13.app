@@ -3,7 +3,6 @@ title: CANNON FOR AIR COMBAT
 
 taxonomy:
     tag:
-        - air
         - weapons
         - a2a
         - cannon

@@ -3,9 +3,6 @@ title: Maverick Prep
 
 taxonomy:
     tag:
-        - engine on
-        - ground
-        - air
         - weapon
         - a2g
         - maverick
