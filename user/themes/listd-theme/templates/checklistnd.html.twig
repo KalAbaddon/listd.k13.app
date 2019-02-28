@@ -1,4 +1,5 @@
 {% extends 'partials/base.html.twig' %}
+{% set blog = page.find(header_var('blog_url')|defined(theme_var('blog-page'))) %}
 
 {% block content %}
 
