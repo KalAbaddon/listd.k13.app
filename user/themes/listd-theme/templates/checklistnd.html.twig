@@ -19,6 +19,8 @@ No DropDowns for this Checklist{{ content }}
                         </label>
                         
                     </div>
+                    {% include "forms/form.html.twig" with { form: forms('donebutton') } %}
+
                 </td>
             </tr>
         </table>
