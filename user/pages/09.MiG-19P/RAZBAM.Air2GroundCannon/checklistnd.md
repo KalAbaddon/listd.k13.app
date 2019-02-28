@@ -1,11 +1,10 @@
 ---
-title: CANNON FOR GROUND ATTACK 
+title: Cannon for Ground Attack 
 
 taxonomy:
     tag:
         - weapons
         - a2g
-        - cannon
     craft: 
         - mig-19p
         - farmer-b

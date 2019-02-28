@@ -1,11 +1,10 @@
 ---
-title: R-3S AIR-TO-AIR
+title: R-3S Air-to-Air
 
 taxonomy:
     tag:
         - weapons
         - a2a
-        - r-3s
     craft: 
         - mig-19p
         - farmer-b

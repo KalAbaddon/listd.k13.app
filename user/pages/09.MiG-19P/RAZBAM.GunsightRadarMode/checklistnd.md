@@ -1,10 +1,9 @@
 ---
-title: GUNSIGHT IN RADAR MODE 
+title: Gunsight in Radar Mode
 
 taxonomy:
     tag:
         - weapons
-        - gunsight
     craft: 
         - mig-19p
         - farmer-b

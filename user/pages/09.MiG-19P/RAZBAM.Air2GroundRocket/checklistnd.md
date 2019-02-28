@@ -1,20 +1,25 @@
 ---
-title: UNGUIDED ROCKETS FOR GROUND ATTACK
+title: Unguided Rockets for Ground Attack
 blog_url: MiG-19P
 taxonomy:
     tag:
         - weapons
         - a2g
-        - rocket
     craft: 
         - mig-19p
         - farmer-b
     author: RAZBAM
 
 checklist:
-    -   step: As the Radar of the MiG-19P cannot be used for Ground Attack, the Optic method can be used for this purpose in the same manner it is used for Air combat. However, the minimum span that can be introduced into the Sight is 7 meters, which may prove insufficient when attacking small targets like Cars or small Armored Units. One solution is to introduce a distance of 1,000 meters into the Sight (or whichever the Pilot decides as Optimal Range) and estimate how much a 5-meter target (for example) would fill the Reticle Outer Circle in the 7-meter setting, then open fire when the Target fills that space.
-    -   step: A fixed sight can also be used, but that requires a lot of training to prefect. For targets larger than 7 meters, the method of operation remains unchanged. 
-    -   step: The Cannons are best employed at Dive Angles from 20º to 50º and at distances between 1,500 and 800 meters from the Target. Remember that as the Dive Angle and Speed increases, so does the exit Altitude. When attacking at 20-30º, the recovery maneuver should start before reaching 800 meters, but for 40-50º, the recovery should start at 1,000 meters. 
+    -   step: 1. Turn On the O-57K (P.C) Switch on the RH Side Panel. 
+    -   step: 2. On the ASP-5N Control Panel, put the Armament Mode Selector in Rocket Pods (P.C).
+    -   step: 3. On the ORO-57K Control Panel, check that the Green light above the “0” is illuminated, indicating the suspension of both Rocket Pods, and that the correct remaining quantity of Rockets per Pod (8) is indicated by Yellow lights.
+    -   step: 4. Select the desired Salvo setting with the Salvo Switch above the ORO-57K Control Panel. <br />AUTO- All Rockets will be fired in succession if the Trigger remains pressed. <br />1RO- A single Rocket will be launched for every Trigger press. <br />4RO- Four Rockets will be fired on every press of the Trigger
+    -   step: 5. Introduce the span of 15 meters into the Sight. 
+    -   step: 6. Introduce the Distance of 1,500 meters by rotating the Throttle Handle.   
+    -   step: 7. Put the gunsight mode in Optic and Uncage the Gyros. 
+    -   step: 8. Dive towards the Target and maintain the Reticle Center Dot over it. Ensure there´s no yaw. 
+    -   step: 9. When both edges of the Wagon touch the Sight´s Reticle Ring, open fire. 
 ---
 
 ## MiG-19P 
@@ -22,3 +27,8 @@ EMPLOYMENT OF ARS-57M/S-5M UNGUIDED ROCKETS IN GROUND ATTACK
 
 ===
 
+As explained previously for Air Combat, the method of operating the ARS57M rockets for Ground Attack is the same as the Cannon. However, an example will be provided, as attacking targets on the ground has its own characteristics. 
+
+Unguided Rockets are best used at Distances of between 1,500 – 2,000 meters and in Dive Angles from 20 to 60 Degrees. The Aircraft should Break Off the Attack at a Minimum Distance of 600 meters to avoid damage from shrapnel and explosions. 
+
+In this example, a 15-meter-long rail wagon at 1,500 meters will be attacked

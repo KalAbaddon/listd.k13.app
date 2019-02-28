@@ -1,10 +1,9 @@
 ---
-title: EMPLOYMENT OF RADAR MODE WHEN THE RP-5 HAS BEEN SWITCHED TO MODE 1 
+title: Use of Radar Mode when RP-5 set Mode 1
 
 taxonomy:
     tag:
         - weapons
-        - gunsight
     craft: 
         - mig-19p
         - farmer-b

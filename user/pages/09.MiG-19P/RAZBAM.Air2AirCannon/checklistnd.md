@@ -1,11 +1,10 @@
 ---
-title: CANNON FOR AIR COMBAT
+title: Cannon for Air Combat
 
 taxonomy:
     tag:
         - weapons
         - a2a
-        - cannon
     craft: 
         - mig-19p
         - farmer-b

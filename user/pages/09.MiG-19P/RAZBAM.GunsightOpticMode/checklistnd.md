@@ -1,10 +1,9 @@
 ---
-title: GUNSIGHT IN OPTIC MODE
+title: Gunsight in Optical Mode
 
 taxonomy:
     tag:
         - weapons
-        - gunsight
     craft: 
         - mig-19p
         - farmer-b
