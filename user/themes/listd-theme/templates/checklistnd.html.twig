@@ -13,14 +13,7 @@ No DropDowns for this Checklist{{ content }}
                     <h3 class="uk-accordion-title" >{{ checklist.step }}</h3>
                 </td>
                 <td align="right">
-                    <div class="btn-group btn-group-toggle" data-toggle="buttons">
-                        <label class="btn btn-sm btn-outline-success">
-                            <input type="checkbox" name="options" id="option1" autocomplete="off"> DONE
-                        </label>
-                        
-                    </div>
-                    {% include "forms/form.html.twig" with { form: forms('donebutton') } %}
-
+                    <input class="uk-checkbox uk-form-large" type="checkbox">
                 </td>
             </tr>
         </table>
