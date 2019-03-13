@@ -16,7 +16,7 @@ template: checklistnd
 checklist:
     -   step: Connection of power supplies 
     -   step: A. Turning on the batteries':'
-    -   step: "АККУМУЛ. I" и "II" (BATT I, II) to "ВКЛ." (ON (up)) [LCtrl] + [LShift] + [1..2];
+    -   step: "АККУМУЛ. I" и "II" (BATT I, II) to "ВКЛ." (ON (up)) [LCtrl] + [LShift] + [1..2]';'
     -   step: check the voltage of the battery bus by setting the DC selector knob to "ШИНЫ АКК." (BATT BUS). The voltage should be no less than 24 V.
     -   step: check the condition of the batteries as follows":"<br />a) "АЭРОДР. ПИТАН." (EXT PWR (external power)) selector to "ВЫКЛ." (OFF) [LCtrl] + [LShift] + [7]; <br />b) DC selector knob to "АККУМУЛ. I" (BATT I) [LCtrl] + [LShift] + [9..0] <br />c) "АККУМУЛ. II" (BATT II) to "ВЫКЛ" (OFF (down)) [LCtrl] + [LShift +2] <br />d) any fuel boost pump to ON and check Volts (no less than 24 V) [RShift] + [1] <br />e) DC selector knob to "АККУМУЛ. II" (BATT II) [LCtrl] + [LShift] + [9..0] <br />f) АККУМУЛ. II" (BATT II) to "ВКЛ" (ON (up)) [LCtrl] + [LShift +2] and "АККУМУЛ. I" (BATT I) to "ВЫКЛ" (OFF (down)) [LCtrl] + [LShift +1] Check voltage (no less than 24 V). <br />g) fuel boost pump to OFF [RShift] + [1]; <br />h) "АККУМУЛ. I" и "II" (BATT I, II) to "ВКЛ." (ON (up)) [LCtrl] + [LShift] + [1..2]; <br />i) DC selector knob to "ШИНЫ АКК." (BATT BUS) [LCtrl] + [LShift] + [9..0]. 
     -   step: B. Connecting to external electrical power":" 
