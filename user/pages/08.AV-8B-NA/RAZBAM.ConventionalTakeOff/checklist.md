@@ -5,7 +5,7 @@ taxonomy:
     tag:
         - ground
         - engine on
-        - Takeoff 
+        - takeoff 
     craft:
         - Harrier II
         - AV-8B NA

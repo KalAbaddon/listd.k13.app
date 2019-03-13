@@ -5,7 +5,7 @@ taxonomy:
     tag:
         - engine on
         - ground
-        - Taxi
+        - taxi
     craft:
         - p51d
         - mustang

@@ -4,7 +4,6 @@ title: Rolling Vertical Takeoff
 taxonomy:
     tag:
         - takeoff
-        - adv takeoff
         - ground
         - engine on
     craft:

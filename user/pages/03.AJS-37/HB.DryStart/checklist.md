@@ -3,7 +3,6 @@ title: Dry start (Ventilation)
 
 taxonomy:
     tag:
-        - Failed start
         - ground
         - engine off
     craft:

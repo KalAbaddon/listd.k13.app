@@ -5,10 +5,7 @@ taxonomy:
     tag:
         - approach
         - landing
-        - case 1
-        - cvn
-        - aircraft Carrier
-        - carrier
+        - carrier ops
     craft:
         - hornet
         - f/a-18c

@@ -4,7 +4,7 @@ title: Flip-flop (shorten approach length)
 
 taxonomy:
     tag:
-        - Landing 
+        - landing 
         - approach
         - air
     craft:

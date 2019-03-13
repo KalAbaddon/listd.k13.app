@@ -4,7 +4,6 @@ title: Vertical Landing
 taxonomy:
     tag:
         - landing
-        - adv landing
         - air
         - approach
     craft:

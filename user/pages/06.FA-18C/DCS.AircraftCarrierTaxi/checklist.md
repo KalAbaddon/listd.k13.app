@@ -3,11 +3,9 @@ title: Aircraft Carrier Taxi
 
 taxonomy:
     tag:
-        - Taxi 
+        - taxi 
         - engine on
-        - cvn
-        - aircraft Carrier
-        - carrier
+        - carrier ops
     craft:
         - hornet
         - f/a-18c

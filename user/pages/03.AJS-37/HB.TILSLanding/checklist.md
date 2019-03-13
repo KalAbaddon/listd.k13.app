@@ -4,7 +4,7 @@ title: TILS landing
 
 taxonomy:
     tag:
-        - Landing 
+        - landing 
         - approach
         - air
         - instrument

@@ -4,7 +4,7 @@ title: Airfield Taxi
 taxonomy:
     tag:
         - engine on
-        - Taxi
+        - taxi
         - ground
     craft:
         - hornet

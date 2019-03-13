@@ -4,7 +4,6 @@ title: Decelerating Transition to a Rolling Vertical Landing
 taxonomy:
     tag:
         - landing
-        - adv landing
         - air
         - approach
         - emergency

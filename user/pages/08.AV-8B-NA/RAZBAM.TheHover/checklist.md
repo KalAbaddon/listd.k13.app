@@ -3,7 +3,6 @@ title: The Hover
 
 taxonomy:
     tag:
-        - hover
         - air
         - engine on
     craft:
