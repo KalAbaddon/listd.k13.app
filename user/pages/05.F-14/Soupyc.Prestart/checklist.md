@@ -1,5 +1,5 @@
 ---
-title: PreStart Quickstart
+title: Quick PreStart
 
 taxonomy:
     tag:
@@ -28,7 +28,7 @@ checklist:
 ---
 
 ## F-14 
-PreStart Quick Start
+Quick PreStart
 
 ===
 
