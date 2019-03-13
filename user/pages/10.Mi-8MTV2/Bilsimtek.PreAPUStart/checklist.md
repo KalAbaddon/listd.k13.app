@@ -26,7 +26,7 @@ checklist:
     -   step: 'e) DC selector knob to "АККУМУЛ. II" (BATT II) [LCtrl] + [LShift] + [9..0] '
     -   step: 'f) АККУМУЛ. II" (BATT II) to "ВКЛ" (ON (up)) [LCtrl] + [LShift +2] and "АККУМУЛ. I" (BATT I) to "ВЫКЛ" (OFF (down)) [LCtrl] + [LShift +1] Check voltage (no less than 24 V). '
     -   step: 'g) fuel boost pump to OFF [RShift] + [1]; '
-    -   step:' h) "АККУМУЛ. I" и "II" (BATT I, II) to "ВКЛ." (ON (up)) [LCtrl] + [LShift] + [1..2]; '
+    -   step: 'h) "АККУМУЛ. I" и "II" (BATT I, II) to "ВКЛ." (ON (up)) [LCtrl] + [LShift] + [1..2]; '
     -   step: 'i) DC selector knob to "ШИНЫ АКК." (BATT BUS) [LCtrl] + [LShift] + [9..0]. '
     -   step: 'B. Connecting to external electrical power: '
     -   step: 'To connect to an external power source on the ground:'
