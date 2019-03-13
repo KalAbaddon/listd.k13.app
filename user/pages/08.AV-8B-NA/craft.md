@@ -19,7 +19,7 @@ pagination: true
 ---
 
 # AV-8B NA
-Getting the Bounce on targets in the Twentieth Century
+Getting the JUMP on targets in the Twentieth Century
 
 ===
 

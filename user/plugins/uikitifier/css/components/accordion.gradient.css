@@ -5,9 +5,9 @@
 /* Sub-object: `uk-accordion-title`
  ========================================================================== */
 .uk-accordion-title {
-  margin-top: 0;
-  margin-bottom: 15px;
-  padding: 5px 15px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 1px 5px;
   background: #f7f7f7;
   font-size: 18px;
   line-height: 24px;
@@ -15,6 +15,7 @@
   border: 1px solid #dddddd;
   border-radius: 4px;
 }
+
 /* Sub-object: `uk-accordion-content`
  ========================================================================== */
 .uk-accordion-content {

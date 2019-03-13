@@ -5,7 +5,7 @@ taxonomy:
     tag:
         - ground
         - engine on
-        - Taxi
+        - taxi
     craft:
         - Mirage
         - M-2000C

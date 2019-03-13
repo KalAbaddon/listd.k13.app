@@ -4,7 +4,6 @@ title: Variable Nozzle Slow Landing  (SL)
 taxonomy:
     tag:
         - landing
-        - adv landing
         - air
         - approach
     craft:

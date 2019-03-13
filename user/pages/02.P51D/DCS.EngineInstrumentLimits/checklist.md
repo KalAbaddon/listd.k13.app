@@ -6,7 +6,6 @@ taxonomy:
         - engine on
         - air
         - table
-        - chart
     craft:
         - p51d
         - mustang

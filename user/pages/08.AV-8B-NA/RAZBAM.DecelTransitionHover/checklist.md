@@ -3,9 +3,7 @@ title: Decelerating Transition to a Hover
 
 taxonomy:
     tag:
-        - hover
         - approach
-        - adv landing
         - air
     craft:
         - Harrier II

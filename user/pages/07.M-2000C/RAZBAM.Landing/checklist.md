@@ -5,7 +5,7 @@ taxonomy:
     tag:
         - approach
         - air
-        - Landing
+        - landing
     craft:
         - Mirage
         - M-2000C
