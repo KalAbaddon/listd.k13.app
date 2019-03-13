@@ -4,7 +4,7 @@ title: Air Refueling Before Plug-in
 taxonomy:
     tag:
         - air
-        - Refuel
+        - refuel
         - normal ops
     craft:
         - Harrier II

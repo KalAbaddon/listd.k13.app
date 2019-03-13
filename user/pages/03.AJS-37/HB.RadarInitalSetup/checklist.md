@@ -3,7 +3,6 @@ title: Radar initial setup
 
 taxonomy:
     tag:
-        - Radar
         - engine on
     craft:
         - AJS-37

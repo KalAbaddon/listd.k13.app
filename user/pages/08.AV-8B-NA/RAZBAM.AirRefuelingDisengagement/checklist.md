@@ -4,7 +4,7 @@ title: Air Refueling Disengagement
 taxonomy:
     tag:
         - air
-        - Refuel
+        - refuel
         - normal ops
         - approach
     craft:

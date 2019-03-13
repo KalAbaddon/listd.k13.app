@@ -4,7 +4,7 @@ title: Air Refueling Approach
 taxonomy:
     tag:
         - air
-        - Refuel
+        - refuel
         - normal ops
         - approach
     craft:

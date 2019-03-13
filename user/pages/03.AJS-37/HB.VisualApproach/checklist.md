@@ -3,7 +3,6 @@ title: Visual approach
 
 taxonomy:
     tag:
-        - Visual
         - landing
         - air  
         - approach

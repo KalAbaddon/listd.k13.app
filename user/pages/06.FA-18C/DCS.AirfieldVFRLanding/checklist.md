@@ -4,9 +4,7 @@ title: Airfield VFR Landing
 taxonomy:
     tag:
         - approach
-        - VFR 
         - air
-        - visual
         - landing
     craft:
         - hornet

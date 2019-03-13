@@ -4,7 +4,7 @@ title: Air Refueling Missed Approach
 taxonomy:
     tag:
         - air
-        - Refuel
+        - refuel
         - normal ops
         - approach
     craft:

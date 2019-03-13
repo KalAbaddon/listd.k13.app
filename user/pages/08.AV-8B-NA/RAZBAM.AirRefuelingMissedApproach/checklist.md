@@ -4,7 +4,7 @@ title: Air Refueling Contact
 taxonomy:
     tag:
         - air
-        - Refuel
+        - refuel
         - normal ops
         - approach
     craft:

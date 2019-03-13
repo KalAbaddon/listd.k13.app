@@ -7,7 +7,6 @@ taxonomy:
         - landing 
         - approach
         - air
-        - instrument
     craft:
         - AJS-37
         - Viggen
