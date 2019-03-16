@@ -1,6 +1,9 @@
 ---
 title: IR Missiles
 
+author:
+    name: Chuck
+
 taxonomy:
     tag:
         - weapons
