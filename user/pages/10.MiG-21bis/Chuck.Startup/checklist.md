@@ -17,10 +17,7 @@ checklist:
     -   step: 1. PO-750 Inverters # 1 & 2 and Battery Heat ON (UP)
     -   step: 2. Battery, DC Generator ON, AC Generator Ground Power ON, Fuel Pump Switch # 1, 2 & 3 ON (FWD)
     -   step: 3. Turn on radio and set frequency to airfield tower freq (Check briefing or mission editor to find which channel to use).
-    -   step: 4. Call ground crew for External Power
-    -   step: a) Press “\” (intercomm switch) and “F8” to select ground crew
-    -   step: b) Select “Ground Electric Power” by pressing “F2”
-    -   step: c) Select “ON” by pressing “F1” to turn on ground power
+    -   step: 4. Call ground crew for External Power<br />a) Press “\” (intercomm switch) and “F8” to select ground crew<br />b) Select “Ground Electric Power” by pressing “F2”<br />c) Select “ON” by pressing “F1” to turn on ground power
     -   step: 5. Fire Extinguisher & APU ON (UP)
     -   step: 6. Click on Engine Lock lever (on throttle)
     -   step: 7. Move throttle to MIN position
