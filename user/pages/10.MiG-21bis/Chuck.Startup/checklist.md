@@ -14,8 +14,8 @@ template: chucklist
 
 
 checklist:
-    -   step: 1. PO-750 Inverters # 1 & 2 and Battery Heat ON (UP)
-    -   step: 2. Battery, DC Generator ON, AC Generator Ground Power ON, Fuel Pump Switch # 1, 2 & 3 ON (FWD)
+    -   step: '1. PO-750 Inverters # 1 & 2 and Battery Heat ON (UP)'
+    -   step: '2. Battery, DC Generator ON, AC Generator Ground Power ON, Fuel Pump Switch # 1, 2 & 3 ON (FWD)'
     -   step: 3. Turn on radio and set frequency to airfield tower freq (Check briefing or mission editor to find which channel to use).
     -   step: 4. Call ground crew for External Power<br />a) Press “\” (intercomm switch) and “F8” to select ground crew<br />b) Select “Ground Electric Power” by pressing “F2”<br />c) Select “ON” by pressing “F1” to turn on ground power
     -   step: 5. Fire Extinguisher & APU ON (UP)
@@ -23,7 +23,7 @@ checklist:
     -   step: 7. Move throttle to MIN position
     -   step: 8. Click and hold engine starter switch for 4 seconds.
     -   step: 9. Move throttle to IDLE (half an inch forward) and wait for RPM to reach a minimum of 35 %. Process may take up to 45 seconds. 
-    -   step: 10. GYRO switch for instrument sets # 1 & # 2 ON (FWD).
+    -   step: '10. GYRO switch for instrument sets # 1 & # 2 ON (FWD).'
     -   step: 11. If flares and chaff ASO pod is mounted (and it should be since it is the standard equipment for any combat mission), set JATO (SPRD) Start & Jettison system switches “ON” (FWD)
     -   step: 12. Optional - Flight recorder switch “ON” (UP)
     -   step: 13. ARK Radio Compass, Radio Altimeter, RSBN (Navigation System), GIRO (KPP = ADI = Attitude Indicator), FDS (NPP = HSI = Horizontal Situation Indicator), AP (SAU = Auto-pilot), AP Pitch (Auto-pilot pitch) ON (UP)
