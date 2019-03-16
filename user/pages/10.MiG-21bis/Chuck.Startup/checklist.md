@@ -8,7 +8,7 @@ taxonomy:
     craft:
         - MiG-21bis
         - Fishbed
-    author: Bilsimtek
+    author: Chuck
 
 template: chucklist
 
