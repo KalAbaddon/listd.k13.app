@@ -1,5 +1,5 @@
 ---
-title: SPRD ROCKET-ASSISTED TAKEOFF
+title: SPRD Rocket-Assisted Take Off
 
 taxonomy:
     tag:
@@ -25,7 +25,7 @@ checklist:
 ---
 
 ## MiG-21bis 
-SPRD ROCKET-ASSISTED TAKEOFF (RATO)
+SPRD Rocket-Assisted Take Off (RATO)
 
 ===
 
