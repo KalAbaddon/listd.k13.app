@@ -1,6 +1,6 @@
 ---
 title: Take Off
-author: RAZBAM
+
 taxonomy:
     tag:
         - ground
