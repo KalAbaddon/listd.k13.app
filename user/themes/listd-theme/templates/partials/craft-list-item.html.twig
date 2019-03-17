@@ -7,25 +7,33 @@
     </div>
     {% endif %}
     #}
+<center>
     <div class="card-header">
         <div class="card-subtitle text-gray">
             
         </div>
         <div class="card-title">
-        {% include 'partials/blog/title.html.twig' with {title_level: 'h2'} %}
+        {# {% include 'partials/blog/title.html.twig' with {title_level: 'h2'} %} #}
+         {% include 'partials/blog/taxonomy.html.twig' %}
         </div>
     </div>
+
 <a href="{{ page.url }}">
+    
     <div class="card-body">
-        {% if page.summary != page.content %}
-            {{ page.summary|raw }}
-        {% else %}
-            {{ page.content|raw }}
-        {% endif %}
+    <b>--{{ page.header.taxonomy.author }}--</b><br />
+        
+            {{ page.summary }}
+                   
+        
     </div>
-    </a>
+
+</a>
+    
     <div class="card-footer">
-        {% include 'partials/blog/taxonomy.html.twig' %}
+        
+       
     </div>
 </div>
 
+</center>
