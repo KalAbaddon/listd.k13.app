@@ -21,8 +21,7 @@ checklist:
     -   step: 6. In addition to the slew and release method of locking a target, you may also keep the tracking gate in boresight and fly to place the tracking gate over the target and then press TMS Forward Short to initiate a lock. You can also do this when the tracking gate has been moved over a target while in a slave state (such as slaving your Maverick to the SPI).
 ---
 
-## A-10C 
-Maverick Weapon Mode, No Track
+## Maverick Weapon Mode, No Track
 
 ===
 

@@ -27,8 +27,7 @@ checklist:
         details: PRI if possible
 ---
 
-## F-14 
-Spooldown Airstart
+## Spooldown Airstart
 
 ===
 

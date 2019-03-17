@@ -23,8 +23,7 @@ checklist:
     -   step: If crabbing is required during the approach, be sure to straighten out before landing. Never land in a crab as it is very stressful on the landing gear.
 ---
 
-## P51D 
-Crosswind Landings  
+## Crosswind Landings  
 
 ===
 

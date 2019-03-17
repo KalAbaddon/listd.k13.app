@@ -56,8 +56,7 @@ checklist:
         details: BLASTING
 ---
 
-## F-14 
-Quick Post Engine Start Pilot
+## Quick Post Engine Start Pilot
 
 ===
 

@@ -34,7 +34,6 @@ checklist:
         details: Before 260 Knots.
 ---
 
-## M-2000C 
-Take Off
+## Take Off
 
 ===

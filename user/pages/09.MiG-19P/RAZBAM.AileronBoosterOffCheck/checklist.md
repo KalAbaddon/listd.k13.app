@@ -19,8 +19,7 @@ checklist:
     -   step: 4) Repeat the same procedure for the extreme Right Position.
 ---
 
-## MiG-19P 
-Aileron 'Booster off' Check
+## Aileron 'Booster off' Check
 
 ===
 

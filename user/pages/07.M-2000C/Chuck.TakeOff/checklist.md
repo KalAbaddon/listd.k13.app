@@ -23,8 +23,7 @@ checklist:
     -   step: 6. Retract landing gear before you reach 260 kts
 ---
 
-## M-2000C
-Take Off
+## Take Off
 
 ===
   

@@ -20,8 +20,7 @@ checklist:
     -   step: 3. Start a new approach. 
 ---
 
-## AV-8B NA 
-Air Refueling Missed Approach
+## Air Refueling Missed Approach
 
 ===
 

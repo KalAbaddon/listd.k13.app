@@ -19,8 +19,7 @@ checklist:
     -   step: Throttle back when taxiing and use the brakes as little as possible. There is no point in wasting a lot of gasoline and burning up your brakes on the taxi strip.
 ---
 
-## P51D 
-Taxi
+## Taxi
 
 ===
 

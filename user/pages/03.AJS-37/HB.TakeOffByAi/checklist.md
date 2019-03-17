@@ -25,8 +25,7 @@ checklist:
     -   step: Note- There is a risk of a slight decrease in lift as the flaps retract when retracting the landing gear.
 ---
 
-## AJS-37 
-Take Off By using the Flight Attitude Indicator
+## Take Off By using the Flight Attitude Indicator
 
 ===
 

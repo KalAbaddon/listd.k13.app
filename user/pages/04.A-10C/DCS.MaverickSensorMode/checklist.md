@@ -20,8 +20,7 @@ checklist:
     -   step: 5. To put the Maverick in Weapon mode, select a Maverick profile by setting HUD as SOI and then pressing DMS Left or Right Short to cycle through HUD rotary profiles. 
 ---
 
-## A-10C 
-Maverick Deploy
+## Maverick Deploy
 
 ===
 

@@ -23,8 +23,7 @@ checklist:
     -   step: The pilot can always select a new approach via LB by setting the master mode selector to NAV, and then to LANDN NAV.
 ---
 
-## AJS-37 
-Flip-flop (shorten approach length)
+## Flip-flop (shorten approach length)
 
 ===
 

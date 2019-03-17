@@ -19,8 +19,7 @@ checklist:
     -   step: Use about half flaps when performing a landing in gusty conditions. 
 ---
 
-## P51D 
-Gusty Landings   
+## Gusty Landings   
 
 ===
 

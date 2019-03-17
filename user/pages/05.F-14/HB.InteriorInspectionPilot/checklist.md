@@ -119,7 +119,6 @@ checklist:
         details: 
 ---
 
-## F-14 
-Pilot Interior Inspection
+## Pilot Interior Inspection
 
 ===

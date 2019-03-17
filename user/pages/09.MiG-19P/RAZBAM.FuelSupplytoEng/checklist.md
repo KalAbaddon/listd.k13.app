@@ -24,8 +24,7 @@ checklist:
     -   step: When the “TANK 1” Red Lamp illuminates on the T-6 Warning Panel, the Fuel remaining in the Fuel Supply System may still be enough for a Flight Time of 5 Minutes depending on the Altitude and the Engine Throttle Settings.
 ---
 
-## MiG-19P 
-Fuel Supply to the Engines
+## Fuel Supply to the Engines
 
 ===
 

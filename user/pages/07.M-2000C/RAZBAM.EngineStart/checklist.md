@@ -51,7 +51,6 @@ checklist:
         details: AUTO - warning OFF
 ---
 
-## M-2000C 
-Engine Start
+## Engine Start
 
 ===

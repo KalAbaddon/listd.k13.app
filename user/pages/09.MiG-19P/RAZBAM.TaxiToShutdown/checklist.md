@@ -21,8 +21,7 @@ checklist:
     -   step: 5) Turn Off all the Cockpit Switches except “Pump Tank 1” and “Battery”.<br />Once both Engines have completely stopped rotating, turn these Off.
 ---
 
-## MiG-19P 
-Taxi to Parking Stand & Engine Shutdown
+## Taxi to Parking Stand & Engine Shutdown
 
 ===
 

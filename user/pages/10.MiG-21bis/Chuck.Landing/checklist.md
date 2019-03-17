@@ -24,8 +24,7 @@ checklist:
     -   step: 7. When you are slow enough, jettison drag chute and set nosewheel brake OFF (vertical) to taxi down the runway.
 ---
 
-## MiG-21bis 
-Landing
+## Landing
 
 ===
   

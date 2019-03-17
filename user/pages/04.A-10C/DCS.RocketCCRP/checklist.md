@@ -20,8 +20,7 @@ checklist:
     -   step: The disadvantage is that it can be much less accurate than CCIP delivery.  You would generally use CCRP mode against a heavily defended target in order to suppress it
 ---
 
-## A-10C 
-Rocket CCRP Use 
+## Rocket CCRP Use 
 
 ===
 

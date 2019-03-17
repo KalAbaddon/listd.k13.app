@@ -18,8 +18,7 @@ checklist:
     -   step: Because of the constant-speed propeller and the automatic manifold pressure regulator, it is difficult to detect carburetor ice formation except by irregular engine operation. 
 ---
 
-## P51D 
-Cold Weather Engine Operation in Flight 
+## Cold Weather Engine Operation in Flight 
 
 ===
 

@@ -26,8 +26,7 @@ checklist:
     -   step: 10) Maintain radar lock by following your target until missile impact.
 ---
 
-## MiG-21bis 
-SARH Missiles
+## SARH Missiles
 
 ===
   

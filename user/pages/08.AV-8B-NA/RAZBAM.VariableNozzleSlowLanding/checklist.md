@@ -52,8 +52,7 @@ checklist:
         details: LESS THAN 60o WHEN SLOW. 
 ---
 
-## AV-8B NA 
-Variable Nozzle Slow Landing (SL) 
+## Variable Nozzle Slow Landing (SL) 
 
 ===
 

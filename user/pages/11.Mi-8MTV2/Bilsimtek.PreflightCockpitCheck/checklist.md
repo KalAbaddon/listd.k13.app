@@ -25,8 +25,7 @@ checklist:
     -   step: make sure the collective pitch control lever is at the lower stop [Num –] and the throttle control twist grip is turned fully to the left [PgDn], the engines throttle levers are set in the neutral detent [RCTRL] + [HOME / RCTRL] + [END], the control stick is in a position close to neutral and the fuel shutoff levers are in the aft (closed) position [ RCtrl] + [PageUp.. PageDown] 
 ---
 
-## Mi-8MTV2 
-Preflight Cockpit Check Full procedure 
+## Preflight Cockpit Check Full procedure 
 
 ===
 

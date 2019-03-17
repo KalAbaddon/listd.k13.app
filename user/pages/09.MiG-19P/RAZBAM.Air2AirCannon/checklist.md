@@ -19,8 +19,7 @@ checklist:
     -   step: 4. Put the ASP-5N Mode Selector in the NR-30 Position, this arms the cannons ready for use. Depending on the situation, the Pilot can choose to Aim the Cannons using Optic or Radar Mode. 
 ---
 
-## MiG-19P 
-EMPLOYMENT OF CANNON ARMAMENT IN AIR COMBAT
+## Employment of Cannon for Air Combat
 
 ===
 

@@ -72,8 +72,7 @@ checklist:
         details: Radio CALL (Leader/ATC)
 ---
 
-## M-2000C 
-Pre Engine Start with Ground Power
+## Pre Engine Start with Ground Power
 
 ===
 

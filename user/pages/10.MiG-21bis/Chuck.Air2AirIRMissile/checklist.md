@@ -27,8 +27,7 @@ checklist:
     -   step: '11) You do not need to maintain radar lock: the missile will track the target on its own. Fire and forget!'
 ---
 
-## MiG-21bis 
-IR Missiles
+## IR Missiles
 
 ===
   

@@ -22,8 +22,7 @@ checklist:
     -   step: '5. Keep a minimum altitude of 600 m above ground (check radar altimeter) and maintain a minimum speed of 600 km/h IAS. Throttle back to set afterburner OFF.'
 ---
 
-## MiG-21bis 
-Take Off
+## Take Off
 
 ===
   

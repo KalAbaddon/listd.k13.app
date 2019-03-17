@@ -24,8 +24,7 @@ checklist:
     -   step: 7. You may now buy a pair of newunderwear.
 ---
 
-## MiG-21bis 
-SPRD Rocket-Assisted Take Off (RATO)
+## SPRD Rocket-Assisted Take Off (RATO)
 
 ===
 

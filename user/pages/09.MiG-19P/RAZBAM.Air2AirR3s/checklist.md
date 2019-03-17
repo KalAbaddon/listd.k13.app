@@ -22,8 +22,7 @@ checklist:
     -   step: NOTE The R-3S missile can only be fired at in a Maneuver of 2 Gs or less. 
 ---
 
-## MiG-19P 
-R-3S AIR-TO-AIR MISSILE EMPLOYMENT 
+## R-3S Air-to-Air
 
 ===
 

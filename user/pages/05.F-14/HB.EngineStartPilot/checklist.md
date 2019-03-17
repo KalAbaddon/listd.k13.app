@@ -32,7 +32,6 @@ checklist:
     -   step: Inform RIO - Ready to start.
 ---
 
-## F-14 
-Pilot Engine Start
+## Pilot Engine Start
 
 ===

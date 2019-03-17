@@ -63,7 +63,6 @@ checklist:
     -   step: Notify pilot - Ready to taxi. 
 ---
 
-## F-14 
-RIO Post Start
+## RIO Post Start
 
 ===

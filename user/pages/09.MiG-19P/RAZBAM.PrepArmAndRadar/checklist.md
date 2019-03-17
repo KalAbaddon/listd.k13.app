@@ -21,8 +21,7 @@ checklist:
     -   step: 5) Turn On both “Left” And “Right” Cannon Power Switches.
 ---
 
-## MiG-19P 
-Preparations of the Armament & Radar Systems
+## Preparations of the Armament & Radar Systems
 
 ===
 

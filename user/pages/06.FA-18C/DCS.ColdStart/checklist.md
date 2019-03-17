@@ -71,7 +71,6 @@ checklist:
         location: (CENTER INSTRUMENT PANEL)
 ---
 
-## F/A-18C 
-Cold Start
+## Cold Start
 
 ===

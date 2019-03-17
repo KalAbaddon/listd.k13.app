@@ -26,8 +26,7 @@ checklist:
     -   step: At touchdown, reduce the throttles to idle and use small rudder corrections to stay aligned down the runway roll-out.   
 ---
 
-## F/A-18C 
-Airfield VFR Landing 
+## Airfield VFR Landing 
 
 ===
 

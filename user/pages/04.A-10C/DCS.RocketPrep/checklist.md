@@ -32,8 +32,7 @@ checklist:
     -   step: Bomb Rack Delay (OSB 10). Set bomb rack delay between -0.40 and +0.40. 
 ---
 
-## A-10C 
-Rocket Prep
+## Rocket Prep
 
 ===
 

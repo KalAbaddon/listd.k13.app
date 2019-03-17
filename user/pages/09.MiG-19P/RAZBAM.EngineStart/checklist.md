@@ -28,8 +28,7 @@ checklist:
     -   step: 13) The Engines should only remain at Idle RPM for less than 10 minutes. If you plan to stay at Idle RPM for longer, increase the Engine RPM to 10,000 RPM every 5-7 minutes. When the Ambient Temperature is below -5 oC, Engine operation below 9,000 RPM should be for as short as possible in order to avoid ice formation in the Compressor Stages.
 ---
 
-## MiG-19P 
-Engine Start
+## Engine Start
 
 ===
 

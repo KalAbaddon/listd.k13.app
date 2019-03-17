@@ -24,8 +24,7 @@ checklist:
     -   step: 6) You can check the Power Responsiveness of the Engines by moving the throttles from Idle to the Military Power Position within 1.2-2 seconds.<br />During this test the EGT increase up to 750 oC and the RPM can rise to 11,600 for a short period of time (3-5 seconds).<br />After this, the EGT should stabilize under 650 oC and the RPM at 11,150+50.<br />Check the Engine Description above to check the correct power response time.
 ---
 
-## MiG-19P 
-PreFlight Engine Checks
+## PreFlight Engine Checks
 
 ===
 

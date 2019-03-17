@@ -17,8 +17,7 @@ checklist:
     -   step: 2. While operating with the backup Electric Stabilizer Control System bear in mind that the Stabilizer Control is not as responsive as the Hydraulic Stabilizer Control System. Continuation of the Mission under these conditions is Forbidden, return immediately to the airbase. You should attempt to maintain an IAS of 700 kph or below and perform wide turns making sure to avoid high bank angles.
 ---
 
-## MiG-19P 
-FAILURE OF THE STABILIZERS HYDRAULIC BOOSTER  
+## Failure of the Stabilizers Hydraulic Booster
 
 ===
 

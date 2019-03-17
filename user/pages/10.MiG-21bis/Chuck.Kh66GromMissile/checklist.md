@@ -25,8 +25,7 @@ checklist:
     -   step: '9) Once GROM is launched, your aircraft will start rolling (the KH-66 is an anti-ship missile: it’s very heavy). GROM missiles are inaccurate, but sure pack a punch.'
 ---
 
-## MiG-21bis 
-KH-66 Grom Missile
+## KH-66 Grom Missile
 
 ===
 

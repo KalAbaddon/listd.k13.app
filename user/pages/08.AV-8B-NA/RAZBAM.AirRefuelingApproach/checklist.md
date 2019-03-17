@@ -25,8 +25,7 @@ checklist:
     -   step: 8. If alignment is off in the final phase abort and do over. 
 ---
 
-## AV-8B NA 
-Air Refueling Approach
+## Air Refueling Approach
 
 ===
 

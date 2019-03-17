@@ -35,8 +35,7 @@ checklist:
         details: Select ground references and monitor rate of closure. When closure is under control and below 30 knots, cross over the landing site while remaining at 150 feet AGL minimum until over a prepared surface. Flare slightly to spot or use braking stop as required, and establish hover over the desired landing point.  
 ---
 
-## AV-8B NA 
-Decelerating Transition to a Hover 
+## Decelerating Transition to a Hover 
 
 ===
 

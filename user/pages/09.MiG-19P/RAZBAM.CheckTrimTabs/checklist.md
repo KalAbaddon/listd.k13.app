@@ -18,8 +18,7 @@ checklist:
     -   step: NOTE Neutral Stabilizer Trim Position is dependent on the Landing Gear Position. When the Landing Gear is Down, the Aircraft adopts the Ground Neutral Position and in flight when the Landing Gear is up it adopts the In-Flight Neutral Position. This is to ensure that when the Aircraft is on the ground the Stabilizers are parallel to the ground considering the slightly Nose Up Static Attitude of the Aircraft on to the ground.
 ---
 
-## MiG-19P 
-Check the Trim Tabs
+## Check the Trim Tabs
 
 ===
 

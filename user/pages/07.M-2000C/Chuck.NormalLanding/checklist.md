@@ -25,8 +25,7 @@ checklist:
     -   step: 8. Engage Nosewheel Steering (DIRAV) when you slowed down under 40 kts.
 ---
 
-## M-2000C
-Normal Landing Approach
+## Normal Landing Approach
 
 ===
   

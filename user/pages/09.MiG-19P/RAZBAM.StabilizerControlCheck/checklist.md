@@ -26,8 +26,7 @@ checklist:
     -   step: The ARU gauge should move to the longest arm setting and the “ARU System in Take-Off and Landing Position” Lamp should illuminate.
 ---
 
-## MiG-19P 
-Stabilizer Control Check
+## Stabilizer Control Check
 
 ===
 

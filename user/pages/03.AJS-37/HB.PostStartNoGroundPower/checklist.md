@@ -35,8 +35,7 @@ checklist:
         details: » High alpha Warning- two short bursts. Stick vibrates. <br />» Warning lights BRAND (Fire warning) lit <br />» Lights LANDSTÄLL (Landing gear warning) not lit. <br />» Altitude warning light lit with a solid light. <br />» Indicated fuel 29 ± 3 % and indicator returns to previous setting. <br />» Data indicator panel shows 1 and current CK-program number. <br />» FK-light is on (green). 
 ---
 
-## AJS-37 
-Post Engine Start without ground power 
+## Post Engine Start without ground power 
 
 ===
 

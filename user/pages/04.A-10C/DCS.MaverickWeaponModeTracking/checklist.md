@@ -21,8 +21,7 @@ checklist:
     -   step: Using a Maverick in centroid track is best for moving vehicles or small, stationary targets. 
 ---
 
-## A-10C 
-Maverick Weapon Mode, Tracking
+## Maverick Weapon Mode, Tracking
 
 ===
 

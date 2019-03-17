@@ -20,8 +20,7 @@ checklist:
     -   step: Steer with the rudder.
 ---
 
-## AJS-37 
-Normal braking (with or without thrust reversal)
+## Normal braking (with or without thrust reversal)
 
 ===
 

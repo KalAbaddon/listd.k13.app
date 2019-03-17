@@ -30,8 +30,7 @@ checklist:
         details: OFF
 ---
 
-## AJS-37 
-Shutdown procedure 
+## Shutdown procedure 
 
 ===
 

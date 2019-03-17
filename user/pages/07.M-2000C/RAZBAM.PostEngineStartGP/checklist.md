@@ -50,8 +50,7 @@ checklist:
         details: Radio Call (Leader/ ATC)
 ---
 
-## M-2000C 
-Post Engine Start with Ground Power
+## Post Engine Start with Ground Power
 
 ===
 

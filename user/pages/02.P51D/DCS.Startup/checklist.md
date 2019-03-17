@@ -26,8 +26,7 @@ checklist:
     -   step: If for any reason you anticipate pulling more than 40” of manifold during the engine ground run, be sure that the airplane is anchored. 
 ---
 
-## P51D 
-Start-Up
+## Start-Up
 
 ===
 

@@ -29,8 +29,7 @@ checklist:
     -   step: In preparing to peel off, control your airspeed. The greater the speed, the longer it takes to slow down. Peel off should be performed at speeds no greater than 200-225 mph. 
 ---
 
-## P51D 
-Approach Check   
+## Approach Check   
 
 ===
 

@@ -20,8 +20,7 @@ checklist:
     -   step: WARNING- To keep the engine working for more than 1 minute with low oil pressure can generate an engine fire on the engine destruction in the worst case.
 ---
 
-## MiG-19P 
-ENGINE LOW OIL PRESSURE 
+## Engine Low Oil Pressure 
 
 ===
 

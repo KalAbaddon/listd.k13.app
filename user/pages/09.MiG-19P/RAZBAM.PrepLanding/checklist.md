@@ -30,8 +30,7 @@ checklist:
     -   step: 14) After the final turn, decrease the speed to 300-310 km/h.
 ---
 
-## MiG-19P 
-Preparation for Landing
+## Preparation for Landing
 
 ===
 

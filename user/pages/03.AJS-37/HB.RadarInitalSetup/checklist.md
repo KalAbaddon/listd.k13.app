@@ -22,8 +22,7 @@ checklist:
         details: Middle position (snap)
 ---
 
-## AJS-37 
-Radar initial setup 
+## Radar initial setup 
 
 ===
 

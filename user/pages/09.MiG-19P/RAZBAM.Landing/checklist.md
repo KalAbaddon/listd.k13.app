@@ -25,8 +25,7 @@ checklist:
     -   step: 9) Landing distance with all three Wheel Brakes and the Drag Chute is 610 meters.
 ---
 
-## MiG-19P 
-Landing
+## Landing
 
 ===
 

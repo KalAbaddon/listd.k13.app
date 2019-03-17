@@ -64,8 +64,7 @@ checklist:
         details: OFF 
 ---
 
-## AV-8B NA 
-After Landing
+## After Landing
 
 ===
 

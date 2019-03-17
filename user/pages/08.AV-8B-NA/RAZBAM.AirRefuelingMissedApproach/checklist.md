@@ -21,8 +21,7 @@ checklist:
     -   step: 4. Disengage.
 ---
 
-## AV-8B NA 
-Air Refueling Contact
+## Air Refueling Contact
 
 ===
 

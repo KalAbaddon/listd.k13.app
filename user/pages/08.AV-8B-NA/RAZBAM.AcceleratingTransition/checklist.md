@@ -24,8 +24,7 @@ checklist:
     -   step: 5. Perform After Takeoff Check or enter the landing pattern.
 ---
 
-## AV-8B NA 
-Accelerating Transition (AT) 
+## Accelerating Transition (AT) 
 
 ===
 

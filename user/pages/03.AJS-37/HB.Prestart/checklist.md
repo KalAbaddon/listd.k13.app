@@ -115,8 +115,7 @@ checklist:
         details: Close and check locked. May be closed earlier if needed.
 ---
 
-## AJS-37 
-Prestart Checklist
+## Prestart Checklist
 
 ===
 

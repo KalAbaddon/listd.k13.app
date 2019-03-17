@@ -24,8 +24,7 @@ checklist:
         details: OFF
 ---
 
-## AJS-37 
-Dry start (Ventilation) 
+## Dry start (Ventilation) 
 
 ===
 

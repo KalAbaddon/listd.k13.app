@@ -22,8 +22,7 @@ checklist:
     -   step: To reset an existing manual initial course setting, the Master Mode selector needs to be cycled (NAV – BER – NAV). Does also apply if the pilot desires an automatic setting of the initial course.
 ---
 
-## AJS-37 
-Manual initial course setting
+## Manual initial course setting
 
 ===
 

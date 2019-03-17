@@ -24,7 +24,6 @@ checklist:
         Details:  |LEFT INSTRUMENT PANEL| 
 ---
 
-## F/A-18C 
-Airfield Taxi 
+## Airfield Taxi 
 
 ===

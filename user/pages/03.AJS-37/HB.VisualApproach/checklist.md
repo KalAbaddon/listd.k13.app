@@ -27,8 +27,7 @@ checklist:
     -   step: 13. Thrust reversal (if preselected) will activate once nose wheel is depressed.
 ---
 
-## AJS-37 
-Visual approach 
+## Visual approach 
 
 ===
 

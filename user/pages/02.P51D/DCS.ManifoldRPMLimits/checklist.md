@@ -24,8 +24,7 @@ checklist:
         details: 'Manifold Pressure [in.]: 67 <br />RPM: 3000'
 ---
 
-## P51D 
-Manifold Pressure and RPM Table
+## Manifold Pressure and RPM Table
 
 ===
 

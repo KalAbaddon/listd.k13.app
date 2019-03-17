@@ -29,8 +29,7 @@ checklist:
         details: Off
 ---
 
-## M-2000C 
-Preflight Part 3 Right Panel
+## Preflight Part 3 Right Panel
 
 ===
 

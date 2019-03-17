@@ -23,8 +23,7 @@ checklist:
     -   step: To accurately use the CCIP rocket sight, the aircraft must know the elevation of the aim point. This is most often done by selecting DTS elevation. This is done by first pressing the DATA rocker on the UFC and then the SEL rocker until DTS is displayed on the third line of the HUD data block. If DTS is not selected, the elevation will be based on the steerpoint. If based on steerpoint and the steerpoint is at a higher elevation than where the CCIP sight is pointed, you will get a CCIP INVALID error. 
 ---
 
-## A-10C 
-Rocket CCIP Use 
+## Rocket CCIP Use 
 
 ===
 

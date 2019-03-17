@@ -18,8 +18,7 @@ checklist:
     -   step: 2) Extend and Retract the Airbrakes. Check that the Green “Airbrake Extended” signal on the PPS-1 panel illuminates when the Airbrakes are Extended. Main System Hydraulic pressure could fluctuate but should quickly return to 142 kg/cm2.
 ---
 
-## MiG-19P 
-Check the Flaps
+## Check the Flaps
 
 ===
 

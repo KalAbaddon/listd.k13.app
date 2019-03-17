@@ -22,8 +22,7 @@ checklist:
     -   step: Optimum climb to altitude speed is approximately 170 mph. 
 ---
 
-## P51D 
-After Takeoff  
+## After Takeoff  
 
 ===
 

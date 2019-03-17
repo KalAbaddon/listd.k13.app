@@ -33,8 +33,7 @@ checklist:
     -   step: 16) If one of the Red Landing Gear Position indication lights on the PPS-1 fails to illuminate, disconnect the Afterburner and repeat the Extension and Retraction process while maintaining a speed below 500 km/h. If the light still fails to illuminate, return and land immediately.
 ---
 
-## MiG-19P 
-Take Off
+## Take Off
 
 ===
 

@@ -30,8 +30,7 @@ checklist:
         details: AS REQUIRED
 ---
 
-## AV-8B NA 
-Landing Checklist 
+## Landing Checklist 
 
 ===
 

@@ -23,8 +23,7 @@ checklist:
     -   step: 7. Once RPM (N) has increased to approx. 54 %, move throttle forward and pull up to recover from the dive.
 ---
 
-## M-2000C
-Engine Flameout
+## Engine Flameout
 
 ===
   

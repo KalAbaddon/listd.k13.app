@@ -18,8 +18,7 @@ checklist:
         details: Desired position 
 ---
 
-## AJS-37 
-After landing
+## After landing
 
 ===
 

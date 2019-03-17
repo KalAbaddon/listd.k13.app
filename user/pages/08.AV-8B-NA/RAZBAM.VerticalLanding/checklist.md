@@ -29,8 +29,7 @@ checklist:
         details: OFF (if selected)
 ---
 
-## AV-8B NA 
-Vertical Landing  
+## Vertical Landing  
 
 ===
 

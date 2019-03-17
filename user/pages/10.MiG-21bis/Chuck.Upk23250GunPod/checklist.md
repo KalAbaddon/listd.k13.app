@@ -21,8 +21,7 @@ checklist:
     -   step: 5. To switch back to internal gun, set Gun Selector to GSH23 (DOWN).
 ---
 
-## MiG-21bis 
-UPK-23-250 Gun Pods
+## UPK-23-250 Gun Pods
 
 ===
 

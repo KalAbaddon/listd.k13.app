@@ -50,8 +50,7 @@ checklist:
     -   step: 16. Begin transition to wingborne flight. 
 ---
 
-## AV-8B NA 
-Short Takeoff (STO) 
+## Short Takeoff (STO) 
 
 ===
 

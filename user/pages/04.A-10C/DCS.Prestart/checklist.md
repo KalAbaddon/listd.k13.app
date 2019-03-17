@@ -129,7 +129,6 @@ checklist:
         location: (Right Console)
 ---
 
-## A-10C 
-Prestart Checklist
+## Prestart Checklist
 
 ===

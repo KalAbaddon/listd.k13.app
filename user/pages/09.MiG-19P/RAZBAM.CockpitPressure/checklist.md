@@ -18,8 +18,7 @@ checklist:
     -   step: 2) If the Canopy freezes while descending from High Altitudes, check the following<br />Check that the Cockpit Air Supply Lever is Open.<br />Check that the Canopy is Pressurized.<br />Select the Cockpit Temperature Switch to “Hot” and increase the Engine RPM.
 ---
 
-## MiG-19P 
-Cockpit Pressurisation
+## Cockpit Pressurisation
 
 ===
 

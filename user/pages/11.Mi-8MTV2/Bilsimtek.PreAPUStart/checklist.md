@@ -48,8 +48,7 @@ checklist:
     -   step: turn on the navigation lights [RCtrl] + [1..2] (dimmed), the MSL-3 flasher [RCtrl] + [6] and rotor tip lights [RCtrl] + [5] (they must be turned on for safety of the ground crew, in game it is not necessary). 
 ---
 
-## Mi-8MTV2 
-Preparation and equipment check procedures preceding APU start
+## Preparation and equipment check procedures preceding APU start
 
 ===
   

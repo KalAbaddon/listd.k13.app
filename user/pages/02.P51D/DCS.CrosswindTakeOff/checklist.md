@@ -21,8 +21,7 @@ checklist:
     -   step: After becoming airborne, crab into the wind enough to counteract drift. 
 ---
 
-## P51D 
-Crosswind Takeoff  
+## Crosswind Takeoff  
 
 ===
 

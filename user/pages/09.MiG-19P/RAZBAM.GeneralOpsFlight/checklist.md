@@ -25,8 +25,7 @@ checklist:
     -   step: 10) Flight time under negative G Conditions must be limited to 10 seconds if the engines are operating in Military power or Afterburner, or 15 seconds in any other Engine Throttle Setting.
 ---
 
-## MiG-19P 
-General Operating Conditions of Flight
+## General Operating Conditions of Flight
 
 ===
 

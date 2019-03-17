@@ -25,7 +25,6 @@ checklist:
     -   step: CAUTION- when reversing, do not apply the brakes until the aircraft has come to a complete stop, as this may cause the aircraft to pivot backwards and lead to a tailstrike.
 ---
 
-## AJS-37 
-Taxi to runway
+## Taxi to runway
 
 ===
