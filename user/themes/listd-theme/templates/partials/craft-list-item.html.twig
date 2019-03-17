@@ -23,10 +23,11 @@
             {{ page.content|raw }}
         {% endif %}
     </div>
+    <b>Author Name: "{{ page.header.author }}"</b>
     </a>
     
     <div class="card-footer">
-    <b>Author Name: "{{ page.header.author }}"</b>    
+        
         {% include 'partials/blog/taxonomy.html.twig' %}
     </div>
 </div>
