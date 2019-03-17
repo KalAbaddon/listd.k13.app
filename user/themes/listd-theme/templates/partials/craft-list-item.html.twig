@@ -7,6 +7,7 @@
     </div>
     {% endif %}
     #}
+    {#
     <div class="card-header">
         <div class="card-subtitle text-gray">
             
@@ -15,6 +16,7 @@
         {% include 'partials/blog/title.html.twig' with {title_level: 'h2'} %}
         </div>
     </div>
+    #}
 <a href="{{ page.url }}">
     <div class="card-body">
         {% if page.summary != page.content %}
@@ -22,9 +24,9 @@
         {% else %}
             {{ page.content|raw }}
         {% endif %}
+        <br /><b>Author Name: "{{ page.header.taxonomy.author }}"</b>
     </div>
-    <b>Author Name: "{{ page.header.author }}"</b>
-    </a>
+</a>
     
     <div class="card-footer">
         
