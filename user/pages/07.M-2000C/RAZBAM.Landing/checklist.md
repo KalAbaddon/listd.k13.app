@@ -32,8 +32,7 @@ checklist:
         details: Below 40 knots
 ---
 
-## M-2000C 
-Landing
+## Landing
 
 ===
 

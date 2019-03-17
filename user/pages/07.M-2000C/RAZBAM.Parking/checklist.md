@@ -40,8 +40,7 @@ checklist:
         details: Off
 ---
 
-## M-2000C 
-Parking
+## Parking
 
 ===
 

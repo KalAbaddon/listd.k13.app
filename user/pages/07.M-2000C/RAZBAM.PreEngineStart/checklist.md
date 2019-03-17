@@ -33,7 +33,6 @@ checklist:
         details:  Radio CALL (Leader/ ATC)
 ---
 
-## M-2000C 
-Pre Engine Start
+## Pre Engine Start
 
 ===

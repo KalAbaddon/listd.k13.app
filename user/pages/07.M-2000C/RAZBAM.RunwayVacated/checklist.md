@@ -28,8 +28,7 @@ checklist:
         details: Off
 ---
 
-## M-2000C 
-Runway Vacated
+##Runway Vacated
 
 ===
 
