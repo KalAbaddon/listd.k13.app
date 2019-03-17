@@ -1,5 +1,5 @@
 ---
-title: Free-Fall Bombs for Ground Attack 
+title: Free-Fall Bombs 
 
 taxonomy:
     tag:
@@ -23,7 +23,7 @@ checklist:
     -   step: 'WARNING: When using 250 kg bombs, be sure to pull out of the dive before reaching an altitude of 700 meters, otherwise the Aircraft may be damaged by the explosion.'
 ---
 
-## EMPLOYMENT OF FREE-FALL BOMBS 
+## Free-Fall Bombs
 
 ===
 

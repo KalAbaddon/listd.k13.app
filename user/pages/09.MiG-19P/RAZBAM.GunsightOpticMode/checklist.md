@@ -21,7 +21,7 @@ checklist:
     -   step: NOTE - Keep in mind that in an Uncaged sight, the Reticle will move further down in an climbing maneuver as the introduced distance is increased. <br />During this process, as the Gunsight Gyros are Uncaged, it may be possible that during high G maneuvers, the reticle moves too far down, disappearing from the Sight Field of View. While this may not be an issue at Short Range, because Bullet deflection is not relevant, it may prevent effective engagement of Targets at Medium to Far Distances as in this case it will be impossible to introduce the correct Distance for a good Aiming Solution. <br />Standard solutions are to maintain the sight Caged until the Distance Measurement, then Uncage and Fire over the established aiming point, or use a Caged Sight and aim by the Pilot´s own predictions.<br />However, in the MiG-19, a Technical solution was provided for these cases - the ASP-5N Aiming Reticle dampening Button on the Control Stick. <br />This Button is an electrical Caging, Centering the Gunsight Reticle when pressed. This way, the Pilot can introduce the correct Distance into the Sight during intense maneuvering while the Lead Angle Calculations for the selected Distance are still made. When the button is released, the Reticle returns to the Calculated Impact Point Position (CIIP).
 ---
 
-## EMPLOYMENT OF THE ASP-5N GUNSIGHT IN OPTIC MODE
+## ASP-5N Gunsight in Optical Mode
 
 ===
 

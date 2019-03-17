@@ -19,7 +19,7 @@ checklist:
     -   step: 4. Select the desired Salvo setting with the Salvo Switch above the ORO-57K Control Panel. <br />AUTO- All Rockets will be fired in succession if the Trigger remains pressed. <br />1RO- A single Rocket will be launched for every Trigger press. <br />4RO- Four Rockets will be fired on every press of the Trigger
 ---
 
-## EMPLOYMENT OF CANNON ARMAMENT IN AIR COMBAT
+## Unguided Rockets for Air Combat
 
 ===
 

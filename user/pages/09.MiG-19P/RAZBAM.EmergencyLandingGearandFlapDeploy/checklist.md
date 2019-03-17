@@ -20,7 +20,7 @@ checklist:
     -   step: WARNING- After both the Landing Gear and Flaps Emergency Deployment Systems have been operated, the aircraft Hydraulic and Emergency Pneumatic Deployment Systems will require repair/service before being to use these systems again in order to prevent Hydraulic System Overpressure and supply pipe ruptures.
 ---
 
-## EMERGENCY LANDING GEAR & FLAP DEPLOYMENT
+## Emergency Landing Gear & Flaps Deploy
 
 ===
 

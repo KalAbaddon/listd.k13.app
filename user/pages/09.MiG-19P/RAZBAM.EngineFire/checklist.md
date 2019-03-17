@@ -20,7 +20,7 @@ checklist:
     -   step: 5. On landing approach, deploy both the Landing Gear and Flaps (АВАР. ШАССИ И АВАР. ЗАКР) using the emergency procedures and jettison the Canopy (АВАР. СБРОС ФОНАРЯ). If you plan to land without the Landing Gear, ensure that you jettison all external stores (АВАР. СБРОС ПОДВЕСОК).
 ---
 
-## ENGINE FIRE
+## Engine Fire
 
 ===
 

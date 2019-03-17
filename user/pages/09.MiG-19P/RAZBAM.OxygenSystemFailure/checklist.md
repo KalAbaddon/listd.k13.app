@@ -18,7 +18,7 @@ checklist:
     -   step: 3. Return the oxygen level switch to the MIX (СМЕСЬ) position.
 ---
 
-## OXYGEN SYSTEM FAILURE IN FLIGHT 
+## Oxygen System Failure in Flight 
 
 ===
 

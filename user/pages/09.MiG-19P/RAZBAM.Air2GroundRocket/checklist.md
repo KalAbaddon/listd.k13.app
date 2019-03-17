@@ -24,7 +24,7 @@ checklist:
     -   step: 9. When both edges of the Wagon touch the Sight´s Reticle Ring, open fire. 
 ---
 
-## EMPLOYMENT OF ARS-57M/S-5M UNGUIDED ROCKETS IN GROUND ATTACK
+## ARS-57M/S-5M Unguided Rockets for Ground Attack
 
 ===
 

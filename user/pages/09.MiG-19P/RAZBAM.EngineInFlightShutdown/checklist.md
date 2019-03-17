@@ -24,7 +24,7 @@ checklist:
     -   step: 9. Flight with one Engine can be easily counteracted using the Rudder. If the remaining Engine will not re-start where possible cancel the mission and return to the Airbase. 
 ---
 
-## ENGINE(S)IN-FLIGHT SHUTDOWN 
+## Engine(s) In-Flight Shutdown
 
 ===
 

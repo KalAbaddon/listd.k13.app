@@ -19,7 +19,7 @@ checklist:
     -   step: 4. On Approach, switch the ARU-2V control to Manual (АРУ-2В – РУЧНОЕ) and move the lever arm length to long lever arm (БОЛЬШ ПЛЕЧО) setting.
 ---
 
-## PITOT TUBE FAILURE 
+## Pitot Tube Failure
 
 ===
 

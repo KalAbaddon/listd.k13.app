@@ -21,7 +21,7 @@ checklist:
     -   step: 6. The Lamp will illuminate for around 3 seconds, then the Aiming Solution and Radar Lock will be dropped, and the Sight will automatically switch to Optical Mode. <br />This does not mean that the Cannons will be disabled as well. If the Pilot decides so, the Target can still be Engaged using the standard Optical method.
 ---
 
-## EMPLOYMENT OF THE ASP-5N GUNSIGHT IN RADAR MODE
+## ASP-5N Gunsight in Radar Mode
 
 ===
 

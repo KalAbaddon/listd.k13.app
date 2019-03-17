@@ -17,7 +17,7 @@ checklist:
     -   step: 3. The process to attack is identical - as the Distance is being introduced automatically into the Gunsight, you only need to place the Reticle Center Dot over the Target and fire. 
 ---
 
-## EMPLOYMENT OF RADAR MODE WHEN THE RP-5 HAS BEEN SWITCHED TO MODE 1 
+## Use of Radar Mode when RP-5 set Mode 1
 
 ===
 

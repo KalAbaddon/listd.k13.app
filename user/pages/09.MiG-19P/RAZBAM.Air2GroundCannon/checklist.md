@@ -21,7 +21,7 @@ checklist:
     -   step: The Cannons are best employed at Dive Angles from 20º to 50º and at distances between 1,500 and 800 meters from the Target. Remember that as the Dive Angle and Speed increases, so does the exit Altitude. When attacking at 20-30º, the recovery maneuver should start before reaching 800 meters, but for 40-50º, the recovery should start at 1,000 meters. 
 ---
 
-## EMPLOYMENT OF CANNON ARMAMENT IN GROUND ATTACK 
+## Cannon for Ground Attack 
 
 ===
 
