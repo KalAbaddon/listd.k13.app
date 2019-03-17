@@ -20,12 +20,13 @@
 
 <a href="{{ page.url }}">
     <div class="card-body">
+    <b>Author: "{{ page.header.taxonomy.author }}"</b><br />
         {% if page.summary != page.content %}
             {{ page.summary|raw }}
         {% else %}
             {{ page.content|raw }}
         {% endif %}
-        <br /><b>Author Name: "{{ page.header.taxonomy.author }}"</b>
+        
     </div>
 </a>
     
