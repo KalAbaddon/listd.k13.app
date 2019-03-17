@@ -21,8 +21,7 @@ checklist:
     -   step: 5) Hit WEAPONS RELEASE when you reach 45 deg on the KPP. 
 ---
 
-## MiG-21bis 
-RN-24 / RN 28 Nuclear Bomb
+## RN-24 / RN 28 Nuclear Bomb
 
 ===
 

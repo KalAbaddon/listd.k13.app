@@ -18,8 +18,7 @@ checklist:
     -   step: 3) The best Altitude for Afterburner engagement is 7,000-8,000 meters. When engaging the afterburner at this Altitude, the climb will require less Time and Fuel than with Military Power selected.
 ---
 
-## MiG-19P 
-Climb
+## Climb
 
 ===
 

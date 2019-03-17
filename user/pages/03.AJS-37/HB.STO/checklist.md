@@ -16,8 +16,7 @@ checklist:
     -   step: Note- With Zone 3 afterburner, the aircraft accelerates very quickly and may result in reaching maximum allowed airspeed with extended landing gear before it has fully retracted.
 ---
 
-## AJS-37 
-Take Off on short runways. 
+## Take Off on short runways. 
 
 ===
 

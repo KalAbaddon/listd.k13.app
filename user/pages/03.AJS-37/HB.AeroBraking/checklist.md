@@ -20,8 +20,7 @@ checklist:
     -   step: If needed, engage thrust reversal. 
 ---
 
-## AJS-37 
-Aerobraking
+## Aerobraking
 
 ===
 

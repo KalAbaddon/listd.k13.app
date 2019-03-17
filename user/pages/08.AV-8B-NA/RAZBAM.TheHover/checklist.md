@@ -16,8 +16,7 @@ checklist:
     -   step: 3. RPM/JPT WITHIN LIMITS 
 ---
 
-## AV-8B NA 
-The Hover 
+## The Hover 
 
 ===
 

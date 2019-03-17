@@ -33,8 +33,7 @@ checklist:
     -   step: If the “trap” is successful, retard the throttles to idle, raise the arrestor hook [H], set flaps to AUTO [F] and taxi out of the landing area.
 ---
 
-## F/A-18C 
-Case 1 Carrier Recovery 
+## Case 1 Carrier Recovery 
 
 ===
 

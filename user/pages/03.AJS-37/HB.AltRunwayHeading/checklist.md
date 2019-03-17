@@ -23,8 +23,7 @@ checklist:
     -   step: Select AKT POS / OUT.
 ---
 
-## AJS-37 
-Alternate Runway heading selection.
+## Alternate Runway heading selection.
 
 ===
 

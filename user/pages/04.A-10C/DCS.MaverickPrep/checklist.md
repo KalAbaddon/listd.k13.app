@@ -19,8 +19,7 @@ checklist:
     -   step: Note- The active Maverick station is colored white. 
 ---
 
-## A-10C 
-Maverick Prep
+## Maverick Prep
 
 ===
 

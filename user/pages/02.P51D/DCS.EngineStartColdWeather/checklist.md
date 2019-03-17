@@ -20,8 +20,7 @@ checklist:
     -   step: If there is no oil pressure after 30 seconds running or if the pressure drops to 0 after a few minutes of ground operation, stop the engine immediately and investigate to prevent excess wear and damage. 
 ---
 
-## P51D 
-Cold Weather Starting the Engine
+## Cold Weather Starting the Engine
 
 ===
 

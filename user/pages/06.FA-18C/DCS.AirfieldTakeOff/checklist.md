@@ -23,7 +23,6 @@ checklist:
     -   step: 7. Switch the right DDI to air-to-air RADAR. 
 ---
 
-## F/A-18C 
-Airfield Take Off
+## Airfield Take Off
 
 ===

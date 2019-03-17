@@ -20,8 +20,7 @@ checklist:
     -   step: 5. The safe time the Batteries can last powering the systems is- <br />8 minutes, if the Engines were started using the Batteries. <br />12 minutes, if the Engines were started using Ground Power. <br />If all the consumers are left ON- <br /> 3 minutes, if the engines were started using the batteries. <br /> 7 minutes, if the engines were started using ground power."
 ---
 
-## MiG-19P 
-DOUBLE DC GENERATORS FAIL DURING FLIGHT 
+## DOUBLE DC GENERATORS FAIL DURING FLIGHT 
 
 ===
 

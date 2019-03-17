@@ -24,8 +24,7 @@ checklist:
     -   step: '8) Put pipper on target and monitor bottom range band: fire from 1,700 m by holding the WEAPONS RELEASE button. You will have a visual cue when the LAUNCH ALLOWED light is lit up.'
 ---
 
-## MiG-21bis 
-S-16/S-32 Rocket Pods
+## S-16/S-32 Rocket Pods
 
 ===
 

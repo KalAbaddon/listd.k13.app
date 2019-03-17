@@ -33,8 +33,7 @@ checklist:
         details: CYCLE L/R/BOTH
 ---
 
-## F-14 
-Quick Engine Start Pilot
+## Quick Engine Start Pilot
 
 ===
 

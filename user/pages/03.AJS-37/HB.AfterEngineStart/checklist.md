@@ -33,8 +33,7 @@ checklist:
         details: Taxi. 
 ---
 
-## AJS-37 
-After Engine Start 
+## After Engine Start 
 
 ===
 

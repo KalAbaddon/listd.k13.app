@@ -31,8 +31,7 @@ checklist:
         details: Inform pilot, ready to start.
 ---
 
-## F-14 
-RIO Engine PreStart
+## RIO Engine PreStart
 
 ===
 

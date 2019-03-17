@@ -29,8 +29,7 @@ checklist:
     -   step: 11) Connect the “PVD Heat.” and “Emerg. TP-156” switches on the RH Side panel.<br />This will activate the heating of both Main and Standby Air Data Probes. This must be done on the runway and disconnected again immediately after landing to avoid Ground Crew injuries from contact with hot Air Data Probes.
 ---
 
-## MiG-19P 
-Taxi
+## Taxi
 
 ===
 

@@ -24,8 +24,7 @@ checklist:
     -   step: Avoid sudden bursts of power during takeoff! Make it smooth and steady. 
 ---
 
-## P51D 
-Normal Takeoff 
+## Normal Takeoff 
 
 ===
 

@@ -18,8 +18,7 @@ checklist:
     -   step: 3) At an Altitude of no less than 100 meters and a speed up to 500 km/h, Retract the Flaps and Go Around for another Landing attempt.
 ---
 
-## MiG-19P 
-Aborted Landing
+## Aborted Landing
 
 ===
 

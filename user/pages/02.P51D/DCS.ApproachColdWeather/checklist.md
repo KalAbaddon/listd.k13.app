@@ -20,8 +20,7 @@ checklist:
     -   step: Pump the brakes to chip away any accumulated ice.
 ---
 
-## P51D 
-Cold Weather Approach
+## Cold Weather Approach
 
 ===
 

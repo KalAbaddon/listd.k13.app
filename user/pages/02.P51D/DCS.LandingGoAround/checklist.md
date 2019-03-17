@@ -26,8 +26,7 @@ checklist:
     -   step: It’s critical to maintain a straight course until enough airspeed is gained to raise the flaps and begin maneuvering.
 ---
 
-## P51D 
-Landing Go-Around 
+## Landing Go-Around 
 
 ===
 

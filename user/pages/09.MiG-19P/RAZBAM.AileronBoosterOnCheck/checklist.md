@@ -17,8 +17,7 @@ checklist:
     -   step: 2) Move the Control Stick to the extreme Left and Right. The movement should be smooth without jamming and sticking. The Pilot should feel the resistance of the spring feel mechanism.<br />During testing, the indication in the Booster Pressure System Gauge may oscillate a small amount.
 ---
 
-## MiG-19P 
-Aileron 'Booster ON' Check
+## Aileron 'Booster ON' Check
 
 ===
 

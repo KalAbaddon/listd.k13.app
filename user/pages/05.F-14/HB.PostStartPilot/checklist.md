@@ -92,7 +92,6 @@ checklist:
     -   step: Flight instruments - Check.
 ---
 
-## F-14 
-Pilot Post Start
+## Pilot Post Start
 
 ===

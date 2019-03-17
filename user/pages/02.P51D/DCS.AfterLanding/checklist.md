@@ -23,8 +23,7 @@ checklist:
     -   step: Set fuel booster pump to OFF.
 ---
 
-## P51D 
-After Landing  
+## After Landing  
 
 ===
 

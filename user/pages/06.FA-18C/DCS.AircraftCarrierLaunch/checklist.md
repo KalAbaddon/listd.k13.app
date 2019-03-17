@@ -22,8 +22,7 @@ checklist:
     -   step: 6. Set right DDI to the A/A attack radar display. 
 ---
 
-## F/A-18C 
-Aircraft Carrier Launch 
+## Aircraft Carrier Launch 
 
 ===
 

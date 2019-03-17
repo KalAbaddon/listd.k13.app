@@ -57,7 +57,6 @@ checklist:
     -   step: HYD TRANSFER PUMP switch to NORMAL.
 ---
 
-## F-14 
-Pilot Engine PreStart
+## Pilot Engine PreStart
 
 ===

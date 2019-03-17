@@ -28,8 +28,7 @@ checklist:
         location: RCTRL] + [HOME / RCTRL] + [END 
 ---
 
-## Mi-8MTV2 
-Preflight Cockpit Check Simplified Procedure
+## Preflight Cockpit Check Simplified Procedure
 
 ===
 

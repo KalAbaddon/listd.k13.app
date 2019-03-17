@@ -23,8 +23,7 @@ checklist:
     -   step: 7) Fire when ready using the gun trigger. 
 ---
 
-## MiG-21bis 
-GSh-23 Gun
+## GSh-23 Gun
 
 ===
 

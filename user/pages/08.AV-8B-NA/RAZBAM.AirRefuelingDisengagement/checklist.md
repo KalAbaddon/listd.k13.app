@@ -21,8 +21,7 @@ checklist:
     -   step: 4. LEFT and RIGHT advisory lights will go out when the probe is fully retracted or if PRESS selected. 
 ---
 
-## AV-8B NA 
-Air Refueling Disengagement
+## Air Refueling Disengagement
 
 ===
 

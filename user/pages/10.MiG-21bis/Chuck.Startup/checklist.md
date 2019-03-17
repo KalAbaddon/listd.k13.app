@@ -37,8 +37,7 @@ checklist:
     -   step: 21. Pylon 1-2 Power, Pylon 3-4 Power, ASP Gunsight Power, SRZO IFF ON (UP)
 ---
 
-## MiG-21bis 
-Startup
+## Startup
 
 ===
   

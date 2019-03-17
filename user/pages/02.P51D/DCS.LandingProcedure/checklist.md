@@ -27,8 +27,7 @@ checklist:
     -   step: Never attempt to push the stick forward and unlock the tail wheel in a turn when taxiing. Release the tail wheel before starting the turn. 
 ---
 
-## P51D 
-Landing Procedure 
+## Landing Procedure 
 
 ===
 

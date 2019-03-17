@@ -24,8 +24,7 @@ checklist:
     -   step: 9. Flight with one Engine can be easily counteracted using the Rudder. If the remaining Engine will not re-start where possible cancel the mission and return to the Airbase. 
 ---
 
-## MiG-19P 
-ENGINE(S)IN-FLIGHT SHUTDOWN 
+## ENGINE(S)IN-FLIGHT SHUTDOWN 
 
 ===
 

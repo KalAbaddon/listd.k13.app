@@ -20,8 +20,7 @@ checklist:
     -   step: 5. You can now launch the Maverick by holding down the weapon release button.
 ---
 
-## A-10C 
-Maverick in Force Correlate Tracking Mode
+## Maverick in Force Correlate Tracking Mode
 
 ===
 

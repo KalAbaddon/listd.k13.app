@@ -18,7 +18,6 @@ checklist:
     -   step: When authorized, give the Ground Crew the “Chocks Away” signal and confirm that Chocks have been removed.
 ---
 
-## MiG-19P 
-Final Preparations Before Flight
+## Final Preparations Before Flight
 
 ===

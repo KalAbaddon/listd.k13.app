@@ -22,8 +22,7 @@ checklist:
         details: 'Minimum: 14psi <br />Desired: 16-18psi <br />Maximum: 19psi'
 ---
 
-## P51D 
-Engine Instrument Limits Table
+## Engine Instrument Limits Table
 
 ===
 

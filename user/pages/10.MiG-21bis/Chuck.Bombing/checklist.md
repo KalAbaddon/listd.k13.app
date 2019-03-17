@@ -26,8 +26,7 @@ checklist:
     -   step: 10) Pull up and avoid pulling more than 4-5 G or your other bombs will detach themselves.
 ---
 
-## MiG-21bis 
-Bombing
+## Bombing
 
 ===
 

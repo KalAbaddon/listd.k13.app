@@ -37,8 +37,7 @@ checklist:
     -   step: Once hooked up, takeoff stab position with the trim hat based on total aircraft weight. This weight can be seen on the CHECKLIST page. Using the TRIM HAT, set your stabs to takeoff trim based on <br />• Below 44,000 gross weight = stab trim 16 degrees (MIL or burners) <br />• 45,000 to 48,000 gross weight = stab trim 17 degrees (MIL or burners) <br />• 49,000 and above = stab trim 19 degrees (Burners required) 
 ---
 
-## F/A-18C 
-Aircraft Carrier Taxi 
+## Aircraft Carrier Taxi 
 
 ===
 

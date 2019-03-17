@@ -23,8 +23,7 @@ checklist:
     -   step: 'WARNING: When using 250 kg bombs, be sure to pull out of the dive before reaching an altitude of 700 meters, otherwise the Aircraft may be damaged by the explosion.'
 ---
 
-## MiG-19P 
-EMPLOYMENT OF FREE-FALL BOMBS 
+## EMPLOYMENT OF FREE-FALL BOMBS 
 
 ===
 

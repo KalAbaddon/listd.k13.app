@@ -66,8 +66,7 @@ checklist:
         details: Before any flight, check the landing gear warning lights by pushing on the lamp housings.<br />If you expect to use oxygen, check the gauge for a pressure of 400 PSI.<br />If night flying is anticipated, check all essential lights – instrument fluorescent lights, cockpit swivel lights, position and recognition lights, and landing lights. 
 ---
 
-## P51D 
-Prestart
+## Prestart
 
 ===
 

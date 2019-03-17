@@ -27,8 +27,7 @@ checklist:
         details: LSHIFT+E
 ---
 
-## F-14 
-Quick PreStart Pilot
+## Quick PreStart Pilot
 
 ===
 

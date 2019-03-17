@@ -47,8 +47,7 @@ checklist:
         details: LESS THAN 60o WHEN SLOW
 ---
 
-## AV-8B NA 
-Decelerating Transition to a Rolling Vertical Landing. 
+## Decelerating Transition to a Rolling Vertical Landing. 
 
 ===
 

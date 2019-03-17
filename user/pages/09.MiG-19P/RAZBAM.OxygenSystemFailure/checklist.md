@@ -18,8 +18,7 @@ checklist:
     -   step: 3. Return the oxygen level switch to the MIX (СМЕСЬ) position.
 ---
 
-## MiG-19P 
-OXYGEN SYSTEM FAILURE IN FLIGHT 
+## OXYGEN SYSTEM FAILURE IN FLIGHT 
 
 ===
 

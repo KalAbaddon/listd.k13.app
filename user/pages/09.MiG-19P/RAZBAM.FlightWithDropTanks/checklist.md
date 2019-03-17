@@ -18,8 +18,7 @@ checklist:
     -   step: 3) When Jettisoning the External Fuel Drop Tanks, check that the Green “Suspended Loads” Lamps are no longer illuminated.
 ---
 
-## MiG-19P 
-Flight with Drop Tanks
+## Flight with Drop Tanks
 
 ===
 

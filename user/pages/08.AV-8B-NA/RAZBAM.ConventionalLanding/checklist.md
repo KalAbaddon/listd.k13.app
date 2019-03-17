@@ -50,8 +50,7 @@ checklist:
         details: LESS THAN 60o WHEN SLOW. 
 ---
 
-## AV-8B NA 
-Conventional Landing (CL) 
+## Conventional Landing (CL) 
 
 ===
 

@@ -50,8 +50,7 @@ checklist:
         details: Witch Hat at the pitch carets. 
 ---
 
-## AV-8B NA 
-Conventional Takeoff (CTO) 
+## Conventional Takeoff (CTO) 
 
 ===
 

@@ -30,8 +30,7 @@ checklist:
     -   step: Note- The Radar and Central Indicator (CI) will first function 30 seconds after Master Mode Selector is set to NAV, and 180 s after the generator is on. (Due to software initialisation)
 ---
 
-## AJS-37 
-Before take-off 
+## Before take-off 
 
 ===
 

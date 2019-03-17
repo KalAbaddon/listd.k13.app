@@ -18,8 +18,7 @@ checklist:
     -   step: Turn on the gun heaters.
 ---
 
-## P51D 
-Cold Weather After Takeoff 
+## Cold Weather After Takeoff 
 
 ===
 

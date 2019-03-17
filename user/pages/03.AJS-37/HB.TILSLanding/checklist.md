@@ -31,8 +31,7 @@ checklist:
 
 ---
 
-## AJS-37 
-TILS landing  
+## TILS landing  
 
 ===
 

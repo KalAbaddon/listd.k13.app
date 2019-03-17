@@ -19,8 +19,7 @@ checklist:
 
 ---
 
-## AJS-37 
-Engine Start
+## Engine Start
 
 ===
 

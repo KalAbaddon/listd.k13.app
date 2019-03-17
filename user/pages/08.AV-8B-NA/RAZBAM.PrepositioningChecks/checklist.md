@@ -31,8 +31,7 @@ checklist:
         details: ON 
 ---
 
-## AV-8B NA 
-Pre-positioning Checks 
+## Pre-positioning Checks 
 
 ===
 

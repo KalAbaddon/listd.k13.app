@@ -92,8 +92,7 @@ checklist:
         details: BLASTING
 ---
 
-## F-14 
-Quick Startup Full Pilot
+## Quick Startup Full Pilot
 
 ===
 

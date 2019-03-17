@@ -23,8 +23,7 @@ checklist:
     -   step: If the parking brakes are to be used, give them plenty of time to cool or they may freeze in place. Avoid using the parking brakes unless dictated by conditions or tying the aircraft down overnight. 
 ---
 
-## P51D 
-Shutdown
+## Shutdown
 
 ===
 

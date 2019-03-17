@@ -34,8 +34,7 @@ checklist:
     -   step: Oil and coolant radiator air control switches set to AUTOMATIC. 
 ---
 
-## P51D 
-PreFlight
+## PreFlight
 
 ===
 

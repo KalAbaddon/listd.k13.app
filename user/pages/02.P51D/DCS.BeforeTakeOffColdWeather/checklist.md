@@ -21,8 +21,7 @@ checklist:
     -   step: Turn the pitot heat switch to ON just before takeoff. 
 ---
 
-## P51D 
-Cold Weather Before Takeoff 
+## Cold Weather Before Takeoff 
 
 ===
 

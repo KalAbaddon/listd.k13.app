@@ -28,8 +28,7 @@ checklist:
         details: CHECK  
 ---
 
-## AV-8B NA 
-Taxiing 
+## Taxiing 
 
 ===
 

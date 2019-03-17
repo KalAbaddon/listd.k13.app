@@ -28,8 +28,7 @@ checklist:
     -   step: 10. Elevate HUD reflector glass to inflight mode to display HUD symbology when at lower angles of attack. 
 ---
 
-## AJS-37 
-Take Off By using the HUD
+## Take Off By using the HUD
 
 ===
 

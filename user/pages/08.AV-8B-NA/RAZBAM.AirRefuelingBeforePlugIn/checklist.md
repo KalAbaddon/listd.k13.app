@@ -30,8 +30,7 @@ checklist:
         details: DOWN 
 ---
 
-## AV-8B NA 
-Air RefuelingBefore Plug-in 
+## Air RefuelingBefore Plug-in 
 
 ===
 
