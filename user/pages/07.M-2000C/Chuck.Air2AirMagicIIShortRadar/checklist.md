@@ -25,8 +25,7 @@ checklist:
     -   step: 9. Fire missile (Press and hold Weapon Fire key, SPACE by default) when missile is within KILL (no escape) range<br />• When in KILL zone, you will see a double circle + TIR (fire) message on the HUD
 ---
 
-## M-2000C
-A2A Magic II Missile Short Range Radar
+## A2A Magic II Missile Short Range Radar
 
 
 ===

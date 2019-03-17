@@ -76,8 +76,7 @@ checklist:
     -   step: 37. When INS alignment process is complete (see INS ALIGNMENT section), start taxiing.
 ---
 
-## M-2000C
-Pre Flight
+## Pre Flight
 
 ===
   

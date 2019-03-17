@@ -22,7 +22,6 @@ checklist:
     -   step: 6. Fire guns (Weapon Fire key, SPACE by default).
 ---
 
-## M-2000C
-Guns No Radar
+## Guns No Radar
 
 ===

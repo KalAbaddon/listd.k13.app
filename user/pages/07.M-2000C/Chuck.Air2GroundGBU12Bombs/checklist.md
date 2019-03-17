@@ -28,8 +28,7 @@ checklist:
     -   step: 12. Observe damage and unlock target (BACKSPACE by default).
 ---
 
-## M-2000C
-GBU-12 Bombs
+## GBU-12 Bombs
 
 ===
 

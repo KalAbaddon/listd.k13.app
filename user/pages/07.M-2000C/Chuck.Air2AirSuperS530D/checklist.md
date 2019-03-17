@@ -27,7 +27,6 @@ checklist:
     -   step: 11. Fire missile (Press and hold Weapon Fire key, SPACE by default) when missile is within KILL (no escape) range.
 ---
 
-## M-2000C
-A2A Super S530D Missile
+## A2A Super S530D Missile
 
 ===

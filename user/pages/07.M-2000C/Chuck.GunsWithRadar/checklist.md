@@ -24,7 +24,6 @@ checklist:
     -   step: 8. Fire guns (Weapon Fire key, SPACE by default) when you are within kill range (gun pipper will change when you are 300-600 meters from target) and your center reticle is on target.
 ---
 
-## M-2000C
-Guns With Radar
+## Guns With Radar
 
 ===

@@ -28,8 +28,7 @@ checklist:
     -   step: 12. Observe damage and unlock target (BACKSPACE by default). Unfortunately, CCRP is not very precise.
 ---
 
-## M-2000C
-MK-82 Bombs CCRP
+## MK-82 Bombs CCRP
 
 ===
 

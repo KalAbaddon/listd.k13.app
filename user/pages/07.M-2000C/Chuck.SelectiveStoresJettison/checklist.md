@@ -21,8 +21,7 @@ checklist:
     -   step: 6. Set Master Arm switch to OFF (DOWN)
 ---
 
-## M-2000C
-Selective Stores Jettison
+## Selective Stores Jettison
 
 ===
 

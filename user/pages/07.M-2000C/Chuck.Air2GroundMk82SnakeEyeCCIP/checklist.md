@@ -27,8 +27,7 @@ checklist:
     -   step: 11. Pull up to avoid smacking yourself into the ground and watch the fireworks.
 ---
 
-## M-2000C
-MK-82 Snake Eye Bombs CCIP
+## MK-82 Snake Eye Bombs CCIP
 
 ===
 

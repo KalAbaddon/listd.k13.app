@@ -22,8 +22,7 @@ checklist:
     -   step: 6. When rocket pipper is aligned, press and hold WEAPON RELEASE button (SPACE by default).
 ---
 
-## M-2000C
-Rockets
+## Rockets
 
 ===
 

@@ -22,7 +22,6 @@ checklist:
     -   step: 6. Fire missile (Press and hold Weapon Fire key, SPACE by default)
 ---
 
-## M-2000C
-A2A Magic II Missile No Radar
+## A2A Magic II Missile No Radar
 
 ===
