@@ -19,7 +19,7 @@ pagination: true
 ---
 
 # F-14
-Not out yet and look at this checklist stolen, err copied from HB!
+The quick stop for Bombcat Checklists!
 
 ===
 
