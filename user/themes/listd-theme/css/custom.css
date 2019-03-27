@@ -34,6 +34,10 @@ body {
 }
 /* style for checklist tables */
 
+.listtable {
+    border-color: #4e81f0;
+}
+
 .listtable th {
     text-align: center;
     box-shadow: inset 0px 0px 0px rgb(42, 42, 42);
