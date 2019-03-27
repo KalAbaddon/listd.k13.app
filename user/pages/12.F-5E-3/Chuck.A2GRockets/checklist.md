@@ -23,8 +23,8 @@ checklist:
     -   step: 7. Use your altimeter, speed indicator and attitude indicator to fly with correct bombing parameters. For a 20 deg dive, maintain airspeed at 400 kts. 
     -   step: 8. Launch rockets at 1500 ft above ground level by pressing the WEAPON RELEASE BUTTON (Ralt+Space).
 
-listtable: "|
-    |Rocket Table|
+listtable: |
+    "|Rocket Table|
     |------------|
     |Parameter|Dive Angles (degrees)|
     | | 20 | 30 |
