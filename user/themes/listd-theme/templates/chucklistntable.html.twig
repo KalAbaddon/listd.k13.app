@@ -27,12 +27,14 @@ This Checklist is provided courtesy of Chuck, please reference the full guide at
     {% endfor %}
 
 </div>
-<br />
-<div class="listtable">
-    {% markdown %}
-        {{ page.header.listtable }}
-    {% endmarkdown %}
-</div>
+    {% for checklist in page.header.listtable %}
+        <br />
+        <div class="listtable">
+            {% markdown %}
+                {{ page.header.listtable }}
+            {% endmarkdown %}
+        </div>
+    {% endfor %}
 <br />
 {% include 'partials/breadcrumbs.html.twig' %}
 
