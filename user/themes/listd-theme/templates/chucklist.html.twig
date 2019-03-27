@@ -27,7 +27,7 @@ This Checklist is provided courtesy of Chuck, please reference the full guide at
     {% endfor %}
 
 </div>
-
+    {% for listtable in page.header.listtable %}
     {% if listtable != "" %}
         <br />
         <div class="listtable">
@@ -38,6 +38,7 @@ This Checklist is provided courtesy of Chuck, please reference the full guide at
         {% else %}
 
     {% endif %}
+    {% endfor %}
 
 <br />
 {% include 'partials/breadcrumbs.html.twig' %}
