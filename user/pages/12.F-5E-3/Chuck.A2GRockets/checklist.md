@@ -24,7 +24,7 @@ checklist:
     -   step: 8. Launch rockets at 1500 ft above ground level by pressing the WEAPON RELEASE BUTTON (Ralt+Space).
 
 listtable: |
-    "|Rocket Table|
+    |Rocket Table|
     |------------|
     |Parameter|Dive Angles (degrees)|
     | | 20 | 30 |
@@ -32,7 +32,7 @@ listtable: |
     |Dive initiation speed (kts) |350 to 370 |350|
     |Release altitude (ft AGL) |1500 |2000|
     |Release speed (kts) |400 |400|
-    |Reticle Depression (mils) |14 |10|"
+    |Reticle Depression (mils) |14 |10|
 ---
 
 ## Air to Ground Rockets
