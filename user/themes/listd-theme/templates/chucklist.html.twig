@@ -27,18 +27,6 @@ This Checklist is provided courtesy of Chuck, please reference the full guide at
     {% endfor %}
 
 </div>
-    {% for listtable in page.header.listtable %}
-    {% if page.header.listtable != "" %}
-        <br />
-        <div class="listtable">
-            {% markdown %}
-                {{ page.header.listtable }}
-            {% endmarkdown %}
-        </div>
-        {% else %}
-
-    {% endif %}
-    {% endfor %}
 
 <br />
 {% include 'partials/breadcrumbs.html.twig' %}

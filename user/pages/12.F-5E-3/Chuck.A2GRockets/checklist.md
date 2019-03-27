@@ -10,7 +10,7 @@ taxonomy:
         - Tiger II
     author: Chuck
 
-template: chucklist
+template: chucklistntable
 
 
 checklist:
