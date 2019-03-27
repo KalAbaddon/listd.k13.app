@@ -28,7 +28,7 @@ This Checklist is provided courtesy of Chuck, please reference the full guide at
 
 </div>
 
-    {% for checklist in page.header.listtable %}
+    {% for listtable in page.header.listtable %}
         <br />
         <div class="listtable">
             {% markdown %}
@@ -36,7 +36,7 @@ This Checklist is provided courtesy of Chuck, please reference the full guide at
             {% endmarkdown %}
         </div>
     {% endfor %}
-    
+
 <br />
 {% include 'partials/breadcrumbs.html.twig' %}
 
