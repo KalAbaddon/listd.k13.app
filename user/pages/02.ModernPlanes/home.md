@@ -9,7 +9,7 @@ sitemap:
 
 content:
     items: 
-        '@taxonomy.category': modern plane
+        '@taxonomy.category': modern planes
     order:
         by: date
         dir: desc

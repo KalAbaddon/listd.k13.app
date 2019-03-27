@@ -3,7 +3,7 @@ title: A-10C
 taxonomy:
     category:
         - aircraft
-        - modern plane
+        - modern planes
 body_classes: 'header-image fullwidth'
 blog_url: A-10C
 content:

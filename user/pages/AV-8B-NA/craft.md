@@ -1,10 +1,11 @@
 ---
-title: F/A-18C
+title: AV-8B NA
 taxonomy:
     category:
         - aircraft
+        - modern planes
 body_classes: 'header-image fullwidth'
-blog_url: F/A-18C
+blog_url: AV-8B NA
 content:
     items:
         - '@self.children'
@@ -13,14 +14,14 @@ content:
         dir: desc
     pagination: true
 feed:
-    description: F/A-18C
+    description: AV-8B NA
     limit: 10
 pagination: true
 ---
 
-# F/A-18C
-The SA Says
+# AV-8B NA
+Getting the JUMP on targets in the Twentieth Century
 
 ===
 
-Who cares.  Get the kill ASAP!
+What does the target say? The target says BOOM!

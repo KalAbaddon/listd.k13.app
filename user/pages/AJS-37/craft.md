@@ -6,7 +6,7 @@ body_classes: 'header-image fullwidth'
 taxonomy:
     category:
         - aircraft
-        - modern plane
+        - modern planes
     author: KalAbaddon
 
 content:

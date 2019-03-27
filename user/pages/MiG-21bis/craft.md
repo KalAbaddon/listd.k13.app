@@ -1,10 +1,11 @@
 ---
-title: AV-8B NA
+title: MiG-21bis
 taxonomy:
     category:
         - aircraft
+        - modern planes
 body_classes: 'header-image fullwidth'
-blog_url: AV-8B NA
+blog_url: MiG-21bis
 content:
     items:
         - '@self.children'
@@ -13,14 +14,14 @@ content:
         dir: desc
     pagination: true
 feed:
-    description: AV-8B NA
+    description: MiG-21bis
     limit: 10
 pagination: true
 ---
 
-# AV-8B NA
-Getting the JUMP on targets in the Twentieth Century
+# MiG-21bis
+When you absolutly have to keep coming up with these things
 
 ===
 
-What does the target say? The target says BOOM!
+It gets hard,  sorry out of ideas tonight,  maybe later

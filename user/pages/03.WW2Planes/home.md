@@ -1,6 +1,6 @@
 ---
-title: Home
-blog_url: Home
+title: WW2 Planes
+blog_url: WW2 Planes
 body_classes: header-image fullwidth
 
 sitemap:
@@ -9,7 +9,7 @@ sitemap:
 
 content:
     items: 
-        '@taxonomy.category': aircraft
+        '@taxonomy.category': ww2 planes
     order:
         by: date
         dir: desc
@@ -18,6 +18,6 @@ content:
 pagination: true
 ---
 
-# Here are some Checklists!
+# For all the WW2 Sim Pilots
 
-## You can find them using the menu to select the craft also.
+## WW2 = Propeller!

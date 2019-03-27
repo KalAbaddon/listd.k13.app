@@ -1,10 +1,11 @@
 ---
-title: M-2000C
+title: MiG-19P
 taxonomy:
     category:
         - aircraft
+        - modern planes
 body_classes: 'header-image fullwidth'
-blog_url: M-2000C
+blog_url: MiG-19P
 content:
     items:
         - '@self.children'
@@ -13,14 +14,14 @@ content:
         dir: desc
     pagination: true
 feed:
-    description: M-2000C
+    description: MiG-19P
     limit: 10
 pagination: true
 ---
 
-# M-2000C
-Oh uh is that a Bandit!
+# MiG-19P
+The 19P arrives at a war-theater near YOU!
 
 ===
 
-Lemme just bait him behind this mountain for a nice WVR suprise!
+Low visability landings, dont make me laugh!
