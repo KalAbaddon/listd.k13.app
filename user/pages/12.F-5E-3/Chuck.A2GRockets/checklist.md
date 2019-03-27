@@ -29,6 +29,7 @@ checklist:
 ===
   
 |Rocket Table|
+|------------|
 |Parameter|Dive Angles (degrees)|
 | | 20 | 30 |
 |Dive initiation altitude (ft AGL) |5000 |6000|
