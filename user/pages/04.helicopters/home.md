@@ -18,6 +18,6 @@ content:
 pagination: true
 ---
 
-# Here are some Checklists!
+# For the rotor heads out there
 
-## You can find them using the menu to select the craft also.
+## See if you tell where the leak ends and the helo starts!
