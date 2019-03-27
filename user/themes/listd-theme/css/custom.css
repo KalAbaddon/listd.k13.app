@@ -68,18 +68,6 @@ adde style to accordions I use for checklists.*/
     background-color: rgb(32, 32, 32);
 }
 
-uk-accordion-table:nth-child(even) {
-    background-color: rgb(66, 66, 66);
-}
-
-.uk-accordion-table1 {
-    border-style: solid;
-    border-width: 1px;
-    border-color: #4e81f0;
-    box-shadow: inset 0px 0px 5px rgb(42, 42, 42);
-    background-color: rgb(100, 100, 100); 
-}
-
 .uk-accordion-title {
     border: none;
     color: #ffffff;
