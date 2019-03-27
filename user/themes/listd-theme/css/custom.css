@@ -34,7 +34,7 @@ body {
 }
 /* style for checklist tables */
 
-.listtable th {
+.listtable thead {
     text-align: center;
     background-color: #000000
 }
@@ -64,6 +64,9 @@ adde style to accordions I use for checklists.*/
     background-color: rgb(32, 32, 32);
 }
 
+.uk-accordion-table tr:nth-child(even) {
+    border-color: #182747;
+}
 
 .uk-accordion-table1 {
     border-style: solid;
