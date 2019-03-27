@@ -50,18 +50,17 @@ checklist:
     -   step: 31. Set throttle to 85 % RPM and start taxiing.
 
 listtable: |
-|Takeoff Performance Table|
-|-----|
-|Takeoff weight (lbs)| Stores, ammo |Center-of-Gravity Position, % MAC |Liftoff Speed (kts)|
-|15,000 |None |18 to 17 |143 to 145| 
-|15,500 to 16,000 |Gun ammo + Missiles |14 to 13 |153 to 155 |
-|17,000 to 18,000 |Central fuel tank + gun ammo + missiles |12 to 11 |164 to 168 |
-|19,000 |3xFuel Tanks 150 + gun ammo + missiles |15 to 14 |166 to 168 |
-|19,000 to 21,000 |Bombs + rockets + Central fuel tank + gun ammo + missiles |15 to 14 |168 to 175 |
-|19000 to 21000 |Bombs + rockets + center fuel pods + gun ammo + missiles |15 to 13 |168 to 175 |
-|22,000 |3xFuel tanks 275 + gun ammo + missiles |15 to 13 |178 to 180 |
-|23,000 and more |Bombs + rockets + gun ammo + missiles |15 to 14 |185 to 190 |
-
+    |Takeoff Performance Table|
+    |-----|
+    |Takeoff weight (lbs)| Stores, ammo |Center-of-Gravity Position, % MAC |Liftoff Speed (kts)|
+    |15,000 |None |18 to 17 |143 to 145| 
+    |15,500 to 16,000 |Gun ammo + Missiles |14 to 13 |153 to 155 |
+    |17,000 to 18,000 |Central fuel tank + gun ammo + missiles |12 to 11 |164 to 168 |
+    |19,000 |3xFuel Tanks 150 + gun ammo + missiles |15 to 14 |166 to 168 |
+    |19,000 to 21,000 |Bombs + rockets + Central fuel tank + gun ammo + missiles |15 to 14 |168 to 175 |
+    |19000 to 21000 |Bombs + rockets + center fuel pods + gun ammo + missiles |15 to 13 |168 to 175 |
+    |22,000 |3xFuel tanks 275 + gun ammo + missiles |15 to 13 |178 to 180 |
+    |23,000 and more |Bombs + rockets + gun ammo + missiles |15 to 14 |185 to 190 |
 ---
 
 ## Take Off
