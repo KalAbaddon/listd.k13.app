@@ -35,6 +35,8 @@ body {
 /* style for checklist tables */
 
 .listtable tr {
+    padding-left: 5px;
+    padding-right: 5px;
     box-shadow: inset 0px 0px 5px rgb(42, 42, 42);
 }
 .listtable tr:nth-child(even) {
