@@ -65,7 +65,6 @@ listtable: |
 
 ## Take Off
 
-Take off performance data on bottom
-
 ===
 
+Take off performance data on bottom
