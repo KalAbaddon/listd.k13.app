@@ -38,13 +38,4 @@ listtable: |
 ## Air to Ground Rockets
 
 ===
-  
-|Rocket Table|
-|------------|
-|Parameter|Dive Angles (degrees)|
-| | 20 | 30 |
-|Dive initiation altitude (ft AGL) |5000 |6000|
-|Dive initiation speed (kts) |350 to 370 |350|
-|Release altitude (ft AGL) |1500 |2000|
-|Release speed (kts) |400 |400|
-|Reticle Depression (mils) |14 |10|
+

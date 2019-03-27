@@ -32,6 +32,11 @@ body {
 .btn-group {
     margin-right: 20px;
 }
+/* style for checklist tables */
+.listtable tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
 
 /* Kalabaddon edit uk.accordion and cards for style
 adde style to accordions I use for checklists.*/
