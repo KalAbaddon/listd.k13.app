@@ -1,10 +1,11 @@
 ---
-title: F/A-18C
+title: F-14
 taxonomy:
     category:
         - aircraft
+        - modern planes
 body_classes: 'header-image fullwidth'
-blog_url: F/A-18C
+blog_url: F-14
 content:
     items:
         - '@self.children'
@@ -13,14 +14,15 @@ content:
         dir: desc
     pagination: true
 feed:
-    description: F/A-18C
+    description: F-14
     limit: 10
 pagination: true
 ---
 
-# F/A-18C
-The SA Says
+# F-14
+The quick stop for Bombcat Checklists!
 
 ===
 
-Who cares.  Get the kill ASAP!
+Jesters do oft prove prophets
+-Shakespeare

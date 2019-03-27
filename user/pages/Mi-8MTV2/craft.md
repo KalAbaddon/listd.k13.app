@@ -3,6 +3,7 @@ title: Mi-8MTV2
 taxonomy:
     category:
         - aircraft
+        - helicopters
 body_classes: 'header-image fullwidth'
 blog_url: Mi-8MTV2
 content:

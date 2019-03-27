@@ -1,10 +1,11 @@
 ---
-title: A-10C
+title: AV-8B NA
 taxonomy:
     category:
         - aircraft
+        - modern planes
 body_classes: 'header-image fullwidth'
-blog_url: A-10C
+blog_url: AV-8B NA
 content:
     items:
         - '@self.children'
@@ -13,14 +14,14 @@ content:
         dir: desc
     pagination: true
 feed:
-    description: A-10C
+    description: AV-8B NA
     limit: 10
 pagination: true
 ---
 
-# A-10C
-If you look really close you can laze for a buddy!
+# AV-8B NA
+Getting the JUMP on targets in the Twentieth Century
 
 ===
 
-To bad he loaded up mk82's
+What does the target say? The target says BOOM!

@@ -1,10 +1,11 @@
 ---
-title: MiG-19P
+title: F-5E-3
 taxonomy:
     category:
         - aircraft
+        - modern planes
 body_classes: 'header-image fullwidth'
-blog_url: MiG-19P
+blog_url: F-5E-3
 content:
     items:
         - '@self.children'
@@ -13,14 +14,14 @@ content:
         dir: desc
     pagination: true
 feed:
-    description: MiG-19P
+    description: F-5E-3
     limit: 10
 pagination: true
 ---
 
-# MiG-19P
-The 19P arrives at a war-theater near YOU!
+# F-5E-3
+When you are bored with easy
 
 ===
 
-Low visability landings, dont make me laugh!
+Accept no substitute! 

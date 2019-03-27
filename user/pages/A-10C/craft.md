@@ -1,10 +1,11 @@
 ---
-title: F-5E-3
+title: A-10C
 taxonomy:
     category:
         - aircraft
+        - modern planes
 body_classes: 'header-image fullwidth'
-blog_url: F-5E-3
+blog_url: A-10C
 content:
     items:
         - '@self.children'
@@ -13,14 +14,14 @@ content:
         dir: desc
     pagination: true
 feed:
-    description: F-5E-3
+    description: A-10C
     limit: 10
 pagination: true
 ---
 
-# F-5E-3
-When you are bored with easy
+# A-10C
+If you look really close you can laze for a buddy!
 
 ===
 
-Accept no substitute! 
+To bad he loaded up mk82's

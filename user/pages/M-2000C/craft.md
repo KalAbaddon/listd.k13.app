@@ -1,10 +1,11 @@
 ---
-title: MiG-21bis
+title: M-2000C
 taxonomy:
     category:
         - aircraft
+        - modern planes
 body_classes: 'header-image fullwidth'
-blog_url: MiG-21bis
+blog_url: M-2000C
 content:
     items:
         - '@self.children'
@@ -13,14 +14,14 @@ content:
         dir: desc
     pagination: true
 feed:
-    description: MiG-21bis
+    description: M-2000C
     limit: 10
 pagination: true
 ---
 
-# MiG-21bis
-When you absolutly have to keep coming up with these things
+# M-2000C
+Oh uh is that a Bandit!
 
 ===
 
-It gets hard,  sorry out of ideas tonight,  maybe later
+Lemme just bait him behind this mountain for a nice WVR suprise!
