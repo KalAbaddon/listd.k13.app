@@ -6,6 +6,7 @@ body_classes: 'header-image fullwidth'
 taxonomy:
     category:
         - aircraft
+        - ww2 planes
     author: KalAbaddon
 
 content:

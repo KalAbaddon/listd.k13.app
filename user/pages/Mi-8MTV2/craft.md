@@ -1,10 +1,11 @@
 ---
-title: A-10C
+title: Mi-8MTV2
 taxonomy:
     category:
         - aircraft
+        - helicopter
 body_classes: 'header-image fullwidth'
-blog_url: A-10C
+blog_url: Mi-8MTV2
 content:
     items:
         - '@self.children'
@@ -13,14 +14,14 @@ content:
         dir: desc
     pagination: true
 feed:
-    description: A-10C
+    description: Mi-8MTV2
     limit: 10
 pagination: true
 ---
 
-# A-10C
-If you look really close you can laze for a buddy!
+# Mi-8MTV2
+Mi-8 work horse for all the ages
 
 ===
 
-To bad he loaded up mk82's
+Taking off soon with more than Eight Magnificent Checklists!

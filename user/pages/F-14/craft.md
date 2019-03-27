@@ -3,6 +3,7 @@ title: F-14
 taxonomy:
     category:
         - aircraft
+        - modern plane
 body_classes: 'header-image fullwidth'
 blog_url: F-14
 content:
