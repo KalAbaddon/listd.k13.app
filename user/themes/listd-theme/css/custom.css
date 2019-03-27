@@ -50,7 +50,7 @@ adde style to accordions I use for checklists.*/
 }
 
 .uk-accordion.table tr:nth-child(even) {
-    background-color: #272727;
+    background-color: #272727 !important;
 }
 
 .uk-accordion-table1 {
