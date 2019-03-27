@@ -69,7 +69,7 @@ adde style to accordions I use for checklists.*/
 }
 
 .uk-accordion uk-accordion-table:nth-child(even) {
-    border-color: #182747;
+    background-color: rgb(66, 66, 66);
 }
 
 .uk-accordion-table1 {
