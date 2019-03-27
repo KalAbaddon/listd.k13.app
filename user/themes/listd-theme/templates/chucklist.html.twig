@@ -28,14 +28,16 @@ This Checklist is provided courtesy of Chuck, please reference the full guide at
 
 </div>
 
-    {% for listtable in page.header.listtable %}
+    {% if listtable != "" %}
         <br />
         <div class="listtable">
             {% markdown %}
                 {{ page.header.listtable }}
             {% endmarkdown %}
         </div>
-    {% endfor %}
+        {% else %}
+
+    {% endif %}
 
 <br />
 {% include 'partials/breadcrumbs.html.twig' %}
