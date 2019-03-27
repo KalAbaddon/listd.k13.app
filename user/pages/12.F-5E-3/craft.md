@@ -19,7 +19,7 @@ pagination: true
 ---
 
 # F-5E-3
-When you are bord with easy
+When you are bored with easy
 
 ===
 
