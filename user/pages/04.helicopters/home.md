@@ -1,6 +1,6 @@
 ---
-title: Helicopter
-blog_url: Helicopter
+title: Helicopters
+blog_url: Helicopters
 body_classes: header-image fullwidth
 
 sitemap:
@@ -9,7 +9,7 @@ sitemap:
 
 content:
     items: 
-        '@taxonomy.category': helicopter
+        '@taxonomy.category': helicopters
     order:
         by: date
         dir: desc
