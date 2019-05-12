@@ -7,7 +7,7 @@ taxonomy:
     craft:
         - I-16
         - Rata
-    author: DCS
+    author: OctopusG
 
 template: checklistnd
 
