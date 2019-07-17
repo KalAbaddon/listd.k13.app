@@ -1,3 +1,17 @@
+# v3.0.7
+## 07/01/2019
+
+1. [](#bugfix)
+    * Fixed file upload when `$grav['user']` is not set [#352](https://github.com/getgrav/grav-plugin-form/issues/352)
+    * Fixed label markdown being escaped [#356](https://github.com/getgrav/grav-plugin-form/pull/356)
+
+# v3.0.6
+## 06/24/2019
+
+1. [](#bugfix)
+    * Fixed regression breaking forms external to the page in some sites
+    * Fixed regression with form action in sub-path folders
+
 # v3.0.5
 ## 06/21/2019
 
