@@ -23,6 +23,7 @@
 {% set action = form.action ?: page.route ~ uri.params %}
 
 {% set action = (action starts with 'http') or (action starts with '#') ? action : base_url ~ action %}
+{% set action = url(form.action ?: page.route ~ uri.params) %}
 
 {% if (action == base_url_relative) %}
     {% set action = base_url_relative ~ '/' ~ page.slug %}
