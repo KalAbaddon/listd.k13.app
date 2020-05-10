@@ -1,3 +1,77 @@
+# 3.3.1
+## 05/07/2020
+
+1. [](#bugfix)
+    * Set missing default logout route to `/` for homepage
+
+# 3.3.0
+## 04/30/2020
+
+* [](#new)
+    * Rate limiter logic was moved to login events and can be turned on with `['rate_limit' => true]` option
+    * Rate limiter sets `UserLoginEvent::AUTHENTICATION_CANCELLED` and triggers `onUserLoginFailure` event
+    * Login now triggers extra `onUserLoginAuthorized` event if user is authorized
+    * 2FA now triggers either `onUserLoginAuthorized` or `onUserLoginFailure` event with `AUTHORIZATION_CHALLENGE` state
+1. [](#bugfix)
+    * Fixed issue with backwards compatibility for `route_after_login` and `route_after_logout`
+    * Removed duplicate entries in `blueprint.yaml` causing YAML errors
+    * Fixed logout not removing task if there was no redirect set
+    * Fixed remember me triggering `onUserLoginFailure`, use `onUserLoginGuest` event instead
+
+# 3.2.0
+## 04/27/2020
+
+1. [](#new)
+    * CHANGE: `redirect_to_login` and `redirect_after_logout` are now boolean, with accompanying `route_after_login` and `route_after_logout` options.  NOTE: Compatibility is maintained with existing config.
+* [](#improved)
+    * Improved configuration layout
+    * Better handling of login route when that page doesn't exist 
+1. [](#bugfix)
+    * Fixed guest only pages requiring login
+    * Fixed issue when logging out, not redirecting, and attempting to log right back in
+
+# 3.1.0
+## 03/05/2020
+
+1. [](#new)
+    * Added new `onUserActivated` event [#242](https://github.com/getgrav/grav-plugin-login/issues/242)
+    * Change session ID during login to prevent session fixation (requires Grav 1.7)
+1. [](#bugfix)
+    * Turn off extra debug messages [#244](https://github.com/getgrav/grav-plugin-login/issues/244)
+    * Fixed `groups` field not listing available user groups
+
+# 3.0.6
+## 02/11/2020
+
+1. [](#new)
+    * Pass phpstan level 1 tests
+    * Updated 2FA library to v1.7.0
+* [](#improved)
+    * Added some debugging messages (turned off by default)
+
+# 3.0.5
+## 01/02/2020
+
+1. [](#bugfix)
+    * Fixed bug in `Login::isUserAuthorizedForPage()` where rules is a list of permissions
+    * Fixed password reset link [#233](https://github.com/getgrav/grav-plugin-login/pulls/233)
+    * Fixed Typo [#236](https://github.com/getgrav/grav-plugin-login/pulls/236)
+
+# 3.0.4
+## 10/03/2019
+
+1. [](#bugfix)
+    * Fixed bad redirect after login on multi-language site [#217](https://github.com/getgrav/grav-plugin-login/issues/217)
+    * Fixed basic login not obeying `redirect_after_login` option
+    * Provide default `redirect_after_activation` option [#225](https://github.com/getgrav/grav-plugin-login/issues/225)
+
+# 3.0.3
+## 07/01/2019
+
+1. [](#bugfix)
+  * Fix for not redirecting to secure page after login [#199](https://github.com/getgrav/grav-plugin-login/issues/199)
+  * Fixed `bin/plugin login new-user` ACL when using Flex Users
+
 # 3.0.2
 ## 05/09/2019
 

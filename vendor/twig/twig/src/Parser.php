@@ -251,7 +251,7 @@ class Parser implements \Twig_ParserInterface
 
     public function peekBlockStack()
     {
-        return $this->blockStack[\count($this->blockStack) - 1];
+        return isset($this->blockStack[\count($this->blockStack) - 1]) ? $this->blockStack[\count($this->blockStack) - 1] : null;
     }
 
     public function popBlockStack()
@@ -299,7 +299,7 @@ class Parser implements \Twig_ParserInterface
             $this->reservedMacroNames = [];
             $r = new \ReflectionClass($this->env->getBaseTemplateClass());
             foreach ($r->getMethods() as $method) {
-                $methodName = strtolower($method->getName());
+                $methodName = strtr($method->getName(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz');
 
                 if ('get' === substr($methodName, 0, 3) && isset($methodName[3])) {
                     $this->reservedMacroNames[] = substr($methodName, 3);
@@ -307,7 +307,7 @@ class Parser implements \Twig_ParserInterface
             }
         }
 
-        return \in_array(strtolower($name), $this->reservedMacroNames);
+        return \in_array(strtr($name, 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), $this->reservedMacroNames);
     }
 
     public function addTrait($trait)
@@ -334,10 +334,18 @@ class Parser implements \Twig_ParserInterface
 
     public function getImportedSymbol($type, $alias)
     {
-        foreach ($this->importedSymbols as $functions) {
-            if (isset($functions[$type][$alias])) {
-                return $functions[$type][$alias];
+        if (null !== $this->peekBlockStack()) {
+            foreach ($this->importedSymbols as $functions) {
+                if (isset($functions[$type][$alias])) {
+                    if (\count($this->blockStack) > 1) {
+                        return null;
+                    }
+
+                    return $functions[$type][$alias];
+                }
             }
+        } else {
+            return isset($this->importedSymbols[0][$type][$alias]) ? $this->importedSymbols[0][$type][$alias] : null;
         }
     }
 

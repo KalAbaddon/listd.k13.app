@@ -3,6 +3,7 @@ namespace Grav\Plugin;
 
 use Composer\Autoload\ClassLoader;
 use Grav\Common\Data\ValidationException;
+use Grav\Common\Debugger;
 use Grav\Common\Filesystem\Folder;
 use Grav\Common\Grav;
 use Grav\Common\Page\Interfaces\PageInterface;
@@ -18,6 +19,7 @@ use Grav\Framework\Route\Route;
 use Grav\Plugin\Form\Form;
 use Grav\Plugin\Form\Forms;
 use ReCaptcha\ReCaptcha;
+use ReCaptcha\RequestMethod\CurlPost;
 use RocketTheme\Toolbox\File\JsonFile;
 use RocketTheme\Toolbox\File\YamlFile;
 use RocketTheme\Toolbox\File\File;
@@ -42,6 +44,9 @@ class FormPlugin extends Plugin
 
     /** @var array */
     protected $flat_forms = [];
+
+    /** @var array */
+    protected $active_forms = [];
 
     /** @var array */
     protected $json_response = [];
@@ -152,7 +157,7 @@ class FormPlugin extends Plugin
 
         // Force never_cache_twig if modular form (recursively up)
         $current = $page;
-        while ($current && $current->modular()) {
+        while ($current && $current->modularTwig()) {
             $header = $current->header();
             $header->never_cache_twig = true;
 
@@ -395,6 +400,9 @@ class FormPlugin extends Plugin
                 $ip = Uri::ip();
 
                 $recaptcha = new ReCaptcha($secret);
+                if(extension_loaded('curl')){
+                    $recaptcha = new ReCaptcha($secret, new CurlPost());
+                }
 
                 // get captcha version
                 $captcha_version = $captcha_config['version'] ?? 2;
@@ -422,7 +430,7 @@ class FormPlugin extends Plugin
                     foreach ($fields as $field) {
                         $type = $field['type'] ?? 'text';
                         $field_message = $field['recaptcha_not_validated'] ?? null;
-                        if ($type == 'captcha' && $field_message) {
+                        if ($type === 'captcha' && $field_message) {
                             $message =  $field_message;
                             break;
                         }
@@ -489,7 +497,9 @@ class FormPlugin extends Plugin
                 break;
             case 'reset':
                 if (Utils::isPositive($params)) {
+                    $message = $form->message;
                     $form->reset();
+                    $form->message = $message;
                 }
                 break;
             case 'display':
@@ -533,6 +543,7 @@ class FormPlugin extends Plugin
                 $postfix = $params['filepostfix'] ?? '';
                 $ext = !empty($params['extension']) ? '.' . trim($params['extension'], '.') : '.txt';
                 $filename = $params['filename'] ?? '';
+                $folder = !empty($params['folder']) ? $params['folder'] : $form->getName();
                 $operation = $params['operation'] ?? 'create';
 
                 if (!$filename) {
@@ -553,8 +564,8 @@ class FormPlugin extends Plugin
                 $filename = $twig->processString($filename, $vars);
 
                 $locator = $this->grav['locator'];
-                $path = $locator->findResource('user://data', true);
-                $dir = $path . DS . $form->getName();
+                $path = $locator->findResource('user-data://', true);
+                $dir = $path . DS . $folder;
                 $fullFileName = $dir. DS . $filename;
 
                 if (!empty($params['raw']) || !empty($params['template'])) {
@@ -701,10 +712,14 @@ class FormPlugin extends Plugin
      * Add a form to the forms plugin
      *
      * @param string|null $page_route
-     * @param FormInterface $form
+     * @param FormInterface|null $form
      */
-    public function addForm(?string $page_route, FormInterface $form)
+    public function addForm(?string $page_route, ?FormInterface $form)
     {
+        if (null === $form) {
+            return;
+        }
+
         $name = $form->getName();
 
         if (!isset($this->forms[$page_route][$name])) {
@@ -746,7 +761,7 @@ class FormPlugin extends Plugin
             if (!empty($this->forms[$page_route])) {
                 $forms = $this->forms[$page_route];
                 $first_form = reset($forms) ?: null;
-                $form_name = $first_form['name'] ?? null;
+                return $first_form;
             } else {
                 //No form on this route. Try looking up in the current page first
                 /** @var Forms $forms */
@@ -865,7 +880,23 @@ class FormPlugin extends Plugin
      */
     protected function getFormByName($form_name)
     {
-        return $this->flat_forms[$form_name] ?? null;
+        $form = $this->active_forms[$form_name] ?? null;
+        if (!$form) {
+            $form = $this->flat_forms[$form_name] ?? null;
+
+            if (!$form) {
+                return null;
+            }
+
+            // Reset form to change the cached unique id and to fire onFormInitialized event.
+            $form->setUniqueId('');
+            $form->reset();
+
+            // Register form to the active forms to get the same instance back next time.
+            $this->active_forms[$form_name] = $form;
+        }
+
+        return $form;
     }
 
     /**
@@ -1006,6 +1037,10 @@ class FormPlugin extends Plugin
         } catch (\Exception $e) {
             // Couldn't fetch cached forms.
             $forms = null;
+
+            /** @var Debugger $debugger */
+            $debugger = Grav::instance()['debugger'];
+            $debugger->addMessage(sprintf('Unserializing cached forms failed: %s', $e->getMessage()), 'error');
         }
 
         if (!\is_array($forms)) {

@@ -27,8 +27,9 @@ class Validation
         if (!isset($field['type'])) {
             $field['type'] = 'text';
         }
-        $type = $validate['type'] ?? $field['type'];
+
         $validate = (array)($field['validate'] ?? null);
+        $type = $validate['type'] ?? $field['type'];
         $required = $validate['required'] ?? false;
 
         // If value isn't required, we will stop validation if empty value is given.
@@ -165,9 +166,18 @@ class Validation
         return (string) $value;
     }
 
+    /**
+     * @param mixed $value
+     * @param array $params
+     * @param array $field
+     * @return string|null
+     */
     protected static function filterCheckbox($value, array $params, array $field)
     {
-        return (bool) $value;
+        $value = (string)$value;
+        $field_value = (string)($field['value'] ?? '1');
+
+        return $value === $field_value ? $value : null;
     }
 
     protected static function filterCommaList($value, array $params, array $field)
