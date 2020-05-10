@@ -1,4 +1,7 @@
 name: Form
+slug: form
+type: plugin
+version: 4.0.8
 version: 3.0.7
 testing: false
 description: Enables the forms handling

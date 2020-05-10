@@ -1,3 +1,116 @@
+# v4.0.8
+## 04/30/2020
+
+1. [](#bugfix)
+    * Fixed issue with `force_bool` in `toggle` field to be more robust
+
+# v4.0.7
+## 04/27/2020
+
+1. [](#new)
+    * Added ability to hide form fields in `data.html.twig` and `data.txt.twig` with `field.store: false`
+1. [](#improved)
+    * Updated node dependencies
+    * Added new `force_bool: true|false` option to `toggle` field to cast strings for use in BC situations
+1. [](#bugfix)
+    * Fix markdown links in changelog [#415](https://github.com/getgrav/grav-plugin-form/pull/415)
+
+# v4.0.6
+## 03/19/2020
+1. [](#new)
+    * CHANGE: Form labels are now displayed in `raw` format so you can use HTML in them
+    * Added support for `name` attribute on buttons [#411](https://github.com/getgrav/grav-plugin-form/issues/411)
+1. [](#improved)
+    * Added support for `classes` option in `avatar` field
+    * Recompiled JS with latest NPM libraries
+1. [](#bugfix)
+    * Fixed password field outputting the contents to HTML (will now always be empty when loading the page)
+    * Escape default output in `formdata.html.twig` [#384](https://github.com/getgrav/grav-plugin-form/issues/384)
+    * Better JS rendering of captcha field scripts for VueJS template compatibility
+
+# v4.0.5
+## 03/05/2020
+
+1. [](#bugfix)
+    * Fixed form actions that post to page anchors should not have current base_url added (e.g. `#contact-us`)
+    * Fixed toggleable buttons no longer holding false state [#406](https://github.com/getgrav/grav-plugin-form/issues/406)
+
+# v4.0.4
+## 02/25/2020
+
+1. [](#bugfix)
+    * Fix for `enctype` in multipart forms [#408](https://github.com/getgrav/grav-plugin-form/issues/408)
+
+# v4.0.3
+## 02/11/2020
+
+1. [](#new)
+    * Pass phpstan level 1 tests
+
+# v4.0.2
+## 02/03/2020
+
+1. [](#improved)
+    * Allow checkbox field to have custom value, default to 1
+1. [](#bugfix)
+    * Fixed `toggle` field not working with `toggleable: true`
+    * Fixed fatal error when form type is disabled
+
+# v4.0.1
+## 01/02/2020
+
+1. [](#improved)
+    * Improve Grav 1.7 support by not using deprecated `$page->modular()` call
+    * Use form scope if it is defined
+1. [](#bugfix)
+    * Fixed bad HTML in select, radio, key, toggle, checkbox ad textarea when using tabindex attribute
+    * Fixed bad looking `tabs` field with a single tab in admin
+
+# v4.0.0
+## 11/06/2019
+
+1. [](#new)
+    * Added `tabindex` to global attributes of default field
+    * Add ability to Sanitize SVGs on upload (Grav 1.7+ required)
+1. [](#improved)
+    * Deprecate `select_optgroup` as `select` can handle optgroups now
+    * Added missing tabindex checks
+    * Refactored field inheritance to make things more reliable
+    * Removed jQuery dependency for the reCaptcha field and VanillaJS-ified it instead
+    * Removed a stray `dump()` command
+    * Refactored the base `templates/forms/default` twig templates to make things more extensible
+    * Added a new `templates/forms/layouts` set of twit templates to allow for easier customization
+1. [](#bugfix)
+    * Fixed `Badly encoded JSON data` warning when uploading files [grav#2663](https://github.com/getgrav/grav/issues/2663)
+    * Fixed a number of escaping issues [#368](https://github.com/getgrav/grav-plugin-form/issues/368)
+
+# v3.0.9
+## 09/19/2019
+
+1. [](#improved)
+    * Removed jQuery dependency for the reCaptcha field and VanillaJS-ified it instead
+    * Updated to ReCaptcha library version `1.2.3`
+1. [](#bugfix)
+    * Fixed `Badly encoded JSON data` warning when uploading files [grav#2663](https://github.com/getgrav/grav/issues/2663)
+
+# v3.0.8
+## 08/14/2019
+
+1. [](#improved)
+    * Change form save action location to `user-data://` stream [#353](https://github.com/getgrav/grav-plugin-form/issues/353)
+    * Updated `eu`, `fr` and `pl` language
+    * Make `Form::initialize()` chainable
+    * Added `folder` option to `save:` action with fallback
+1. [](#bugfix)
+    * Fixed Submit & Redirect not working as expected [#355](https://github.com/getgrav/grav-plugin-form/issues/355)
+    * Fixed oversensitive refresh prevention [#354](https://github.com/getgrav/grav-plugin-form/issues/354)
+    * Fixed issue with Form JS when pipeline is enabled [grav#2592](https://github.com/getgrav/grav/issues/2592)
+    * Fixed `accept` for SVG in file field [#364](https://github.com/getgrav/grav-plugin-form/pull/364)
+    * Fixed issue with plugin not returning expected form [#309](https://github.com/getgrav/grav-plugin-form/pull/309)
+    * Fixed form message not showing up after reset process
+    * Fixed form fields inside a single tab not using value from the form object if it is available
+    * Fixed file form field failing resolution checks in certain circumstances
+
 # v3.0.7
 ## 07/01/2019
 
