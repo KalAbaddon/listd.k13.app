@@ -1,3 +1,31 @@
+=======
+
+# Hello Welcome to the GRAV CMS I configured to make checklist creation easy
+### To add a new checklist you can send me the critical info with paste bin or github ect...
+#### thats not to say I dont plan on adding more checklists my self and soon,  its just some people are good at repetive stuff and some are not. For example if I was cleaning I could strip and wax a floor all day long and be content,  but when typing and entering code, I just find it hard to do that repetive stuff like copy a line and paste it 60 times in a row. so help in that regard is most welcome!
+
+Here is an example of how to format the data for an A-10C checklist (it is incomplete since it is an example).  
+#### the spacing in the file is important.  It is a tab or 4 spaces forward to the -. and 2 tabs or 8 spaces forward to the Details: line.
+
+```
+checklist:
+    -   step: 1. Set EAC Switch
+        details: OFF
+    -   step: 2. Set RADAR Switch
+        details: ON
+    -   step: 3. Set VHF radio 1 channel presets 
+        details: Configure on VHF 1 Radio Panel (VHF AM). 
+---
+
+```
+
+
+## Just write out the checklist as in the above example and I can finish the formatting.
+### _remember all the checklists can just be copieded step for step, word for word from the documents in game for each module._
+
+
+Below here is the orignal readme.md info from the CMS I am using GRAV,  it is what is enabling me to add checklists with such minimal formating required.  if you are looking to get in to blogging or something like it I recommend using this,  it is a little bit of a learning curve but it is a really nice pice of kit!
+
 # ![](https://avatars1.githubusercontent.com/u/8237355?v=2&s=50) Grav
 
 [![PHPStan](https://img.shields.io/badge/PHPStan-enabled-brightgreen.svg?style=flat)](https://github.com/phpstan/phpstan)
