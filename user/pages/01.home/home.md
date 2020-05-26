@@ -18,6 +18,6 @@ content:
 pagination: true
 ---
 
-# Hey all,  It has been a while since I updated the site,  Because of this I need to take a bit of a heavy handed approach since I am not the best coder.  That said, the site will be up and down over the next week or so ( hopefully much less time, like a couple of hours, but...)
+## **Ok,  I have made some edits to the backend but it still shows some issues,  But the issues do not seem to effect the site with how I am using the Backend.  I am going to start uploading some more checklists. and see how it goes**
 
-## Anyways, I will try to get it done asap and hopefully it does not interrupt anyones checklist usage. Also I hopefully remmeber to take this down,  if not hit me up on github or reddit under user name "kalabaddon"
+## **Anyways, if there is any issues or you have some suggestions, hit me up on github or reddit under user name "kalabaddon"**
