@@ -1451,4 +1451,9 @@ return array(
     'Whoops\\Util\\Misc' => $vendorDir . '/filp/whoops/src/Whoops/Util/Misc.php',
     'Whoops\\Util\\SystemFacade' => $vendorDir . '/filp/whoops/src/Whoops/Util/SystemFacade.php',
     'Whoops\\Util\\TemplateHelper' => $vendorDir . '/filp/whoops/src/Whoops/Util/TemplateHelper.php',
+    'donatj\\UserAgent\\Browsers' => $vendorDir . '/donatj/phpuseragentparser/src/UserAgent/Browsers.php',
+    'donatj\\UserAgent\\Platforms' => $vendorDir . '/donatj/phpuseragentparser/src/UserAgent/Platforms.php',
+    'donatj\\UserAgent\\UserAgent' => $vendorDir . '/donatj/phpuseragentparser/src/UserAgent/UserAgent.php',
+    'donatj\\UserAgent\\UserAgentInterface' => $vendorDir . '/donatj/phpuseragentparser/src/UserAgent/UserAgentInterface.php',
+    'donatj\\UserAgent\\UserAgentParser' => $vendorDir . '/donatj/phpuseragentparser/src/UserAgent/UserAgentParser.php',
 );

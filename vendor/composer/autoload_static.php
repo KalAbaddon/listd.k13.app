@@ -4,7 +4,7 @@
 
 namespace Composer\Autoload;
 
-class ComposerStaticInit1f08087345bdedd787b7a8a7b6f4d8f1
+class ComposerStaticInitfb45af02b11b43c63d4bb167090ceaa4
 {
     public static $files = array (
         '0e6d7bf4a5811bfa5cf40c5ccd6fae6a' => __DIR__ . '/..' . '/symfony/polyfill-mbstring/bootstrap.php',
@@ -21,6 +21,10 @@ class ComposerStaticInit1f08087345bdedd787b7a8a7b6f4d8f1
     );
 
     public static $prefixLengthsPsr4 = array (
+        'd' => 
+        array (
+            'donatj\\UserAgent\\' => 17,
+        ),
         'W' => 
         array (
             'Whoops\\' => 7,
@@ -105,6 +109,10 @@ class ComposerStaticInit1f08087345bdedd787b7a8a7b6f4d8f1
     );
 
     public static $prefixDirsPsr4 = array (
+        'donatj\\UserAgent\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/donatj/phpuseragentparser/src/UserAgent',
+        ),
         'Whoops\\' => 
         array (
             0 => __DIR__ . '/..' . '/filp/whoops/src/Whoops',
@@ -1771,16 +1779,21 @@ class ComposerStaticInit1f08087345bdedd787b7a8a7b6f4d8f1
         'Whoops\\Util\\Misc' => __DIR__ . '/..' . '/filp/whoops/src/Whoops/Util/Misc.php',
         'Whoops\\Util\\SystemFacade' => __DIR__ . '/..' . '/filp/whoops/src/Whoops/Util/SystemFacade.php',
         'Whoops\\Util\\TemplateHelper' => __DIR__ . '/..' . '/filp/whoops/src/Whoops/Util/TemplateHelper.php',
+        'donatj\\UserAgent\\Browsers' => __DIR__ . '/..' . '/donatj/phpuseragentparser/src/UserAgent/Browsers.php',
+        'donatj\\UserAgent\\Platforms' => __DIR__ . '/..' . '/donatj/phpuseragentparser/src/UserAgent/Platforms.php',
+        'donatj\\UserAgent\\UserAgent' => __DIR__ . '/..' . '/donatj/phpuseragentparser/src/UserAgent/UserAgent.php',
+        'donatj\\UserAgent\\UserAgentInterface' => __DIR__ . '/..' . '/donatj/phpuseragentparser/src/UserAgent/UserAgentInterface.php',
+        'donatj\\UserAgent\\UserAgentParser' => __DIR__ . '/..' . '/donatj/phpuseragentparser/src/UserAgent/UserAgentParser.php',
     );
 
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-            $loader->prefixLengthsPsr4 = ComposerStaticInit1f08087345bdedd787b7a8a7b6f4d8f1::$prefixLengthsPsr4;
-            $loader->prefixDirsPsr4 = ComposerStaticInit1f08087345bdedd787b7a8a7b6f4d8f1::$prefixDirsPsr4;
-            $loader->fallbackDirsPsr4 = ComposerStaticInit1f08087345bdedd787b7a8a7b6f4d8f1::$fallbackDirsPsr4;
-            $loader->prefixesPsr0 = ComposerStaticInit1f08087345bdedd787b7a8a7b6f4d8f1::$prefixesPsr0;
-            $loader->classMap = ComposerStaticInit1f08087345bdedd787b7a8a7b6f4d8f1::$classMap;
+            $loader->prefixLengthsPsr4 = ComposerStaticInitfb45af02b11b43c63d4bb167090ceaa4::$prefixLengthsPsr4;
+            $loader->prefixDirsPsr4 = ComposerStaticInitfb45af02b11b43c63d4bb167090ceaa4::$prefixDirsPsr4;
+            $loader->fallbackDirsPsr4 = ComposerStaticInitfb45af02b11b43c63d4bb167090ceaa4::$fallbackDirsPsr4;
+            $loader->prefixesPsr0 = ComposerStaticInitfb45af02b11b43c63d4bb167090ceaa4::$prefixesPsr0;
+            $loader->classMap = ComposerStaticInitfb45af02b11b43c63d4bb167090ceaa4::$classMap;
 
         }, null, ClassLoader::class);
     }
