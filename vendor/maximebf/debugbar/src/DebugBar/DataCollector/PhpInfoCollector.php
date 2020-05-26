@@ -29,7 +29,7 @@ class PhpInfoCollector extends DataCollector implements Renderable
     public function collect()
     {
         return array(
-            'version' => implode('.', [PHP_MAJOR_VERSION, PHP_MINOR_VERSION, PHP_RELEASE_VERSION]),
+            'version' => PHP_VERSION,
             'interface' => PHP_SAPI
         );
     }

@@ -9,8 +9,6 @@ return array(
     'Twig_' => array($vendorDir . '/twig/twig/lib'),
     'Pimple' => array($vendorDir . '/pimple/pimple/src'),
     'PHPExif' => array($vendorDir . '/miljar/php-exif/lib'),
-    'PHPDocsMD' => array($vendorDir . '/victorjonsson/markdowndocs/src'),
     'Gregwar\\Image' => array($vendorDir . '/gregwar/image'),
     'Gregwar\\Cache' => array($vendorDir . '/gregwar/cache'),
-    'Behat\\Gherkin' => array($vendorDir . '/behat/gherkin/src'),
 );

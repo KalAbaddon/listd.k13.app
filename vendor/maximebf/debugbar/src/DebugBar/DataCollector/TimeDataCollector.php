@@ -134,7 +134,6 @@ class TimeDataCollector extends DataCollector implements Renderable
      * @param string $label
      * @param \Closure $closure
      * @param string|null $collector
-     * @return mixed
      */
     public function measure($label, \Closure $closure, $collector = null)
     {
@@ -143,7 +142,6 @@ class TimeDataCollector extends DataCollector implements Renderable
         $result = $closure();
         $params = is_array($result) ? $result : array();
         $this->stopMeasure($name, $params);
-        return $result;
     }
 
     /**
